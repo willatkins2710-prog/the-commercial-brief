@@ -1,0 +1,239 @@
+{
+  "updated_at": "2026-10-16T06:20:00+01:00",
+  "price_updated_at": "2026-10-06T12:00:00+01:00",
+  "note": "Initial dated sample; scheduled action refreshes source feeds. Monthly commodity benchmarks are not supplier costs.",
+  "articles": [
+    {
+      "id": "initial-1",
+      "section": "supermarkets",
+      "region": "UK",
+      "published": "2026-10-13T12:00:00+01:00",
+      "source": "The Guardian",
+      "title": "UK grocery price inflation rises again as shoppers seek out deals",
+      "url": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
+      "description": "Grocery inflation reportedly rose to 2.5% in the four weeks to 4 October as shoppers sought promotions."
+    },
+    {
+      "id": "initial-2",
+      "section": "supermarkets",
+      "region": "Global",
+      "published": "2026-10-16T12:00:00+01:00",
+      "source": "Business Insider",
+      "title": "US food manufacturers warn that rising fuel and freight costs could affect grocery prices",
+      "url": "https://www.businessinsider.com/groceries-get-more-expensive-iran-conflict-fuel-costs-2026-10",
+      "description": "US food producers face pressure from freight, energy, packaging and agricultural inputs."
+    },
+    {
+      "id": "initial-3",
+      "section": "ai",
+      "region": "UK",
+      "published": "2026-10-14T12:00:00+01:00",
+      "source": "WIRED",
+      "title": "OpenAI and Anthropic representatives back binding UK AI safety rules",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
+      "description": "AI company representatives discussed proposed statutory oversight with UK lawmakers."
+    },
+    {
+      "id": "initial-4",
+      "section": "ai",
+      "region": "Global",
+      "published": "2026-10-16T12:00:00+01:00",
+      "source": "Financial Times",
+      "title": "Wall Street questions financing and returns behind the AI boom",
+      "url": "https://www.ft.com/content/6a1ecb1a-a998-4cbb-be54-22df550a66ee",
+      "description": "Investors are reviewing the return assumptions behind large AI infrastructure investments."
+    },
+    {
+      "id": "initial-5",
+      "section": "ai",
+      "region": "UK",
+      "published": "2026-10-15T12:00:00+01:00",
+      "source": "The Guardian",
+      "title": "Why the UK is being urged to strengthen its digital sovereignty",
+      "url": "https://www.theguardian.com/technology/2026/oct/15/the-uk-must-have-digital-sovereignty",
+      "description": "Commentary raises concerns about overseas platform reliance and data interoperability."
+    },
+    {
+      "id": "initial-6",
+      "section": "economy",
+      "region": "UK",
+      "published": "2026-10-15T12:00:00+01:00",
+      "source": "Reuters",
+      "title": "UK GDP grows 0.1% in August, beating economists' forecasts",
+      "url": "https://www.reuters.com/world/uk/uk-economy-beats-forecasts-grow-by-01-august-2026-10-15/",
+      "description": "UK economic growth in August reportedly outperformed forecasts."
+    },
+    {
+      "id": "initial-7",
+      "section": "economy",
+      "region": "Global",
+      "published": "2026-10-15T12:00:00+01:00",
+      "source": "Reuters",
+      "title": "US producer-price inflation records its biggest monthly rise in over four years",
+      "url": "https://www.reuters.com/business/us-producer-prices-post-largest-increase-4-12-years-september-2026-10-15/",
+      "description": "Higher energy and transport costs contributed to producer price inflation."
+    },
+    {
+      "id": "initial-8",
+      "section": "retail",
+      "region": "UK",
+      "published": "2026-10-13T12:00:00+01:00",
+      "source": "The Guardian",
+      "title": "Promotional spending climbs as UK shoppers face renewed grocery inflation",
+      "url": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
+      "description": "Shoppers appear increasingly focused on deals as household budget pressure persists."
+    },
+    {
+      "id": "initial-9",
+      "section": "retail",
+      "region": "Global",
+      "published": "2026-10-16T12:00:00+01:00",
+      "source": "Business Insider",
+      "title": "Higher fuel costs threaten recent stability in US grocery prices",
+      "url": "https://www.businessinsider.com/groceries-get-more-expensive-iran-conflict-fuel-costs-2026-10",
+      "description": "Oil-related cost increases could affect freight and food manufacturing."
+    },
+    {
+      "id": "initial-10",
+      "section": "finance",
+      "region": "UK",
+      "published": "2026-10-15T12:00:00+01:00",
+      "source": "Financial Times",
+      "title": "FCA outlines plans to use AI more widely in financial supervision",
+      "url": "https://www.ft.com/content/3a9364ec-6930-4877-a1a2-c053dd689760",
+      "description": "The UK financial regulator is assessing AI-assisted oversight and enforcement."
+    },
+    {
+      "id": "initial-11",
+      "section": "finance",
+      "region": "Global",
+      "published": "2026-10-15T12:00:00+01:00",
+      "source": "The Guardian",
+      "title": "Tech-stock volatility rises as US wholesale inflation jumps",
+      "url": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
+      "description": "AI-linked shares face volatility as inflation and borrowing costs concern investors."
+    },
+    {
+      "id": "initial-12",
+      "section": "food",
+      "region": "UK",
+      "published": "2026-10-09T12:00:00+01:00",
+      "source": "AHDB",
+      "title": "GB cattle prices rise for a fourth consecutive week",
+      "url": "https://mainsitelive.azurewebsites.net/news/weekly-cattle-and-sheep-market-wrap",
+      "description": "AHDB cattle market commentary reports another weekly increase in deadweight prices."
+    },
+    {
+      "id": "initial-13",
+      "section": "food",
+      "region": "Global",
+      "published": "2026-10-06T12:00:00+01:00",
+      "source": "World Bank",
+      "title": "World food commodity benchmark index rises in September",
+      "url": "https://blogs.worldbank.org/en/opendata/energy-prices-surged-in-september--non-energy-prices-edged-up-pi",
+      "description": "World Bank benchmark commodity reporting describes rising food and energy costs."
+    },
+    {
+      "id": "initial-14",
+      "section": "energy",
+      "region": "UK",
+      "published": "2026-10-08T12:00:00+01:00",
+      "source": "Reuters",
+      "title": "Maersk raises UK and Ireland inland emergency fuel surcharge",
+      "url": "https://www.reuters.com/business/energy/shipping-group-maersk-raises-emergency-fuel-surcharge-due-middle-east-conflict-2026-10-08/",
+      "description": "Higher oil costs are affecting certain freight and inland transport charges."
+    },
+    {
+      "id": "initial-15",
+      "section": "energy",
+      "region": "Global",
+      "published": "2026-10-06T12:00:00+01:00",
+      "source": "World Bank",
+      "title": "World Bank says energy commodity prices surged in September",
+      "url": "https://blogs.worldbank.org/en/opendata/energy-prices-surged-in-september--non-energy-prices-edged-up-pi",
+      "description": "International oil and gas benchmarks rose sharply during September."
+    },
+    {
+      "id": "initial-16",
+      "section": "supply",
+      "region": "UK",
+      "published": "2026-10-08T12:00:00+01:00",
+      "source": "Reuters",
+      "title": "Fuel shock increases the surcharge on certain UK and Ireland inland logistics",
+      "url": "https://www.reuters.com/business/energy/shipping-group-maersk-raises-emergency-fuel-surcharge-due-middle-east-conflict-2026-10-08/",
+      "description": "Rising fuel costs may flow through to distribution and freight invoices."
+    },
+    {
+      "id": "initial-17",
+      "section": "supply",
+      "region": "Global",
+      "published": "2026-10-13T12:00:00+01:00",
+      "source": "Reuters",
+      "title": "Freight rates on Russian oil shipments to India reach new October highs",
+      "url": "https://www.reuters.com/business/energy/freight-rates-russian-urals-oil-shipments-india-hit-fresh-records-early-october-2026-10-13/",
+      "description": "Tanker freight costs have increased on key trade routes."
+    },
+    {
+      "id": "initial-18",
+      "section": "commodities",
+      "region": "UK",
+      "published": "2026-10-09T12:00:00+01:00",
+      "source": "AHDB",
+      "title": "AHDB beef market wrap: British deadweight cattle prices continue climbing",
+      "url": "https://mainsitelive.azurewebsites.net/news/weekly-cattle-and-sheep-market-wrap",
+      "description": "UK cattle market movements may affect meat input costs depending on contract timing."
+    },
+    {
+      "id": "initial-19",
+      "section": "commodities",
+      "region": "Global",
+      "published": "2026-10-06T12:00:00+01:00",
+      "source": "World Bank",
+      "title": "Crude oil and gas drive sharp September rise in international commodity prices",
+      "url": "https://blogs.worldbank.org/en/opendata/energy-prices-surged-in-september--non-energy-prices-edged-up-pi",
+      "description": "The World Bank commodity review reports higher oil and gas benchmarks."
+    }
+  ],
+  "prices": {
+    "oil": {
+      "latest": 116.8,
+      "mom": 28.5,
+      "yoy": 71.8,
+      "date": "Sep 2026",
+      "source": "World Bank Pink Sheet Brent",
+      "unit": "$/bbl"
+    },
+    "beef": {
+      "latest": 635,
+      "mom": null,
+      "yoy": null,
+      "date": "Week ending 3 Oct 2026",
+      "source": "AHDB GB all-prime deadweight cattle",
+      "unit": "p/kg"
+    },
+    "wheat": {
+      "latest": 347,
+      "mom": 5.2,
+      "yoy": 48.4,
+      "date": "Sep 2026",
+      "source": "World Bank Pink Sheet wheat",
+      "unit": "$/mt"
+    },
+    "cocoa": {
+      "latest": 5.92,
+      "mom": -0.5,
+      "yoy": -15.8,
+      "date": "Sep 2026",
+      "source": "World Bank Pink Sheet cocoa",
+      "unit": "$/kg"
+    },
+    "gas": {
+      "latest": 25.42,
+      "mom": 20.4,
+      "yoy": 128.6,
+      "date": "Sep 2026",
+      "source": "World Bank Pink Sheet European gas",
+      "unit": "$/mmbtu"
+    }
+  }
+}
