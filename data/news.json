@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T04:40:55.772525+00:00",
-  "price_updated_at": "2026-10-17T04:40:55.772525+00:00",
+  "updated_at": "2026-10-17T08:40:26.869458+00:00",
+  "price_updated_at": "2026-10-17T08:40:26.869458+00:00",
   "articles": [
     {
       "id": "96b4a49fba522590",
@@ -113,26 +113,6 @@
       "published": "2026-10-16T14:20:00+00:00"
     },
     {
-      "id": "5c6b800c8fe961f1",
-      "title": "£250 Lidl home power banks to be sold in UK to cut your energy bills",
-      "description": "£250 Lidl home power banks to be sold in UK to cut your energy bills The i Paper",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKdnVvUXpvWWZrSGZmMm9DRlVBZ19mZmtxOENUSzA5cHdMRnJaM3ljN3lZR1NqamNmTTB4b3lwMEMzZHpBWW1KMFdral9CbVo0dnpPQzVlQXU0WnQyRktKT0pIaVA4ZUZfOWtnbmJmRWw2Rkl2QmhxaE5tQQ?oc=5",
-      "source": "The i Paper",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-10-16T14:00:00+00:00"
-    },
-    {
-      "id": "ea19db43d0daba20",
-      "title": "European Shares Extend Gains as Corporate Earnings Strengthen and Bond Yields Ease: DAX, CAC, FTSE100",
-      "description": "European Shares Extend Gains as Corporate Earnings Strengthen and Bond Yields Ease: DAX, CAC, FTSE100 Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0tZd2FtdXRaMldMMVhqdnJvRlhFNnlGb3F0SXNuZFVwdFFrWXQtbHNHTjdXSnVGa2J5b2lvZXUxSXpaa1NqYkhEcTROZjB1N3BsZHViZTFHand3RHRGRXZVSGxUbGdoMlJTV3FoVDRENjFMOXkwXzZKRGE0dkQtbEpHTTBQREI3NlUxcTRVSG0?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-16T13:10:03+00:00"
-    },
-    {
       "id": "0741b43d38d00bf2",
       "title": "UK beef, lamb, pork and dairy production to fall in 2027 as sector squeezed",
       "description": "UK beef, lamb, pork and dairy production to fall in 2027 as sector squeezed Food Manufacture",
@@ -151,16 +131,6 @@
       "region": "Global",
       "section": "retail",
       "published": "2026-10-16T12:45:00+00:00"
-    },
-    {
-      "id": "08206f86f1d63e3d",
-      "title": "Earnings call transcript: Ujjivan Small Finance Bank posts record q2 FY2027 profit",
-      "description": "Earnings call transcript: Ujjivan Small Finance Bank posts record q2 FY2027 profit Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVU10WWh4UGVWN1FMc29vellvMXNlaTFTOFRjOV9vMnFGRi1SUWNMMHFIRE51dXprbWIzQnUwaUx0ajJCdmVUbkU1d0RVajZrMWRXTkVmckx4SjV3TnVTVE8yT294aGFmZUpRczFETGVVWTFGN0ZVT2wteEVaamhhWWdIRnFXUzNMS0hySDNHR3dnUmpGRFRoUVRMelh5czN2d21fV09BMWtBSGVKSnRXOWYxNlQyVnppOTBlYm1iZWRmM2JMaEVHczVVSDItcnBveWtNZlVXTGRHdw?oc=5",
-      "source": "Investing.com UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-16T12:44:00+00:00"
     },
     {
       "id": "f88682a87271bc56",
@@ -273,6 +243,16 @@
       "published": "2026-10-16T08:05:54+00:00"
     },
     {
+      "id": "b05001aa0ad7905c",
+      "title": "Global protein supply faces risks from imported feed and fertilizer dependence",
+      "description": "Global protein supply faces risks from imported feed and fertilizer dependence Food Ingredients First",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkRBa2JkZERmOXZydThrSGtHUHAzZHpfUTNpMjJ6cWVCWmJ0a3VKakJlZkRQQ0xGb01qanZLZ050ZHV4M3BZR3p1WExlS2FuM1NfeVpSeVpia3NpdEhSQkROOG54ZzY5SzVRUko2U05qem5aYWh2cEx4dnFfZ3dmWnlfa2NjOGN3TElzcEln?oc=5",
+      "source": "Food Ingredients First",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-10-16T07:45:25+00:00"
+    },
+    {
       "id": "8dce603ee8271cd6",
       "title": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn",
       "description": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn Money Marketing",
@@ -311,6 +291,16 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-16T04:37:24+00:00"
+    },
+    {
+      "id": "a1996f880969d753",
+      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
+      "description": "Fed's Warsh withholds rate signal, praises recent global tightening CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+      "source": "CNBC",
+      "region": "Global",
+      "section": "economy",
+      "published": "2026-10-16T04:08:27+00:00"
     },
     {
       "id": "379a316049097311",
@@ -443,6 +433,16 @@
       "published": "2026-10-15T19:01:50+00:00"
     },
     {
+      "id": "a1a115d846388ab8",
+      "title": "Cybercrime at the Ports; Manufacturing Momentum Broadens; The Forces Reshaping Logistics & More Supply Chain News",
+      "description": "Cybercrime at the Ports; Manufacturing Momentum Broadens; The Forces Reshaping Logistics & More Supply Chain News Inbound Logistics",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNERNcmpjVGt2V1dFOW1aajFKOU5uREtoaFA1UEFDSFd4N1dsa3NkbG5qcjVhdU1HNkZfZFhTUkhZcEhwUmJNMTRxN1hKc241M2QtdFZMLXRCcjh3cVlESFJZNmJYcjVWTTg4bW1Kb1Q1aEV0ck0yX19sZGRCWEJ6UmxsY2VzZXByc2NURHZ2ZERNbERYc3VnUm5Rc1pqc01aU1dvS0pB?oc=5",
+      "source": "Inbound Logistics",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-15T18:23:35+00:00"
+    },
+    {
       "id": "6a56f1ae77f5614a",
       "title": "TikTok Shop Highlights Discovery E-Commerce Surge in Mexico",
       "description": "TikTok Shop Highlights Discovery E-Commerce Surge in Mexico Mexico Business News",
@@ -491,6 +491,16 @@
       "region": "Global",
       "section": "supermarkets",
       "published": "2026-10-15T15:56:00+00:00"
+    },
+    {
+      "id": "f4e0d023061e905f",
+      "title": "Midday Markets: Is the UK economy ‘back’?",
+      "description": "Midday Markets: Is the UK economy ‘back’? City AM",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iM0s2RVZLRXlrQ1l0YUFPN0wtMXpFbDhtMnBrVTZ4OFEydDE1azBSVVJlak96cm5Fb3Z2ZjBGUlBFQU91aWw3UXpwT29vUnNMUW9VWmZ3Q3RySmpCTXdmNHBaWGFQbkYyTk9kM2Nn?oc=5",
+      "source": "City AM",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-10-15T15:48:10+00:00"
     },
     {
       "id": "7bf756b3c4351c74",
@@ -553,24 +563,24 @@
       "published": "2026-10-15T13:57:06+00:00"
     },
     {
-      "id": "f4e0d023061e905f",
-      "title": "Midday Markets: Is the UK economy ‘back’?",
-      "description": "Midday Markets: Is the UK economy ‘back’? City AM",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iM0s2RVZLRXlrQ1l0YUFPN0wtMXpFbDhtMnBrVTZ4OFEydDE1azBSVVJlak96cm5Fb3Z2ZjBGUlBFQU91aWw3UXpwT29vUnNMUW9VWmZ3Q3RySmpCTXdmNHBaWGFQbkYyTk9kM2Nn?oc=5",
-      "source": "City AM",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-10-15T12:11:59+00:00"
+      "id": "fc3a210af0082130",
+      "title": "Goods Inflation: No Longer Smooth Sailing",
+      "description": "Goods Inflation: No Longer Smooth Sailing TD Economics",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XLXlvSTFzVjRlOVgybGZfdkJUMDMyc2hneGpCYUh6czhtWlQ1MHczWlhDY3NzckxadldHVTdKOFptOGZZcWNqQ1IyQUNDTWtDOENCVzNn?oc=5",
+      "source": "TD Economics",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-15T12:57:42+00:00"
     },
     {
-      "id": "969335d7de929d0f",
-      "title": "AI: Europe’s 10 most-funded companies in H1 2026",
-      "description": "AI: Europe’s 10 most-funded companies in H1 2026 Tech.eu",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWmFwQjIyQVZTaVZNc2NLQk5ielUzMVE2TlU2eXFqeGhIa3F5bXcwcWw4cnFRUFFPay1mS0p5VFQwcHFEVHYtTE1tWHZRTjdpaXNNVWd2dE16Q09vQTNUYk5fVENONEpGOTJCSXZ4Z19KWEZWcy1NNDdaSzhPMzA?oc=5",
-      "source": "Tech.eu",
+      "id": "779ff989647c7bd8",
+      "title": "Surprise GDP growth as UK economy stronger than first thought",
+      "description": "Surprise GDP growth as UK economy stronger than first thought Sky News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEhxOWstTkh4ZjJqczlpcDlJNkhHYUZrbVgwdlFKQ0ZNdWYyZEVRbUZidnNkQXRKNW9faEhBQXVtT1BrN05qZnRKWGw5SDBPSFFEMUFHMjVwcHczT1JfZ1VjNmtMYkNmN3lqd21FMlRBVk1LSlM3UGF1S3hCVDJEMjR2UTZUUFllM3ZsY1N3bEdyOTZPRkItbElCeGJ6QQ?oc=5",
+      "source": "Sky News",
       "region": "UK",
-      "section": "ai",
-      "published": "2026-10-15T12:01:02+00:00"
+      "section": "economy",
+      "published": "2026-10-15T12:20:56+00:00"
     },
     {
       "id": "d1904b1b993daab1",
@@ -591,16 +601,6 @@
       "region": "Global",
       "section": "supermarkets",
       "published": "2026-10-15T11:06:05+00:00"
-    },
-    {
-      "id": "26839b01f7db56ba",
-      "title": "Pound Rises Against Dollar as UK GDP Unexpectedly Increases",
-      "description": "Pound Rises Against Dollar as UK GDP Unexpectedly Increases Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFZ1RTFudHhGT05vMmVQcHY1NDVMWm9XeXBxNTJWZUdRYVQteUJZaVJlNmk3QkRoa0E2QVo2anpDSnFubFYwdFZvNE1oVFBTeDdHUHFoZ1hiSVFidkxpQl9EaTZRVV9PaFFnTDh1cGtzRU5EMTNDem9aLUZQOGViRFBiWHQ2Z2RPd0loTk5IZjdDNEUtQXNaRGl1ME5OWXlEZ2c?oc=5",
-      "source": "Global Banking & Finance Review",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-10-15T11:02:21+00:00"
     },
     {
       "id": "056e5239bc3e10eb",
@@ -643,16 +643,6 @@
       "published": "2026-10-15T10:24:48+00:00"
     },
     {
-      "id": "3b8df359715d3cad",
-      "title": "WHITAKER’S WEEKLY: Government must protect value for consumers",
-      "description": "WHITAKER’S WEEKLY: Government must protect value for consumers Professional Jeweller",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJX0xqWnJLQnJuQ19jNnF0RHlKdnd2VGJVZlVLeDRqOHpIUnY3bGxLcDkySHBnWGRLRXlEYmxzRlkzSVhSQXlYeldWWmt1Z2N0cmVoVndMaWFmVElYWXJRNzhvQjAzY0dGaDdBenVHaGlOcXoxczFYbHhkalc?oc=5",
-      "source": "Professional Jeweller",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-10-15T09:26:02+00:00"
-    },
-    {
       "id": "60d42dd65a76195c",
       "title": "Get Ready for Grocery Prices to Get Even More Painful",
       "description": "Get Ready for Grocery Prices to Get Even More Painful Business Insider",
@@ -680,7 +670,7 @@
       "source": "Financial Times",
       "region": "UK",
       "section": "economy",
-      "published": "2026-10-15T08:52:34+00:00"
+      "published": "2026-10-15T08:34:17+00:00"
     },
     {
       "id": "021a62d4ba6506cc",
@@ -793,6 +783,16 @@
       "published": "2026-10-15T04:56:58+00:00"
     },
     {
+      "id": "4b0221ef86252c60",
+      "title": "The Goldman Sachs Group, Inc. (GS) stock price, news, quote and history",
+      "description": "The Goldman Sachs Group, Inc. (GS) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1uY3Nxb0pSMU1YbmlvUklSX2k0U1pqTExHQTQ0bjhpTGhGWUZ2bW5LLTE0Qlo5a1kyakdNbkVfYU5tWEthMWJHNXM1STdPUXc?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-15T04:24:24+00:00"
+    },
+    {
       "id": "df49d19e8e88bf46",
       "title": "Morrisons taps Logile to enhance store planning across supermarket, convenience, logistics sites",
       "description": "Morrisons taps Logile to enhance store planning across supermarket, convenience, logistics sites Retail Technology Innovation Hub",
@@ -841,16 +841,6 @@
       "region": "UK",
       "section": "supply",
       "published": "2026-10-15T01:23:00+00:00"
-    },
-    {
-      "id": "2cbe703961f8ffd4",
-      "title": "Kuai Kuai Enters Mexico as Asian Retail Brands Expand",
-      "description": "Kuai Kuai Enters Mexico as Asian Retail Brands Expand Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUtHZ0RCVDJLYV9QdElfQWRtWEhwMC1YUjNLVHhwVHBfVFhJNGNjS2RQNmNjUWZwRUktTFpVcktmVTRta2RnMzJXdU5pbEN1aUlNWGNOUEI4SzY4ZG84MTVmUmdBYXFhS0RQZUlHVmJJSE1ZNUJ5VlJFR3UwM21zU1JfamlkLWVBOGlmUTZhN282aG9na2g2eg?oc=5",
-      "source": "Mexico Business News",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-14T20:06:53+00:00"
     },
     {
       "id": "7d1855424c965a90",
@@ -921,16 +911,6 @@
       "region": "UK",
       "section": "energy",
       "published": "2026-10-14T15:43:06+00:00"
-    },
-    {
-      "id": "d33c8aa9b9c57f0a",
-      "title": "Europe’s food system faces growing climate and supply chain risks",
-      "description": "Europe’s food system faces growing climate and supply chain risks Food Ingredients First",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWZDWjhHVDhzR0tPZGFnemNiMVJJSVNlTDhmVTBNaFFJYTAybkROMmlvY0dMd2dyYndWb011SmhSZzJtRFk3djRtcUFCbmNsUFExVU9YQUNUOU11cjVWNWVUQXMxUFpwNUx1cXNXWkFaVFpmMDVYT0VUWExFeFFSNUJGNmZWZG1vVEg4MThn?oc=5",
-      "source": "Food Ingredients First",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-10-14T15:09:35+00:00"
     },
     {
       "id": "0b8d9023e16a2e9a",
@@ -1013,16 +993,6 @@
       "published": "2026-10-14T11:52:08+00:00"
     },
     {
-      "id": "5247e8dc2211062d",
-      "title": "Bank of America (NYSE:BAC) Misses Q3 2026 Revenue Estimates",
-      "description": "Bank of America (NYSE:BAC) Misses Q3 2026 Revenue Estimates StockStory",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDRQaTJhZWZ4dFlEd0tWNWRoaWN4N2lPNEFBZ0NITnR4eXMxQmU5UGp4T1JvWUhCcjJFdDFmZGdsM1lxcHo1aWhWYXR3UDBlUVhTeHllcXJHamFkRllKRkhlSV9yN2I4YldfbjlkQ1pZZk84QkJWMGlsVWpha3UwT3lfcWVQOFVNRW1aNFdjcUc1aU5yVUdNUVVMUXF6TWNXcUdsYmxYMkc1Ri05djBwVTdn?oc=5",
-      "source": "StockStory",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-14T11:36:54+00:00"
-    },
-    {
       "id": "9bbdffe38640fc0b",
       "title": "Bioactive Ingredients And Product Market Size | CAGR of 8.0%",
       "description": "Bioactive Ingredients And Product Market Size | CAGR of 8.0% Market.us",
@@ -1093,16 +1063,6 @@
       "published": "2026-10-14T09:57:57+00:00"
     },
     {
-      "id": "0441c2d6a4f7720c",
-      "title": "Culina brings industry-leading expertise together under one brand",
-      "description": "Culina brings industry-leading expertise together under one brand Retail Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYWZLWGdFcTFlMnRtY1E0ZWpXQ096RnZzN0NpSGxIaE9McU9GY0pyUDFnaEdwNG9EajJMbFBSbGVERkFCVURqMURCcko0VW9QZlBoWUVfX3VxbzJGVE9QdHh2SVZxamoxT0xMYW5GYm1BRWp6Q0VBTWd3b0dyazBpTkF2bjZuUjF3UHBkTkgxTndZYnNFaHJv?oc=5",
-      "source": "Retail Times",
-      "region": "UK",
-      "section": "supply",
-      "published": "2026-10-14T09:26:49+00:00"
-    },
-    {
       "id": "8cb2f4f95466ac3a",
       "title": "IEEFA: Rising LNG costs strengthen the case for Vietnam to prioritise domestic renewables for energy security",
       "description": "IEEFA: Rising LNG costs strengthen the case for Vietnam to prioritise domestic renewables for energy security Energy Global",
@@ -1163,6 +1123,16 @@
       "published": "2026-10-14T08:00:00+00:00"
     },
     {
+      "id": "d3ac7095ff68b6f9",
+      "title": "NVIDIA expands investment in French AI start-ups and technology ecosystem",
+      "description": "NVIDIA expands investment in French AI start-ups and technology ecosystem New Electronics",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVltX1hwdmZnbjdZNWdqRTRpU2l2SjJRRzg1dDdtcVVRTjdhNTNRdE9DdDgySzRTZDFramJma1RlZ0RyUkhvQVBydFVBUmNiOWRGSU5xbmxjTWNtOVpfTkFuMEg4ZnE4aGZYUnpHNGUwa01VUXR6a1drRURsUGlGeFY3d1ZsXzNhSjlITHU5VWxhSTluWG40eGFoa08wcERidFVrU3l0YmRaUTJzYklTWGZFRXBhWDluZE5r?oc=5",
+      "source": "New Electronics",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-14T07:45:27+00:00"
+    },
+    {
       "id": "eda24878036ff0bf",
       "title": "Beyond Brent: how hidden physical market strains threaten the global economy",
       "description": "Beyond Brent: how hidden physical market strains threaten the global economy Energy Connects",
@@ -1193,6 +1163,16 @@
       "published": "2026-10-14T06:08:30+00:00"
     },
     {
+      "id": "49cabe197aa19adb",
+      "title": "Nvidia CEO Jensen Huang's First X Post Backs Open-Weight AI Alongside Meta, Microsoft, Palantir",
+      "description": "Nvidia CEO Jensen Huang's First X Post Backs Open-Weight AI Alongside Meta, Microsoft, Palantir Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTg5MEk2WjN3NWJfY1lzdjBvc2E0dmE2YmFjN0hfcGJfV0xWajRCa0Z0REctNjIyVVRTZUdIVk5jWkgydmRJZTRnb25vM3ZQMjhaSG5tWXdlOF81N3Y5NTVnZTVXaWJsTnVjQ19IRjZGVXNFS0hPV2Y1WWgzMXU3MG1PR2hOcjNyUzZ4UXZXMF9PbGJGUnZFbU14Sl9kUkJ3eV90M0tVRTBMY2puV2JCMlFIaG0tNE9iWDA2OGRmaFlRejFDVF9GYUh3?oc=5",
+      "source": "Stocktwits",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-14T05:26:30+00:00"
+    },
+    {
       "id": "f6d197aca91fc44b",
       "title": "France’s emissions are falling as fuel prices soar. Why is it still missing climate targets?",
       "description": "France’s emissions are falling as fuel prices soar. Why is it still missing climate targets? Yahoo News UK",
@@ -1203,24 +1183,24 @@
       "published": "2026-10-14T05:02:00+00:00"
     },
     {
-      "id": "40d5ed3d7b89420b",
+      "id": "7ba35f4f465f7181",
       "title": "Winter energy bills: Where are gas and electricity prices highest in Europe?",
-      "description": "Winter energy bills: Where are gas and electricity prices highest in Europe? Euronews",
+      "description": "Winter energy bills: Where are gas and electricity prices highest in Europe? Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUdTX0hRY3VCLWNCQnVlOC1OZC1TckJESk5lTW9ROUIwTXkyYTlGRTJ5Tnlpd09VNE9VMmJmcGx0WFFzd0R3dW9oTmxUbnVpeVo3R29pTlY1OXlJMmkxRk5qcTBVbWhLWklLVFlQT09NNG1wcWZKUW5ZSjJxTWJCeXpEc2hoZExab04yaDNmTUNzRzRkemtpaFNrZzdkRW9DMWcxNmFlNHh6eWR2S3p3?oc=5",
-      "source": "Euronews",
+      "source": "Euronews.com",
       "region": "UK",
       "section": "energy",
       "published": "2026-10-14T04:48:22+00:00"
     },
     {
-      "id": "372427e319838c71",
-      "title": "Commodity prices to hit record highs before easing through 2027",
-      "description": "Commodity prices to hit record highs before easing through 2027 Oxford Economics",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTM4b0pDNndrNW9YQUR1YmtGdjRKT0JoRXBrRExJZ0ZVRVJ0alN0aWQwem5QMFo1SzBmODBTWDQxVkNzQUpnSXVFSUlHZHdXWGo5N01ZdF95U3BTSEZLUzdMTFVPN0p4RUZvbnVhTzlLTnpINDdJeDZHSV90RTJlcG1fWnc1eXZZVGEtNkJJa0FIb1pNYW85VFhTV1dFTG84LTV3LU5IRVI?oc=5",
-      "source": "Oxford Economics",
+      "id": "c7e41761964d1414",
+      "title": "Power failure — what went wrong with the UK’s energy system?",
+      "description": "Power failure — what went wrong with the UK’s energy system? Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3F5NHAzcEE3akVxbWhSMXRQck1UdDNnaENoSjZnams5MHI1UjVhN1R4WTlWQUh0Q0VwV2tBbUZDdUotVkFFZl96b2Z4Z2R1VFZVTmwtcVdyZ01qUWZxcTdFc3lWR01lek02Ymh3SGd5aXlOc3RRNElHclpvVjhlSE1ZUUE?oc=5",
+      "source": "Financial Times",
       "region": "UK",
       "section": "energy",
-      "published": "2026-10-14T04:14:36+00:00"
+      "published": "2026-10-14T04:00:40+00:00"
     },
     {
       "id": "b81943337d23879d",
@@ -1253,6 +1233,16 @@
       "published": "2026-10-13T23:05:10+00:00"
     },
     {
+      "id": "2a0615435caef0cc",
+      "title": "Doogan demands urgent action from UK over cost-of-living ’emergency’ this winter",
+      "description": "Doogan demands urgent action from UK over cost-of-living ’emergency’ this winter London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWnhQZUE3Q2FvckhqamdhUlllR1NHeEloNkhjWkxRNTkzbjRCUXpTZHJOM3VjelFxREpoWG1Way03bjd2eGg0d083ZUlBZDRLd2xacG85d01udWJXc2kxaWM3VlRwYVBNbE4zdVBIbHpVcTlacFJ0bTBkOTJSN3lkczdxbXZyWWZud1I5MTRPN3Vab2c4ZUs4NHQ2Q0dvRDhSOExQbDhCZ3hXTDFTdzdBRTVGVkQ?oc=5",
+      "source": "London Evening Standard",
+      "region": "UK",
+      "section": "energy",
+      "published": "2026-10-13T23:04:55+00:00"
+    },
+    {
       "id": "306a3962989dd0d0",
       "title": "Australian economy faces rising unemployment and inflation in 2027 – IMF forecast",
       "description": "Australian economy faces rising unemployment and inflation in 2027 – IMF forecast Beinsure",
@@ -1261,16 +1251,6 @@
       "region": "Global",
       "section": "economy",
       "published": "2026-10-13T21:42:17+00:00"
-    },
-    {
-      "id": "b3e5da35b447c0ef",
-      "title": "Bain & Co.: Seventy Percent of U.S. Consumers Plan Cyber Weekend Shopping",
-      "description": "Bain & Co.: Seventy Percent of U.S. Consumers Plan Cyber Weekend Shopping SGB Media",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnBCMmtCRkJ6X2ZadmNVajBUWklqaXI1alhfMXhUeTF6LVJEV1VIU1dFYVpoR3dLY3NyaXpNRnZPMnNCTTJBNjVPdTVQRVRsOWRsZ3J4ejRRZU9UaXNZbWo4dWtueVJ2clA0NnlpUG90blNWLWc0MjZkN0JDSHRteVBSeDNrMFlXa01BbEVVTVV6dEt2V0E?oc=5",
-      "source": "SGB Media",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-13T21:09:01+00:00"
     },
     {
       "id": "64710fc67225a44a",
@@ -1283,16 +1263,6 @@
       "published": "2026-10-13T21:07:00+00:00"
     },
     {
-      "id": "f75c84ee7a7a1010",
-      "title": "U.S. container imports reached their highest September on record",
-      "description": "U.S. container imports reached their highest September on record DC Velocity",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVW1UcVNtQ21HNkZNaEk3dmgxdDA2bEZwall5OHUweFdjbjM5OUJNc092LVBtb1B0ZUV3Wk9oZVJLZFczV1BtUk1UQlVucEYtbXBEZ0FnSV9FQUo5MHAzYXRkdndHak96ckY1WVBLQktwc3VzWm1QaThWZHJFekl0TGdNaGZHeWU1UFpXZ3pQblhibmxZeS1STG9RdnkwN0pROHA3WktTbXRkYXVBMU5URkZhdlZhZTlobmE1cA?oc=5",
-      "source": "DC Velocity",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-13T20:55:15+00:00"
-    },
-    {
       "id": "18bb9c72c54569b2",
       "title": "Modifying 10 Percent Of Food Portfolios Delivers Major Nutrition And Sustainability Gains",
       "description": "Modifying 10 Percent Of Food Portfolios Delivers Major Nutrition And Sustainability Gains https://en.edairynews.com/",
@@ -1301,16 +1271,6 @@
       "region": "UK",
       "section": "food",
       "published": "2026-10-13T19:34:50+00:00"
-    },
-    {
-      "id": "e1d6d33c6f017e49",
-      "title": "Despite new record, Port of LA chief warns of tariff-driven planning risk",
-      "description": "Despite new record, Port of LA chief warns of tariff-driven planning risk FreightWaves",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmg1S3RLUWNzT3JyMUhvcTE2Z2pXTHZoZU01NzB0X1RVQllhd0FpeHJENUdRbG5QVzQwSWtXaDMyTGNGc1hCX3hvZ2UtVG1XdUpQS2NsamNObFNOcWlBeG5VSzNZcWtoN0tjeWNmUE5zam9LZTdRdDZGc0tESTIzWk9uOG1pN3Y0QnRiQUtwa29uOHVZVWFyLTBSOUxtZ3RDU1dVck5kdU9PQQ?oc=5",
-      "source": "FreightWaves",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-13T19:30:00+00:00"
     },
     {
       "id": "c72abe386ba36cff",
@@ -1433,6 +1393,16 @@
       "published": "2026-10-13T14:45:03+00:00"
     },
     {
+      "id": "fde79b5920fc50b1",
+      "title": "The AI Boom: Why It’s Replacing E-commerce in Global Freight",
+      "description": "The AI Boom: Why It’s Replacing E-commerce in Global Freight Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0paRW5ZLTM5XzE2bWp3NU9XMjlvVE9Ucy1hcXJKNEw0ajdFRTRLSVFpSXg3a0NBUXNaLXRVZlk2cTJNX3JBMlR1U2E2OFFOamNocWRXWkx5QXFEb19WTm40Rlg3bzdjb3RUTlR4UjFyeVVrUkxDdXhINVRjNHY3WnZuUzRKNzlEY2FBY0dmZlI?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-13T14:36:54+00:00"
+    },
+    {
       "id": "cf7533d867079be0",
       "title": "US banks post strong earnings but economic risks cloud the sector’s outlook",
       "description": "US banks post strong earnings but economic risks cloud the sector’s outlook Yahoo Finance UK",
@@ -1513,6 +1483,16 @@
       "published": "2026-10-13T12:39:31+00:00"
     },
     {
+      "id": "ae8128cc78a31a53",
+      "title": "Three things we've learnt about the UK economy from the IMF",
+      "description": "Three things we've learnt about the UK economy from the IMF BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wLTAtODh5dzF5ZW54d0lHRlFKUi00YzVsWU1PUlBfa3A4ZHdmb2JVa1JOTEtqODBLVnJyeUR1ZFBqMUs0NGZERXFaVlY5UjBFX2JUQjYtQmF4V2c?oc=5",
+      "source": "BBC",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-10-13T11:58:43+00:00"
+    },
+    {
       "id": "2aa0cf793b7e9d55",
       "title": "Worldpanel: Asda’s return to growth proves short-lived",
       "description": "Worldpanel: Asda’s return to growth proves short-lived The Grocer",
@@ -1533,6 +1513,16 @@
       "published": "2026-10-13T10:28:09+00:00"
     },
     {
+      "id": "bbdb388f4f0b3fea",
+      "title": "Italy's Meloni urges EU to deliver long-term response to high energy prices",
+      "description": "Italy's Meloni urges EU to deliver long-term response to high energy prices Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWVGQUwtOHV1ZF91ME1UeklLSzdFT0tHM3RwNDdpc2FKQm93UXZweTF0SG9SeVF2X1c4YU5SSXZQZVdZUFkxWnFsZ1FlcVpCT3Faa1NhNEFqZC1KNXZzOHVJcHItazlnMW5VanJ3UTRnb0dySnk0aGdCVEVfSGI2d09wbTNNa2g4M0FMRlFiVDhxWTZWbVVaal9RS0JpWklVMXVDR2RmVF9CY21GVHNnN1ZqZnRqZ0ZSZE9HYtIBxAFBVV95cUxPc1lWY1NVZ2dFUHBPaFRQbExDaHlzNHlTZTQ5a0x6MzMzY212U204UkRBLWFObEhfeVhGUnVvbHVYOUJZLTlTM2xZZW54aG9ZN2JOVHcwRmRDNEc0bXlqS2RValplY0VfcHBlQU5Nbk1ONHFqcmJmUUp1RzdibmpTRmNzejdsOWw1dG1va0xCSS1BMnRVaGZrUzkwcUg3UGxUM1RDQktESHZNWkV0cnRsRnZ6NHlNS3IyNGV6TGc0UWc0N25D?oc=5",
+      "source": "Anadolu Ajansı",
+      "region": "UK",
+      "section": "energy",
+      "published": "2026-10-13T10:16:52+00:00"
+    },
+    {
       "id": "57604a4b96567a86",
       "title": "AI driving economic growth spurt in UK, new report shows",
       "description": "AI driving economic growth spurt in UK, new report shows The Independent",
@@ -1541,16 +1531,6 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-13T10:15:00+00:00"
-    },
-    {
-      "id": "5b03b118908f133a",
-      "title": "Scientists call for international body to oversee advanced AI",
-      "description": "Scientists call for international body to oversee advanced AI Yahoo! Finance Canada",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjNocVNIRVlUaGhwdUtjN2lxaWtPaUk5VER3Q2xDUVoxYWhFYWZVeERKd0JadHlEZVNJaEl6c1dSd1BTSHEzMmJYU01YZkt4MXdteDZ2VlVrRm53TldUNU1xbVd3Wk5IdU9pVFJmZEY4azhlNlJ0UmkwLS1uZkFaM1dsVGMyNzNDeWM3SklGV0dCUHlhV1E?oc=5",
-      "source": "Yahoo! Finance Canada",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-13T10:03:41+00:00"
     },
     {
       "id": "73fa734f59e35cee",
@@ -1601,6 +1581,26 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-13T09:06:00+00:00"
+    },
+    {
+      "id": "20d2cdca158b38ab",
+      "title": "Health and beauty sales hold up as UK retail growth slows",
+      "description": "Health and beauty sales hold up as UK retail growth slows TheIndustry.beauty",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWMxM2o3amwwNmx6dGhIbDhkdWNWczBOckhVSnhPVnVsTTM3YkxqVXZwUE5wWTdQdFlteWZlcnE4bEFEd0w3c1h6dkIzZ2drYzNvOFlsN1VZRWk2MDhWdnpCVnpMV1l0d2d2S2lpbmhoSU1oZzhSdjlNNmp1WWZUOHpmZVg0YTBiY3JPc3FB?oc=5",
+      "source": "TheIndustry.beauty",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-10-13T09:04:12+00:00"
+    },
+    {
+      "id": "2617a52629edec2f",
+      "title": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time",
+      "description": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time Global Trade Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNThjZVJVeW84M3BaSFZlWEN2OUVOdjFNTThmV0Iyek01NFVnTllfdDFCTGZxczViMFZabEdEa1FzY1RUMVF2eGhYbE1HYmIxb3RUczRIQXhlQWlnZTdvMW1hMDgzY3g2TzdVXzFfa05SV282bFRHczY4eUoxNkJqUFU3MnkzV1N0RUtRRkl6N2M3R0JpSkQ1X1FIdVJnbGc1X3JNLWI3Q0d6MDM4?oc=5",
+      "source": "Global Trade Magazine",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-13T08:22:32+00:00"
     }
   ],
   "prices": {
