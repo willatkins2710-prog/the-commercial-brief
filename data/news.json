@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T00:52:45.838929+00:00",
-  "price_updated_at": "2026-10-17T00:52:45.838929+00:00",
+  "updated_at": "2026-10-17T04:40:55.772525+00:00",
+  "price_updated_at": "2026-10-17T04:40:55.772525+00:00",
   "articles": [
     {
       "id": "96b4a49fba522590",
@@ -30,7 +30,17 @@
       "source": "Inbound Logistics",
       "region": "Global",
       "section": "retail",
-      "published": "2026-10-16T21:56:15+00:00"
+      "published": "2026-10-16T21:56:33+00:00"
+    },
+    {
+      "id": "f8ff821a6143182a",
+      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
+      "description": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-16T21:12:43+00:00"
     },
     {
       "id": "9645e69e3d8c8cde",
@@ -113,6 +123,16 @@
       "published": "2026-10-16T14:00:00+00:00"
     },
     {
+      "id": "ea19db43d0daba20",
+      "title": "European Shares Extend Gains as Corporate Earnings Strengthen and Bond Yields Ease: DAX, CAC, FTSE100",
+      "description": "European Shares Extend Gains as Corporate Earnings Strengthen and Bond Yields Ease: DAX, CAC, FTSE100 Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0tZd2FtdXRaMldMMVhqdnJvRlhFNnlGb3F0SXNuZFVwdFFrWXQtbHNHTjdXSnVGa2J5b2lvZXUxSXpaa1NqYkhEcTROZjB1N3BsZHViZTFHand3RHRGRXZVSGxUbGdoMlJTV3FoVDRENjFMOXkwXzZKRGE0dkQtbEpHTTBQREI3NlUxcTRVSG0?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-16T13:10:03+00:00"
+    },
+    {
       "id": "0741b43d38d00bf2",
       "title": "UK beef, lamb, pork and dairy production to fall in 2027 as sector squeezed",
       "description": "UK beef, lamb, pork and dairy production to fall in 2027 as sector squeezed Food Manufacture",
@@ -183,6 +203,16 @@
       "published": "2026-10-16T10:27:05+00:00"
     },
     {
+      "id": "4b04de8e19e5c77c",
+      "title": "Forecasting 2027 and Finding Solutions to the Challenges of 2026",
+      "description": "Forecasting 2027 and Finding Solutions to the Challenges of 2026 California Apparel News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLUdoSFByUzFtamtHTko4NGJVVmNoa0g3OEpzNGpJLVNTWTNHZ0tQenFIZGxkTXh2M2RBQjNoNVNydVZINVYzcW1BejhNRnFfYXV3ZzFLQlJYSDhuYlU1YXRoYzVLM21nci1oaURyWmNRX3pDQTdEaElTMmM0QzhsOWpNRUoxTFNQQXJmREQ3eWlMYVRrWHpySk1OZXhFSjR0SFRvOExVamRxcTUtVHkw?oc=5",
+      "source": "California Apparel News",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-16T09:56:56+00:00"
+    },
+    {
       "id": "b649460af1c9a83e",
       "title": "Bloody Drinks secures Morrisons listing",
       "description": "Bloody Drinks secures Morrisons listing The Spirits Business",
@@ -201,16 +231,6 @@
       "region": "UK",
       "section": "finance",
       "published": "2026-10-16T09:10:00+00:00"
-    },
-    {
-      "id": "141c967691c0b607",
-      "title": "The AI Superintelligence Slowdown",
-      "description": "The AI Superintelligence Slowdown The Verge",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZFT3c1a0Jyb1YtbUxJQTdCemEzYmtIQVZkaDhVRl9BSjl1Mmw3Sjl3bFRnRzAwcXNVRkpDTk1KczI3REZ6TzV1ejdkV3VlSnphSzJVSDIwR0F0QlNqaDQzaE93N0UzRlc4MXptWUFlMTZDZm04WktqRUVxVFJVU0lFUVZXVFMzRmV3V2k4YW5ncjRZ?oc=5",
-      "source": "The Verge",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-16T09:05:46+00:00"
     },
     {
       "id": "7d3bb038d7710da4",
@@ -253,14 +273,14 @@
       "published": "2026-10-16T08:05:54+00:00"
     },
     {
-      "id": "f8ff821a6143182a",
-      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
-      "description": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
-      "source": "EnergyNow.com",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-10-16T07:17:44+00:00"
+      "id": "8dce603ee8271cd6",
+      "title": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn",
+      "description": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn Money Marketing",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORldMb3FDa2FMdVQ4TzJKNGtKQktKcnBTVGhEaF9XS002dVd4UGlRSjFzT2tEOGgtWm1hV21pcTdTTXJtN3g5R1hVRThrTTYxWGFDNlVoWlRLc1JFbmEyMVFLb3A5UFl3QklIWElTRmQxNHVwSHBmdjliY1kzMm1DbEtXX2FLX2RlVGd5UV8tYkJVeUJxVlNnT1RlTlZxSzRMbXNmdTBveTQ0Vk5tMk91eVp5SlV6b1l6X1FV?oc=5",
+      "source": "Money Marketing",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-16T07:28:49+00:00"
     },
     {
       "id": "f7218895f7495410",
@@ -283,14 +303,14 @@
       "published": "2026-10-16T06:24:01+00:00"
     },
     {
-      "id": "a1996f880969d753",
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
-      "description": "Fed's Warsh withholds rate signal, praises recent global tightening CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
-      "source": "CNBC",
-      "region": "Global",
+      "id": "951a7d192f9198ae",
+      "title": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
+      "description": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWNFQlYtdnkzWjc1dExrZnVtSm5jcG9oQ3p6SHV6M2N1cFFlMDY5c0xhZEpDbWhHTVk4c3dkLVAtcEYxaUN2TnRtOHAyNjc4bklMT2ZmekFwc2tkV1JjRlV1WDBhUHktUzZqRVF5d3l1eEpKNlpqaExjNHhUUzhuREh4eGU?oc=5",
+      "source": "Financial Times",
+      "region": "UK",
       "section": "economy",
-      "published": "2026-10-16T04:08:27+00:00"
+      "published": "2026-10-16T04:37:24+00:00"
     },
     {
       "id": "379a316049097311",
@@ -303,14 +323,14 @@
       "published": "2026-10-16T03:52:28+00:00"
     },
     {
-      "id": "951a7d192f9198ae",
-      "title": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says",
-      "description": "‘Early days’ to see full effect of energy prices on inflation, BoE’s Bailey says Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWNFQlYtdnkzWjc1dExrZnVtSm5jcG9oQ3p6SHV6M2N1cFFlMDY5c0xhZEpDbWhHTVk4c3dkLVAtcEYxaUN2TnRtOHAyNjc4bklMT2ZmekFwc2tkV1JjRlV1WDBhUHktUzZqRVF5d3l1eEpKNlpqaExjNHhUUzhuREh4eGU?oc=5",
-      "source": "Financial Times",
+      "id": "e4dface80afeb26e",
+      "title": "Protein is what’s for tea in UK homes",
+      "description": "Protein is what’s for tea in UK homes Farmers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUlPLUN1Tll3MTZVSzJMblBaQTJHeVY4TXRkM3JMQkNqaHctTlhTZjlQUmpRc0RvYWxVYjdZN1RjQTFqT2RfRHVMakk5dGt3TDdRanN1ZFNNb1dTemVUVEppZ3c5RHdSbEx2cWdtN2JFemJjbTNjLTRfeXUzMWVsbEdXd2tyMDluZWN5ZF9vZ1lCTDBrc1BwenJPbzlaU2NyMDYxM0lqX09aNHh1dEw3VC0xVzRSMjdRSFNxVXZ2bk02dU9rMGc?oc=5",
+      "source": "Farmers Weekly",
       "region": "UK",
-      "section": "economy",
-      "published": "2026-10-16T03:12:41+00:00"
+      "section": "food",
+      "published": "2026-10-16T03:33:28+00:00"
     },
     {
       "id": "73ca96b0c5d66ec2",
@@ -341,6 +361,16 @@
       "region": "Global",
       "section": "economy",
       "published": "2026-10-16T00:39:59+00:00"
+    },
+    {
+      "id": "ff24e81a2af15a50",
+      "title": "Oil Heads for Weekly Gains as Middle East Supply Risks Persist",
+      "description": "Oil Heads for Weekly Gains as Middle East Supply Risks Persist EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelZKTF9VZ2RXQU9ZZE91ZWdOdm42ajE3MXZQa1hCcjJzc2JLZ053d3hWZjJtU19uTWdGLWlDQWNfWk5UbnYtb0xibDZTSTR3bWNMT1BBOTU1ZTFSaVlKcGhjMEI5blI0UHFtZlNaZGFGVS1VSUh4cExTbnQzMUJOY3l6N1FxOFlSTlNweHV6aUwwQlE4NjR5Ug?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-15T23:34:26+00:00"
     },
     {
       "id": "c3d12c2d244a1777",
@@ -391,6 +421,16 @@
       "region": "Global",
       "section": "energy",
       "published": "2026-10-15T19:37:00+00:00"
+    },
+    {
+      "id": "e8daae0c8725cd91",
+      "title": "Kiplinger Retail Outlook: Consumers Keep Spending, but…",
+      "description": "Kiplinger Retail Outlook: Consumers Keep Spending, but… Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncjA5YjZqazM5X2VIMGxXX0VDVlBQSERoanFIRXVJTDRtLTBPRmowZ0lneFN1YnRqZ09Qa1hKakVRZmhiRmRoa29xSDJhMEpkenRRd096bGI4LV85bFpCUXpacWpUQTBm?oc=5",
+      "source": "Kiplinger",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-15T19:09:03+00:00"
     },
     {
       "id": "f2ac370dae58dfff",
@@ -473,26 +513,6 @@
       "published": "2026-10-15T15:34:31+00:00"
     },
     {
-      "id": "06fdb838dbd77492",
-      "title": "3 UK Consumer Staples Stocks Worth Watching As Energy Bills Squeeze Household Budgets",
-      "description": "3 UK Consumer Staples Stocks Worth Watching As Energy Bills Squeeze Household Budgets Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMm5WYlEwRGoxeGQwN3hfXzdoN2hNOE9Ldll1YkxHeGgwTE1wOEpmUURGbjZsek1ndERDYjN1MkRJTXhTLTNISmhnLU43eS1Uank2QUU4c1dDcGN5NE15ZnVRM3BaSGFpRFJvWEVrTWE5dFRFekpzcnFkLVFUdFFYbjZMWUs2akZucnRKQUYyYncxRmFBYjlRNEJzSmtibzBYWlB5bGs2eS1ndnVCc0V2MzhfcGRIMXRVUzRzN2daM2x0SnpWZWllWHhDRHJMYlNBbnVOZFRiQkJXTTI3RHfSAeMBQVVfeXFMTXM5dVU3SU1MMlVDeHo5SmMtSHNWd3BxSlBoUE4yTjhXbmxCamk3SXdQdFB2bVhKUXVYellxNE5ycWtQY2d3VXZETkJRZV9rYUppaUxCQkZCcl9CZVpHNXJnTlEwckxrcndEUEdtZ2RSMzBpZ3FzMVNqSjJKTzkydGZjNVRKZWNXQ1liN2dKRDlkRFBuZ2c5YUx1Q1lPMVNuaEtxQkVOcGZ3aFo2WG0xV1luRks2dWRKNkh2MVVqOG5mdTV0TndaeDNMS3FyYXBIQVpzRkF0SkxCSXVjWXZxWVN1cE0?oc=5",
-      "source": "Simply Wall Street",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-10-15T15:12:16+00:00"
-    },
-    {
-      "id": "6ce464b6805034d6",
-      "title": "Earnings call transcript: PNC beats Q3 2026 profit view as revenue slips",
-      "description": "Earnings call transcript: PNC beats Q3 2026 profit view as revenue slips Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb1JWSmliSG5sUzJpOU9KVWNOV1Z4ekhsU2dqVnJxM2MtelpVVVlQYmZvVENkdkZBQl91OWRfclVkbFpmNlZqcXI5N0I1aWc2Wl9vUW9Pb0poN3ROanF5NzRZUjZaZmpBbUlycm02TEgyZm85d0x6b2pJWkpFT1lUYUJVdG1TZ1lCRTB6TDZNeU1LWlVINjU0bEh1eE94SDBlYWN6UDZCYVlkODJFcW90RC0wbU10Zkl1TUh4UGNaY25iakxucEdaRUhXQ3Q?oc=5",
-      "source": "Investing.com UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-15T15:08:00+00:00"
-    },
-    {
       "id": "54985e5d884f49ca",
       "title": "Lidl tables bid for Poundland store as discount retailer sale plan accelerates",
       "description": "Lidl tables bid for Poundland store as discount retailer sale plan accelerates AOL.com",
@@ -500,16 +520,6 @@
       "source": "AOL.com",
       "region": "UK",
       "section": "supermarkets",
-      "published": "2026-10-15T15:00:00+00:00"
-    },
-    {
-      "id": "a651cb611b26f71c",
-      "title": "British Pound Forecast: Stronger UK Economy Hasn't Removed Risks To GBP",
-      "description": "British Pound Forecast: Stronger UK Economy Hasn't Removed Risks To GBP Exchange Rates UK",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNelBKX2g5a0lwejJBNVVWMlAtLURSVkZ3VGFpbUM4VUhPcTV3dmdRQ3NrczE5UURrenp4TlR5M3g1NjZGNFpWT2xhb0R4UnVCNkNFelBFZWZmQWJPNTlqM2pTWlhnelF4UDMtNkM2MXlMc0YxeDZHdHhTY196UHVrakw3TUJxVDR2Rk5VNDMyeDE1NWtHeHFEcVNsQzlHc3hwcE5yUTh6YjIzdWhiVnBNMmRfTU9KRTRwZEVzemxlMlFiQ0ttVXE3bHF3?oc=5",
-      "source": "Exchange Rates UK",
-      "region": "UK",
-      "section": "economy",
       "published": "2026-10-15T15:00:00+00:00"
     },
     {
@@ -543,16 +553,6 @@
       "published": "2026-10-15T13:57:06+00:00"
     },
     {
-      "id": "5b9fb63b1e3266f5",
-      "title": "UK Energy, UK Nuclear Join Forces to Explore Nuclear-Powered Hydrogen and Ammonia",
-      "description": "UK Energy, UK Nuclear Join Forces to Explore Nuclear-Powered Hydrogen and Ammonia ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVdEX01OM3BqN292V0J6eWo0U0ZtTkVfamRXTFB4QkJveEFMblo1aEZVaXJUenZQTjlnc3E3U2Z5QUdFN2pSY1F3UW9QckgzRURfWEtGTG5wNVEyeHp3R2UxVHY3RUdrdVU2MFpab1Jqc19JZGZzRVI0ek5uWERPSE5icW9vdEVrTnJYMENUQXpVWDJPNHdjdlhINTdMUnF6QS1TQzNvb1RfR3pyb2NWWHB5Z3hPcW42Q2Mxd3N3N2RoZ0hjZ0E?oc=5",
-      "source": "ChemAnalyst",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-10-15T13:20:13+00:00"
-    },
-    {
       "id": "f4e0d023061e905f",
       "title": "Midday Markets: Is the UK economy ‘back’?",
       "description": "Midday Markets: Is the UK economy ‘back’? City AM",
@@ -573,6 +573,16 @@
       "published": "2026-10-15T12:01:02+00:00"
     },
     {
+      "id": "d1904b1b993daab1",
+      "title": "The Ocean Might Be Next Frontier For Data Centers - But There's A Catch",
+      "description": "The Ocean Might Be Next Frontier For Data Centers - But There's A Catch BGR",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTMGp1NmRqTUlzd2hsTG5vdlhscDcyN2V3aWZmeEpsVzNvdGNsd0lCYjVlWVc1ejU5YjRZUjh0LTI0OWlrdk9CWXZ0WWs0NEVrc2dsWHpraU11V0ktT1JWdzdybkQzR0NDUmtuQnVMakg2aDlhLVE?oc=5",
+      "source": "BGR",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-15T11:17:00+00:00"
+    },
+    {
       "id": "dff9ed1eac9e6746",
       "title": "Kroger cuts 3,000 jobs amid $12B loss to competitors",
       "description": "Kroger cuts 3,000 jobs amid $12B loss to competitors MoneyWise.com",
@@ -581,6 +591,16 @@
       "region": "Global",
       "section": "supermarkets",
       "published": "2026-10-15T11:06:05+00:00"
+    },
+    {
+      "id": "26839b01f7db56ba",
+      "title": "Pound Rises Against Dollar as UK GDP Unexpectedly Increases",
+      "description": "Pound Rises Against Dollar as UK GDP Unexpectedly Increases Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFZ1RTFudHhGT05vMmVQcHY1NDVMWm9XeXBxNTJWZUdRYVQteUJZaVJlNmk3QkRoa0E2QVo2anpDSnFubFYwdFZvNE1oVFBTeDdHUHFoZ1hiSVFidkxpQl9EaTZRVV9PaFFnTDh1cGtzRU5EMTNDem9aLUZQOGViRFBiWHQ2Z2RPd0loTk5IZjdDNEUtQXNaRGl1ME5OWXlEZ2c?oc=5",
+      "source": "Global Banking & Finance Review",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-10-15T11:02:21+00:00"
     },
     {
       "id": "056e5239bc3e10eb",
@@ -723,6 +743,16 @@
       "published": "2026-10-15T07:09:07+00:00"
     },
     {
+      "id": "d3e78982943bb599",
+      "title": "Tech leaders, Wall Street CEOs, governments split over 'AI doom' fears",
+      "description": "Tech leaders, Wall Street CEOs, governments split over 'AI doom' fears Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG9SVFRUdWs4Y0dKakJtbjk5NmtsVUxJWXpjSlQ4TWQzZVpJZmNEVVVLNW1jWHdHZld1eU5rVTZFbjJ4bDZ6cHF6WXozUDdyejE5QUE1V2xpRWpuRXN4RnR0M1JfNkFKXzA2eDdsbDhkYkdMRkhKamtyUkRJWXdtX1pfT0JUOVYwbUxrUGN0SEFlUEo2RkdMWndMeWljNVZrbXpXSzBhVENta1lCLVIxbExB?oc=5",
+      "source": "Reuters",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-15T07:00:00+00:00"
+    },
+    {
       "id": "4574e7df621ccc46",
       "title": "UK GDP: Growth is more than just resilient, but risks skewed to a slowdown",
       "description": "UK GDP: Growth is more than just resilient, but risks skewed to a slowdown RSM UK",
@@ -730,16 +760,6 @@
       "source": "RSM UK",
       "region": "UK",
       "section": "economy",
-      "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "id": "7f7bb54d348e3023",
-      "title": "Building supply chain resilience for companies and economies",
-      "description": "Building supply chain resilience for companies and economies The World Economic Forum",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmtaTVFPZVhCS2hFdEVSWjMtX1YwaXdhVXlLVU84c0g1SU93TlFuQnplUENwOFZFalZuaTBQOTdtN3pvZXJKZnk5SVktWE5MOVRCd2tNRFUwYkRITjZyc2Q5WnNLMkNWY09PUlVfaE9aOG1ZUnZLVVhpOXhVTG9TY3VHN0lYTmNGNmVlUkh0dnI4S2hqdDg4aGJRbllyRXcwdE1CY19B?oc=5",
-      "source": "The World Economic Forum",
-      "region": "Global",
-      "section": "supply",
       "published": "2026-10-15T07:00:00+00:00"
     },
     {
@@ -913,6 +933,16 @@
       "published": "2026-10-14T15:09:35+00:00"
     },
     {
+      "id": "0b8d9023e16a2e9a",
+      "title": "Amazon | E-commerce, Amazon Web Services, History, & Facts",
+      "description": "Amazon | E-commerce, Amazon Web Services, History, & Facts Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1tcl9ud3kxbHlhSERRUGRJNG9NNU53VWdRa2tOQWJqUUl1aFM0WEIwTmVIQ0tWSFpVaklpa25XWEFvaXJ0VGk5NVNHSjRkR0FlNHJRYQ?oc=5",
+      "source": "Britannica",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-14T14:55:00+00:00"
+    },
+    {
       "id": "afb8f8ebf297312a",
       "title": "Earnings call transcript: Morgan Stanley beats Q3 2026 estimates, shares fall",
       "description": "Earnings call transcript: Morgan Stanley beats Q3 2026 estimates, shares fall Investing.com UK",
@@ -983,6 +1013,16 @@
       "published": "2026-10-14T11:52:08+00:00"
     },
     {
+      "id": "5247e8dc2211062d",
+      "title": "Bank of America (NYSE:BAC) Misses Q3 2026 Revenue Estimates",
+      "description": "Bank of America (NYSE:BAC) Misses Q3 2026 Revenue Estimates StockStory",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWDRQaTJhZWZ4dFlEd0tWNWRoaWN4N2lPNEFBZ0NITnR4eXMxQmU5UGp4T1JvWUhCcjJFdDFmZGdsM1lxcHo1aWhWYXR3UDBlUVhTeHllcXJHamFkRllKRkhlSV9yN2I4YldfbjlkQ1pZZk84QkJWMGlsVWpha3UwT3lfcWVQOFVNRW1aNFdjcUc1aU5yVUdNUVVMUXF6TWNXcUdsYmxYMkc1Ri05djBwVTdn?oc=5",
+      "source": "StockStory",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-14T11:36:54+00:00"
+    },
+    {
       "id": "9bbdffe38640fc0b",
       "title": "Bioactive Ingredients And Product Market Size | CAGR of 8.0%",
       "description": "Bioactive Ingredients And Product Market Size | CAGR of 8.0% Market.us",
@@ -1001,16 +1041,6 @@
       "region": "UK",
       "section": "ai",
       "published": "2026-10-14T11:29:57+00:00"
-    },
-    {
-      "id": "327dac30b398a07e",
-      "title": "Bank of America (NYSE:BAC) Misses Q3 2026 Revenue Estimates",
-      "description": "Bank of America (NYSE:BAC) Misses Q3 2026 Revenue Estimates Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0dmZ0dDTVN5ZDZwLUVwNVlJV2hRdXJiVnBpYUNRTGFuS0RTLXkyc1Z1V3pBMU9wY2dQZWxiVXRPY0psNnNLTHBwVzVGYXFCdDdpUGpoTW52SXZKM1BNbDJKaEVtRmFlMDVfNnFoa0p1OHJqZ204V2FiTDRKeEpHZU1IYkNKWVZZZDllSXRfUG9WeWZQVG4xag?oc=5",
-      "source": "Yahoo Finance",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-14T11:14:03+00:00"
     },
     {
       "id": "c027a7803b39af9e",
@@ -1173,11 +1203,11 @@
       "published": "2026-10-14T05:02:00+00:00"
     },
     {
-      "id": "7ba35f4f465f7181",
+      "id": "40d5ed3d7b89420b",
       "title": "Winter energy bills: Where are gas and electricity prices highest in Europe?",
-      "description": "Winter energy bills: Where are gas and electricity prices highest in Europe? Euronews.com",
+      "description": "Winter energy bills: Where are gas and electricity prices highest in Europe? Euronews",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUdTX0hRY3VCLWNCQnVlOC1OZC1TckJESk5lTW9ROUIwTXkyYTlGRTJ5Tnlpd09VNE9VMmJmcGx0WFFzd0R3dW9oTmxUbnVpeVo3R29pTlY1OXlJMmkxRk5qcTBVbWhLWklLVFlQT09NNG1wcWZKUW5ZSjJxTWJCeXpEc2hoZExab04yaDNmTUNzRzRkemtpaFNrZzdkRW9DMWcxNmFlNHh6eWR2S3p3?oc=5",
-      "source": "Euronews.com",
+      "source": "Euronews",
       "region": "UK",
       "section": "energy",
       "published": "2026-10-14T04:48:22+00:00"
@@ -1293,16 +1323,6 @@
       "published": "2026-10-13T19:23:27+00:00"
     },
     {
-      "id": "8f55f7c5e2d8ae6e",
-      "title": "CPI | Microsoft President Says UK Is Best Placed to Lead AI Regulation",
-      "description": "CPI | Microsoft President Says UK Is Best Placed to Lead AI Regulation PYMNTS.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3MxdDhBWE43dGVnNW05aEx5Z0hQX3BSQ3Y1WE1sQlZIM0hGY0hOSllUbVVRcVBqUWpRRUYwZjlIU2h2Tlp2R1Z2d2w3bzhhSjA2X3o4STRqYVNzNnZPVENMeDZYYkM4Q2pDSmhYV29ZQmlFY2dBS25TN01hM2ZleFZyWndTWUpaNjAwZ0w0QnNwTE9TcGxNVDJ0R3JyTTA?oc=5",
-      "source": "PYMNTS.com",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-13T18:53:01+00:00"
-    },
-    {
       "id": "b3996c15d6e4ed19",
       "title": "Who’s paying whom? The circular money machine behind the AI boom (or bubble)",
       "description": "Who’s paying whom? The circular money machine behind the AI boom (or bubble) The Conversation",
@@ -1311,6 +1331,16 @@
       "region": "Global",
       "section": "ai",
       "published": "2026-10-13T18:51:45+00:00"
+    },
+    {
+      "id": "b85de6f253ace309",
+      "title": "Microsoft: The Nvidia Escape Plan (NASDAQ:MSFT)",
+      "description": "Microsoft: The Nvidia Escape Plan (NASDAQ:MSFT) Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nZms3SVdEY2ZqTDFiZ1psQzhnSjZoZmRXR3J4OUdDYzFqN3JLc2hjVmhxeDZ4U3FQUEVwMTJ5d21XaWh5X1U4Z2IyaW1xRFZ1WnpIY2QwU3hFeklKeUllZnFlYUtZcHJyTnRkc2FvTVE3N01YaGNSbzdBbzJMQQ?oc=5",
+      "source": "Seeking Alpha",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-13T18:20:32+00:00"
     },
     {
       "id": "b31e93964651b7fe",
@@ -1331,6 +1361,16 @@
       "region": "Global",
       "section": "retail",
       "published": "2026-10-13T17:41:00+00:00"
+    },
+    {
+      "id": "b5fa398f463b89ab",
+      "title": "Bond Traders Hand Crown to Equities as US Banks Deliver Results",
+      "description": "Bond Traders Hand Crown to Equities as US Banks Deliver Results Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVphOE9oc0tKcV9uR05MLWlWQ01oUDFQMGI5NkgwdlBjdnBPclUwRWNkdmRwYVRWWDdhbnlUejNzVGl0X1JGeWRJQTl1UUNHUjdJQi1XX0dqMzFBYUM4T0hZMTg4R21lOVdaM1BWTF9UeVA4UGRkYkJqSkdUU0VWWXYyTGo1UGw2REdBV0pRSlBOSHRHVld3YmZGYnlZQktOd1BObEVGQ1paUExCc0l1TFZscw?oc=5",
+      "source": "Bloomberg.com",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-13T17:34:46+00:00"
     },
     {
       "id": "c6770d99849e1133",
@@ -1473,16 +1513,6 @@
       "published": "2026-10-13T12:39:31+00:00"
     },
     {
-      "id": "0439e2d55f18b3b3",
-      "title": "Earnings calendar for:",
-      "description": "Earnings calendar for: Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDZ1ZhYjM1VmJzbXp1aVVEVHlGMGhyenE0bThlTkFIdEFoTHNGeW5YTUpBZXRTRnozMjkxeDhBZ3BaU244U2xFcE9HMXZHQmxJZnFXMDl6UGFUX0lRS25HYUR6b2syVUVDdm9LTEVB?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-13T11:52:02+00:00"
-    },
-    {
       "id": "2aa0cf793b7e9d55",
       "title": "Worldpanel: Asda’s return to growth proves short-lived",
       "description": "Worldpanel: Asda’s return to growth proves short-lived The Grocer",
@@ -1511,6 +1541,16 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-13T10:15:00+00:00"
+    },
+    {
+      "id": "5b03b118908f133a",
+      "title": "Scientists call for international body to oversee advanced AI",
+      "description": "Scientists call for international body to oversee advanced AI Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYjNocVNIRVlUaGhwdUtjN2lxaWtPaUk5VER3Q2xDUVoxYWhFYWZVeERKd0JadHlEZVNJaEl6c1dSd1BTSHEzMmJYU01YZkt4MXdteDZ2VlVrRm53TldUNU1xbVd3Wk5IdU9pVFJmZEY4azhlNlJ0UmkwLS1uZkFaM1dsVGMyNzNDeWM3SklGV0dCUHlhV1E?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-13T10:03:41+00:00"
     },
     {
       "id": "73fa734f59e35cee",
@@ -1561,46 +1601,6 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-13T09:06:00+00:00"
-    },
-    {
-      "id": "20d2cdca158b38ab",
-      "title": "Health and beauty sales hold up as UK retail growth slows",
-      "description": "Health and beauty sales hold up as UK retail growth slows TheIndustry.beauty",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbWMxM2o3amwwNmx6dGhIbDhkdWNWczBOckhVSnhPVnVsTTM3YkxqVXZwUE5wWTdQdFlteWZlcnE4bEFEd0w3c1h6dkIzZ2drYzNvOFlsN1VZRWk2MDhWdnpCVnpMV1l0d2d2S2lpbmhoSU1oZzhSdjlNNmp1WWZUOHpmZVg0YTBiY3JPc3FB?oc=5",
-      "source": "TheIndustry.beauty",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-10-13T09:04:12+00:00"
-    },
-    {
-      "id": "2617a52629edec2f",
-      "title": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time",
-      "description": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time Global Trade Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNThjZVJVeW84M3BaSFZlWEN2OUVOdjFNTThmV0Iyek01NFVnTllfdDFCTGZxczViMFZabEdEa1FzY1RUMVF2eGhYbE1HYmIxb3RUczRIQXhlQWlnZTdvMW1hMDgzY3g2TzdVXzFfa05SV282bFRHczY4eUoxNkJqUFU3MnkzV1N0RUtRRkl6N2M3R0JpSkQ1X1FIdVJnbGc1X3JNLWI3Q0d6MDM4?oc=5",
-      "source": "Global Trade Magazine",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-13T08:22:32+00:00"
-    },
-    {
-      "id": "7e34d90519ee0704",
-      "title": "IMF forecasts US inflation will pick up in 2026 before easing next year",
-      "description": "IMF forecasts US inflation will pick up in 2026 before easing next year EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHZxbUJWVU5pd2c2U2NRWUVyX0ZhdmpXYmlOQmM3NXZ0MFRLUUEzdFBmRDlKYi1pa1hfdkFrZnNKdW5kangwM1JPX3VRTldKNmJCV0poeFFfOC1uU3A0eF9nN3l4RUlOZV80bnpsM2xDR2o1V0piYzZ4QVQ1QWprTXhxMG9PX3hva0NYYUpvV3kyWUFyMkRIMEd0OHoydXlFZG02bXBHMktvdjc5SnkxdW5UMjRsM0IxY1hycnpZdVd5RVAwdlFBQVVKdDcyNlVT0gHkAUFVX3lxTE82ZTlkcldFRVNOWXFFekNsVm1BQkhvOTJ1T2tka3JfSDFHWFoyaWVTaGRDM0dFRW5XQUtfdm5TMnR1SUVIUTQ5b0c3M1RWa3pvNDkyV0d5dGt0TzZ3WXR5Tk5RZTlLRTRfLTd4ZGNSbG8tUVc2QjZRQlhPYUUwd3M3WWIybTR0cUJRRjdIM2c0NEFEajVNTUxXMTRSRC1ESGF6RmdMcGxqZ1g4UWdfVDBmNVdHV3BrVUF6NXpNRVl5cVZBQy1qeE5mbmh5VkNMRjc1NGRjM1AwLXNCaG9EeVFoSHhnaw?oc=5",
-      "source": "EL PAÍS English",
-      "region": "Global",
-      "section": "economy",
-      "published": "2026-10-13T07:30:27+00:00"
-    },
-    {
-      "id": "0ddc9180e530fb26",
-      "title": "September hit by sluggish fashion sales",
-      "description": "September hit by sluggish fashion sales Drapers",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tbmQ1d2VTQUF3MGhBUU9jTzFUelAxNXJfcS1UUmFYakh1TUVDd29JMUNxSmNUZC1aQVlpZFlyUGphd1I3SndWR1ktUTZ0OE81YW1TSHpJeUxKN0tjQ3lEc3lHcDloelhfaGkyT210TFFFNjlFQW05R1Y4bW1kbjA?oc=5",
-      "source": "Drapers",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-10-13T07:16:01+00:00"
     }
   ],
   "prices": {
