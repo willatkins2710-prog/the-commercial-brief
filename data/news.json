@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-10-18T12:45:30.045577+00:00",
-  "price_updated_at": "2026-10-18T12:45:30.045577+00:00",
+  "updated_at": "2026-10-18T16:39:39.544309+00:00",
+  "price_updated_at": "2026-10-18T16:39:39.544309+00:00",
   "articles": [
+    {
+      "id": "3460e62526ac92da",
+      "title": "Andy Burnham seeks closer alignment with EU on AI",
+      "description": "Andy Burnham seeks closer alignment with EU on AI The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2R2eHRYamRTZzBlU2E0dUNtR2FwcE11MGQ2QzNFZ05fN21FbnIxc1paRUhsb0pFUkE3Tmt4VzR3VVhzYk9zZFFWcGxkLU5IRXpOZERrQXd2eHZVTVFBNldQTDdYaFBRT3E3S1I4b3VsX1c1YWstTnB4N1ZLVnJwT3hTM2VtMTVLUHNQcXN4eXlXcVIwRXVINQ?oc=5",
+      "source": "The Telegraph",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-18T13:58:00+00:00"
+    },
     {
       "id": "f8ff821a6143182a",
       "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
@@ -13,14 +23,14 @@
       "published": "2026-10-18T10:39:36+00:00"
     },
     {
-      "id": "1e7728b4db88e7d4",
-      "title": "Black Sea Grain Risks Are Repricing Agricultural Stocks",
-      "description": "Black Sea Grain Risks Are Repricing Agricultural Stocks Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYjJRLUEzTXZnbTE5QWVTa2FXQ3lTc3llQW5DbV85QTBodDlIUlpMeW9rMWF1eFF2dW9Eak54OGxCelV1ZHJTYjhDRlVoQWxCT0pwSFY4UENPcXNSS29yZUNVOUdHdzNOVnY5SzdzZTBTeEZPa09mZVhqSU5hV2VpZE90YTZEeGJnMkQtOTFTX081cWR4TW9OSG5Dem1DcXZ0eEMyRkx6ZkpxenkwaFBydld4LWt4N2xGUmNIeUYzeUozOWU5dHhqeXhkNzlRZFVadHZKcFVIaW15bTFKcG85aHBzXy1QNnJmc1Mw0gHwAUFVX3lxTE1ncW5ab2RMc1hQMVMyNV9sZkdnOVRDTzBCQW1jWGl0bFNiRllfYjNrZUlMUThKUk91SmY3eXhKY1EwRVk2VDhEODdoZk5XN3NQcmhCUjNocVVHdmtfUmNnMnItc0RuZ2doZDBfNi0yQmNaOEZwNmxYRXRSeDhGT2hxSUtfbndzdnNwMGpsSXlWc0dxMU8wdjA5c2ptdXA4UmJSUG5mQzN5TmpZaFR5MHctOXpfWmpIYWhuZlgxajNaU1hyV2RRTTJjVEhidDR3TmhaQVJ6clNKT1pTeVFBbVpmRXpIajJCU2VhWFg5Yll6dg?oc=5",
-      "source": "Simply Wall Street",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-10-18T07:36:03+00:00"
+      "id": "6df3a77126cde519",
+      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "description": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools Standard Democrat",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVnN0MXVMTUVhVmlYTXM5ZlFWcC1KazgxbzdsbGN0Q05FblpCd0R3Mlc5OWxaanN2UEhHeFVqaklkazY4aGFWSHlEMlROdXRmYnVoZndFN0hVZG0temE1YUJqc0trMXZGcVF1bi1QX0RnMlh3VFlvVFNWS2NfRzBvenQ1TmJ5YTJlbFpTUFQ3RFZDRXEtVnZaZk5xQXhKcUpfNFJ1RTA2TGZ4eFgyTVI0eEEwcmJ0V0gtb3YyczNOOVBxZw?oc=5",
+      "source": "Standard Democrat",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-18T08:53:24+00:00"
     },
     {
       "id": "7ece8673e2cddd70",
@@ -31,6 +41,16 @@
       "region": "Global",
       "section": "food",
       "published": "2026-10-17T15:40:54+00:00"
+    },
+    {
+      "id": "14fa1ea5d4a02653",
+      "title": "Morgan Stanley (MS) stock price, news, quote and history",
+      "description": "Morgan Stanley (MS) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUc20waU9CNndPallseHpoWmtuRHlNT3RjWFc3ZDVKbGRNZFk1MzVDVExTa0NjbGotdzJETHBuQnR5b3RLRHZ4SGNWN3ptTzQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-17T13:58:55+00:00"
     },
     {
       "id": "4188a6d0c069cfe0",
@@ -81,6 +101,16 @@
       "region": "UK",
       "section": "ai",
       "published": "2026-10-17T11:34:00+00:00"
+    },
+    {
+      "id": "88b2a77357ea0e2e",
+      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+      "description": "Solar power booms in Philippines as war on Iran spikes energy costs Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdFBWNm9HY3h0Y2lhOXh4VnZFWEI5Y0VJOVJCQUttOWJHVFRoYmF6bnR5X2xBdkZBbmYyTVVGU3FfNUxQR0gtWGlWRE1pWG1KYWVKY1JOYlhqYm9tQTFFaEF2QTdJcy1BMTJEY25NX0JQS2t0aXpzQzR2VTl4RjJ2c0VhazhzSmxLN2wyMUpQXzkyOUt6anRpMUYzeFdYSzQ1Tm5xTDlWbm02NEJ6OWfSAbMBQVVfeXFMTzE3WGd3QlhSM3ZzbmllU242eGZFcTJVZXZId2dxZHk2MVE2OFNiTGdlS3pRcW9EZmdITGdiUDVmMnUwV3V2clkzMG9nOFBhT0d2QmRLb0ZoUWFXa1NGZG1TdDhTUXUxOHRFYkRaUmozNTZucEZaT0M4cm96X0dPWTlSTFhyenByanBmWkM5X1h6Yy1nLXY4Nk1HUTBtM1R5YXhHWnU2RUUwWWpfMzhhb2VEbWc?oc=5",
+      "source": "Al Jazeera",
+      "region": "UK",
+      "section": "energy",
+      "published": "2026-10-17T10:25:11+00:00"
     },
     {
       "id": "d6b5d86678d10c15",
@@ -253,26 +283,6 @@
       "published": "2026-10-16T12:45:00+00:00"
     },
     {
-      "id": "08206f86f1d63e3d",
-      "title": "Earnings call transcript: Ujjivan Small Finance Bank posts record q2 FY2027 profit",
-      "description": "Earnings call transcript: Ujjivan Small Finance Bank posts record q2 FY2027 profit Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVU10WWh4UGVWN1FMc29vellvMXNlaTFTOFRjOV9vMnFGRi1SUWNMMHFIRE51dXprbWIzQnUwaUx0ajJCdmVUbkU1d0RVajZrMWRXTkVmckx4SjV3TnVTVE8yT294aGFmZUpRczFETGVVWTFGN0ZVT2wteEVaamhhWWdIRnFXUzNMS0hySDNHR3dnUmpGRFRoUVRMelh5czN2d21fV09BMWtBSGVKSnRXOWYxNlQyVnppOTBlYm1iZWRmM2JMaEVHczVVSDItcnBveWtNZlVXTGRHdw?oc=5",
-      "source": "Investing.com UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-16T12:44:00+00:00"
-    },
-    {
-      "id": "f88682a87271bc56",
-      "title": "More than half of UK CEOs incorporating AI into transaction evaluation",
-      "description": "More than half of UK CEOs incorporating AI into transaction evaluation Business Sale Report",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZGZTOTVBWDQtS1pzZ2NQVzlzM05BZk8zX0FzRUs3Wnp5TVdUbUdGek93MUZRbHUwQTRGRl81M3NwVFBDdE9wcXdsU0FKZlRZU0d0aUdHUWhJTjdGMzRlakVXY0FUNENDVUtfYzhmcTVVWnZhenpFTEFwVWtUa0F1UnNKM3lPQ214QVllZUFUV0VTOVpmOHdjMU4yZWRLX0lZSkJ4WTVUUkcyclpla1N5TnVkLUxhckFKbU9YeU1fSQ?oc=5",
-      "source": "Business Sale Report",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-16T12:10:48+00:00"
-    },
-    {
       "id": "eec704e70109dc73",
       "title": "Banking tax raid fears hit London lenders' shares ahead of crucial budget",
       "description": "Banking tax raid fears hit London lenders' shares ahead of crucial budget CNBC",
@@ -291,6 +301,16 @@
       "region": "Global",
       "section": "ai",
       "published": "2026-10-16T10:43:52+00:00"
+    },
+    {
+      "id": "28f1cb060a48cad5",
+      "title": "Explained: UK fund managers face post-Brexit regulatory shake-up",
+      "description": "Explained: UK fund managers face post-Brexit regulatory shake-up Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVMxRWdPcmZKNEEydklpekVKLUZOX2RjY2t2d1N1SUgwbFJYdm1TWWFlalZhN0ZGR3hraUZYSDA0NGstT1BSMVBnTGFsOGZLRTlqbU1iQy15d09tRXlOdnlZUnMwREJPUmpCVm5aaHJ2TG5kRXRrRVczMVhrT0thbzNiam0tRkpaNG5fa19ObmtvbEZ6eXlweERkc3J5ckVWWl9hWTB1ckMxRjA?oc=5",
+      "source": "Finextra Research",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-16T10:00:00+00:00"
     },
     {
       "id": "4b04de8e19e5c77c",
@@ -363,14 +383,14 @@
       "published": "2026-10-16T08:05:54+00:00"
     },
     {
-      "id": "8dce603ee8271cd6",
-      "title": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn",
-      "description": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn Money Marketing",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORldMb3FDa2FMdVQ4TzJKNGtKQktKcnBTVGhEaF9XS002dVd4UGlRSjFzT2tEOGgtWm1hV21pcTdTTXJtN3g5R1hVRThrTTYxWGFDNlVoWlRLc1JFbmEyMVFLb3A5UFl3QklIWElTRmQxNHVwSHBmdjliY1kzMm1DbEtXX2FLX2RlVGd5UV8tYkJVeUJxVlNnT1RlTlZxSzRMbXNmdTBveTQ0Vk5tMk91eVp5SlV6b1l6X1FV?oc=5",
-      "source": "Money Marketing",
+      "id": "b05001aa0ad7905c",
+      "title": "Global protein supply faces risks from imported feed and fertilizer dependence",
+      "description": "Global protein supply faces risks from imported feed and fertilizer dependence Food Ingredients First",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkRBa2JkZERmOXZydThrSGtHUHAzZHpfUTNpMjJ6cWVCWmJ0a3VKakJlZkRQQ0xGb01qanZLZ050ZHV4M3BZR3p1WExlS2FuM1NfeVpSeVpia3NpdEhSQkROOG54ZzY5SzVRUko2U05qem5aYWh2cEx4dnFfZ3dmWnlfa2NjOGN3TElzcEln?oc=5",
+      "source": "Food Ingredients First",
       "region": "UK",
-      "section": "ai",
-      "published": "2026-10-16T07:28:49+00:00"
+      "section": "food",
+      "published": "2026-10-16T07:45:25+00:00"
     },
     {
       "id": "f272e13bbb965fb3",
@@ -421,16 +441,6 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-16T04:37:24+00:00"
-    },
-    {
-      "id": "a1996f880969d753",
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
-      "description": "Fed's Warsh withholds rate signal, praises recent global tightening CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
-      "source": "CNBC",
-      "region": "Global",
-      "section": "economy",
-      "published": "2026-10-16T04:08:27+00:00"
     },
     {
       "id": "379a316049097311",
@@ -521,16 +531,6 @@
       "region": "UK",
       "section": "food",
       "published": "2026-10-15T20:16:53+00:00"
-    },
-    {
-      "id": "141c967691c0b607",
-      "title": "The AI Superintelligence Slowdown",
-      "description": "The AI Superintelligence Slowdown The Verge",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS1ZFT3c1a0Jyb1YtbUxJQTdCemEzYmtIQVZkaDhVRl9BSjl1Mmw3Sjl3bFRnRzAwcXNVRkpDTk1KczI3REZ6TzV1ejdkV3VlSnphSzJVSDIwR0F0QlNqaDQzaE93N0UzRlc4MXptWUFlMTZDZm04WktqRUVxVFJVU0lFUVZXVFMzRmV3V2k4YW5ncjRZ?oc=5",
-      "source": "The Verge",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-15T19:46:37+00:00"
     },
     {
       "id": "4109cebc2e33e803",
@@ -641,16 +641,6 @@
       "region": "Global",
       "section": "energy",
       "published": "2026-10-15T15:42:49+00:00"
-    },
-    {
-      "id": "6ce464b6805034d6",
-      "title": "Earnings call transcript: PNC beats Q3 2026 profit view as revenue slips",
-      "description": "Earnings call transcript: PNC beats Q3 2026 profit view as revenue slips Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb1JWSmliSG5sUzJpOU9KVWNOV1Z4ekhsU2dqVnJxM2MtelpVVVlQYmZvVENkdkZBQl91OWRfclVkbFpmNlZqcXI5N0I1aWc2Wl9vUW9Pb0poN3ROanF5NzRZUjZaZmpBbUlycm02TEgyZm85d0x6b2pJWkpFT1lUYUJVdG1TZ1lCRTB6TDZNeU1LWlVINjU0bEh1eE94SDBlYWN6UDZCYVlkODJFcW90RC0wbU10Zkl1TUh4UGNaY25iakxucEdaRUhXQ3Q?oc=5",
-      "source": "Investing.com UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-15T15:08:00+00:00"
     },
     {
       "id": "00d0aae97d60153e",
@@ -783,16 +773,6 @@
       "published": "2026-10-15T10:24:48+00:00"
     },
     {
-      "id": "3b8df359715d3cad",
-      "title": "WHITAKER’S WEEKLY: Government must protect value for consumers",
-      "description": "WHITAKER’S WEEKLY: Government must protect value for consumers Professional Jeweller",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJX0xqWnJLQnJuQ19jNnF0RHlKdnd2VGJVZlVLeDRqOHpIUnY3bGxLcDkySHBnWGRLRXlEYmxzRlkzSVhSQXlYeldWWmt1Z2N0cmVoVndMaWFmVElYWXJRNzhvQjAzY0dGaDdBenVHaGlOcXoxczFYbHhkalc?oc=5",
-      "source": "Professional Jeweller",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-10-15T09:26:02+00:00"
-    },
-    {
       "id": "841d0a22dc61cb44",
       "title": "U.K. Economy Defies Gloomy Predictions With Help From AI",
       "description": "U.K. Economy Defies Gloomy Predictions With Help From AI WSJ",
@@ -861,16 +841,6 @@
       "region": "UK",
       "section": "supply",
       "published": "2026-10-15T07:52:28+00:00"
-    },
-    {
-      "id": "c7469099aada6a2f",
-      "title": "Could Upcoming Earnings Alter The Investment Case For Pinnacle Financial Partners Stock?",
-      "description": "Could Upcoming Earnings Alter The Investment Case For Pinnacle Financial Partners Stock? Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOS2dpbmFQaHd6Q0x6XzhSRnF3VC1ZamFWYUx6UU1JZm5fbGNkSFJXUnJXV0VGcDJJZVhJa0ZYVGtQejlSM254aUhOXzVWSDBZWG9CWlhKTzU2aWxZS3hrR2JISEEyckEwWUdZMEIxMUxURWtINjg2cTFXbkg2by1XdUxIUWdySWdJdElyUTM0bG44NWFBWnV3V3ZyS0tIUVpHam5XRnI1UzN1ZHUzUkVVSlNHZWFvMGQxS1JkclNMUTZobXlrUkU4bnpkN2w2T28xZDJzTVJCWm9CQlV6YUHSAd4BQVVfeXFMTktnaW5hUGh3ekNMel84UkZxd1QtWWphVmFMelFNSWZuX2xjZEhSV1JyV1dFRnAySWVYSWtGWFRrUHo5UjNueGlITl81VkgwWVhvQlpYSk81NmlsWUt4a0diSEhBMnJBMFlHWTBCMTFMVEVrSDY4NnExV25INm8tV3VMSFFncklnSXRJclEzNGxuODVhQVp1d1d2cktLSFFaR2puV0ZyNVMzdWR1M1JFVUpTR2VhbzBkMUtSZHJTTFE2aG15a1JFOG56ZDdsNk9vMWQyc01SQlpvQkJVemFB?oc=5",
-      "source": "Simply Wall Street",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-15T07:51:31+00:00"
     },
     {
       "id": "06a8d5d5d4c208f3",
@@ -953,16 +923,6 @@
       "published": "2026-10-15T04:56:58+00:00"
     },
     {
-      "id": "637009ac96c24899",
-      "title": "FCA plans to embrace AI to automate financial regulation",
-      "description": "FCA plans to embrace AI to automate financial regulation Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXZsQmZ6NUVHM3RhYjhZLWI0OHR2d05RT1NxTWI3U1NNZWk1dV9mUzQ5U1c2Zkk5S291cm1lNWtnZzFBUHlILW1sSlMzbWptV2l5NmVIdmZraVBrWF9oT0dmMk04V3ByOFJVMDhvMGVLa0ZiTzdkWlZvcWd2TS1KbmpDa20?oc=5",
-      "source": "Financial Times",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-15T04:01:04+00:00"
-    },
-    {
       "id": "cdf065632f17c5a3",
       "title": "Morrisons introduces new AI software - here's how it will be used",
       "description": "Morrisons introduces new AI software - here's how it will be used Telegraph and Argus",
@@ -971,6 +931,16 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-15T04:00:00+00:00"
+    },
+    {
+      "id": "e5030d9404811b93",
+      "title": "IMF forecasts Morocco’s GDP growth at 4.5% in 2026 — The Rio Times",
+      "description": "IMF forecasts Morocco’s GDP growth at 4.5% in 2026 — The Rio Times UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFVPcTkyRWtzU05rbXdZbW1ibjhIZzdtSmNSTHJKSVNGNmxrMU9TUEY3bE9qR0J6Q1BEdmpoUE5TX09PYWFHamZJcWl6RlZ6cUJRWnhaNk9DRWd4MkEyaHUtSlRrdXdzTU1XVjk0M21XenFnNDFETTJTV1ZKdTY3dHZtdlYyajNFRDAxUEpDMXNoWXpJaFJBTk5Hb2FxQ1E?oc=5",
+      "source": "UA.NEWS",
+      "region": "Global",
+      "section": "economy",
+      "published": "2026-10-14T22:16:03+00:00"
     },
     {
       "id": "251a8eedc2e949f8",
@@ -1063,6 +1033,16 @@
       "published": "2026-10-14T13:52:43+00:00"
     },
     {
+      "id": "d7e6794f286ae68b",
+      "title": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit?",
+      "description": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit? TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR3hIamFhOGRFNVBVbFpVVnBjaWdMVjEzMU1HZnE5WkwyUDh1N1FnX3NxdEdLWlZJSWNCWVNXbXYyaENBX1g3LVRGanhGYl9lLTY5Vmw5eS02b3JwVV9DRTdickIxUGFFUnRxVXBDSlRvbk1iak9sdDZGVUhQOFlsbjNUenZNWDU3WG9FUDZoSFctNzYtM1JlOTk2emh1N0NKVmM0aWpKdWdIemlUcXNJaVFaNV9aclNoWnRN?oc=5",
+      "source": "TradingView",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-14T13:37:00+00:00"
+    },
+    {
       "id": "436eb5511a91054a",
       "title": "How to Open an AI Start-up in the UK: A Mini-guide for AI Enthusiasts and Business Owners",
       "description": "How to Open an AI Start-up in the UK: A Mini-guide for AI Enthusiasts and Business Owners Business Focus Magazine",
@@ -1101,6 +1081,16 @@
       "region": "Global",
       "section": "energy",
       "published": "2026-10-14T11:52:08+00:00"
+    },
+    {
+      "id": "cba838a2dc5eded3",
+      "title": "Oil Prices Rise as Attacks on Saudi Energy Facilities and Middle East Tankers Heighten Supply Fears",
+      "description": "Oil Prices Rise as Attacks on Saudi Energy Facilities and Middle East Tankers Heighten Supply Fears EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRG5JT05HNzdZVHFPemk4d1BFUHFkSjZ2akRDMUs5SnVrc2xveUcxdDdsX2lxSFpOTTB5VGQzZElvdFdKdjhvcEJEbGFLNE5jMExqQXp6U1M2VUVEcE8wc09iajNMdzFjRWluZi1DRTFvU0dwNGhQZXVmSjJDdnVrcUJvYnYzWXhnckFPNy0xQzZuMFFsMnM5eWg4dzFhbUxhVHF1N3JSN1dmMkNKOVNReDFndW1NTmlaUVFQQm1nU3lnZE1zQ0dEaVp3?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-14T11:30:00+00:00"
     },
     {
       "id": "7141bb34f8cda9b5",
@@ -1156,7 +1146,7 @@
       "id": "8cb2f4f95466ac3a",
       "title": "IEEFA: Rising LNG costs strengthen the case for Vietnam to prioritise domestic renewables for energy security",
       "description": "IEEFA: Rising LNG costs strengthen the case for Vietnam to prioritise domestic renewables for energy security Energy Global",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVk5JZ0lOQTFDSm1NNUY5UUhZZEJEd0hNSWVNTG9UbDBuV1Fwb2lDdlVqSkFIVWVpWHVJalFVR1c1LUtoMXZBWjVtdklBSFhEcGt1WDd4dnhCOHFzajRIX3N2MVZYTm9odGZaRzZWRlAtZFREUTdfSk04dUV0Qlp0dnpmUG5uWk5WZUhYSW52SHRZbVBqdzk2NXRGQm8tVXAzc1ZMRV93RjEyQ2k0MzNCWTFReHlMaUZBeG13TnlMbFF0bUtRYUlsaHNKZUhFalNiQXZVZkotYmZ5NkQzRW43dm41UklReFJELWIyOVh1djNzZXhWc3c?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORWFvUHc3aEhFRDB2Vm5qbnVjUUFIV0g3WmJyTm1saENBMF9fNlV6dkJZVHRMVnJHdnM3YnVPR3gtYVRhaHVzWVgxSUo4VEdEZmZBSmpONmtfbUlvakc4NUhaS1l1TzJLWkhNS05QVHo4aGtwMkFaVW5MYjJCNFkza1NyeXRRUFpjQUJGVUlhbTV2ZEZsbWJOck1yRzU5bmpJbmxHdjg2QUhCQVRHb1FtRjYwMm02aFBSbDZlUTRlVU1YZV9xWWlRNVdKeC1nREZ2ZDdCYlRqWmpJWC13OE9iUjlRd2dOcVNiX1I0dWpOTVA?oc=5",
       "source": "Energy Global",
       "region": "UK",
       "section": "energy",
@@ -1273,16 +1263,6 @@
       "published": "2026-10-14T04:48:22+00:00"
     },
     {
-      "id": "c7e41761964d1414",
-      "title": "Power failure — what went wrong with the UK’s energy system?",
-      "description": "Power failure — what went wrong with the UK’s energy system? Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3F5NHAzcEE3akVxbWhSMXRQck1UdDNnaENoSjZnams5MHI1UjVhN1R4WTlWQUh0Q0VwV2tBbUZDdUotVkFFZl96b2Z4Z2R1VFZVTmwtcVdyZ01qUWZxcTdFc3lWR01lek02Ymh3SGd5aXlOc3RRNElHclpvVjhlSE1ZUUE?oc=5",
-      "source": "Financial Times",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-10-14T04:00:40+00:00"
-    },
-    {
       "id": "b81943337d23879d",
       "title": "IMF Warns Governments Against Reliance on Short-Term Debt",
       "description": "IMF Warns Governments Against Reliance on Short-Term Debt WSJ",
@@ -1291,16 +1271,6 @@
       "region": "Global",
       "section": "economy",
       "published": "2026-10-14T03:05:00+00:00"
-    },
-    {
-      "id": "bc954440fa56d187",
-      "title": "How SAC’S BAR HOLDINGS Is Taking Japanese Bags and Character Brands Global",
-      "description": "How SAC’S BAR HOLDINGS Is Taking Japanese Bags and Character Brands Global The Worldfolio",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT2F2RTVPT1ZmNl9ZRlBUZ09mLXQxcGRZMklqWTRpejltN2VRalhjRmJGSjQ3WkI1VW5rbGJVRUwzNTAxbURNaExEdlF3ekdyWDhJNkdGc2dONUJrejhTeXh1ZmxYV3RNVTlBRDcwT0x5cGozczM5WUp0aEpDbUVteHVHd0g4eWhPVi1ZMnNmb1VwNjFCRTFBMk9ZUXJodlRTek9oZ0tETEZjTnpfR2R5dTVYWFRtQzI5NmJ1LVJ4ZEs5TDhWTXdV?oc=5",
-      "source": "The Worldfolio",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-14T02:50:11+00:00"
     },
     {
       "id": "e303a0ca56e9d065",
@@ -1323,6 +1293,16 @@
       "published": "2026-10-13T23:05:10+00:00"
     },
     {
+      "id": "306a3962989dd0d0",
+      "title": "Australian economy faces rising unemployment and inflation in 2027 – IMF forecast",
+      "description": "Australian economy faces rising unemployment and inflation in 2027 – IMF forecast Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kY1dtRjM1S1MxYS1tdy01R2FVX3p2bXF4SXJpWkRMcjBna0hpUXhQX19MZnFjcEduVUpRbHJVYVpRT0NiMVRnejl4UDV4UVpmTGgtakE0RS10eWtwMDFNdG1DWUtXdUlWVUphVzhsMWxTcDh0QlE0?oc=5",
+      "source": "Beinsure",
+      "region": "Global",
+      "section": "economy",
+      "published": "2026-10-13T21:42:17+00:00"
+    },
+    {
       "id": "eb4778bbbe658359",
       "title": "US banks report mixed Q3 2026 earnings as trading results diverge",
       "description": "US banks report mixed Q3 2026 earnings as trading results diverge Beinsure",
@@ -1331,6 +1311,16 @@
       "region": "Global",
       "section": "finance",
       "published": "2026-10-13T21:14:35+00:00"
+    },
+    {
+      "id": "19c6b1b6dd3f21c1",
+      "title": "U.S. equities ended slightly lower as bank earnings kicked off",
+      "description": "U.S. equities ended slightly lower as bank earnings kicked off Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ0pWT2lmb0dVWlhqV1hPd2E2a0xFUW9TQU9WMVpnbVE0UmFsVGV3TXFSOTJVcTRCQTRoTlhTLVlHMXFsZmRIdXRKWUk3aG1mYkNWRVBJWjdTazNNRklrQXh4UWFpWk5hNkxwalp5S3l3aHFHODBVUUtkenFkSnpwZ210eEs2SjRGdWlzdzRZbGRDRm5JOFFNTVhYRlNrU2I0?oc=5",
+      "source": "Seeking Alpha",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-13T20:04:11+00:00"
     },
     {
       "id": "274672fa4cf56b0a",
@@ -1383,14 +1373,14 @@
       "published": "2026-10-13T18:20:32+00:00"
     },
     {
-      "id": "99ec4e7fd30c3ad9",
-      "title": "IMF Raises UK Economic Growth Forecast for 2026: AI Investment Drives Upgrade, But Energy Shock Looms Over 2027",
-      "description": "IMF Raises UK Economic Growth Forecast for 2026: AI Investment Drives Upgrade, But Energy Shock Looms Over 2027 BBN Times",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU1I1RmZIQzRaYmtiQkgzTUprY0RBaDJObW1RVk5zdFFGbnRnMmNTRVd3XzdlUHdFWUtqTDVfNldsb01STUl4Nzl5YWNoWnZfYkhCMGNfeVFqcGJmN2QzVS1IeEQ5dnFzQlZqT3RZdGRDOENSZHVNM0VudEExelc1ZW0wMlVLYnN1UllCakFTRGMybHFNQng2cFdScjd5RFR0SFh3dzJMb2JGU0haZkEzYjFTSEtrbDdtMW9HUU5BLWlnSmZLdVExMmJGMzdjUEZHTlJrcUxVWVcxNkxNeDA4eWIxZw?oc=5",
-      "source": "BBN Times",
-      "region": "Global",
-      "section": "economy",
-      "published": "2026-10-13T17:37:35+00:00"
+      "id": "b18578a79bda9644",
+      "title": "UK high street bosses urge chancellor to cut cost of employing young people",
+      "description": "UK high street bosses urge chancellor to cut cost of employing young people The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSnZlYkc3ZTZRUFRsM1dwMkdnQnc4UGNLRTFKM2RvVGMxUFk5ZTR5Zy1nWE5icTdwanc4SjFtT0NWdkU0dUpvRDZOUU5RcDlWS0cwakkzelFZdW1oWXZ4eXFWN2YxamZ6NnhrUXRBRGtWbWVUT0I0OHdNX0FTaDZOTXAwekdxcTItU2dnV2dQMThkR3FVRWJnLThQeWtKU2xNb25IMHdTcVVLbEk1UExjU0dKTGFPRmFMTzlkbFhHZ0tpUQ?oc=5",
+      "source": "The Guardian",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-10-13T17:43:00+00:00"
     },
     {
       "id": "c6770d99849e1133",
@@ -1463,14 +1453,14 @@
       "published": "2026-10-13T14:20:32+00:00"
     },
     {
-      "id": "b762c0ce35481fa3",
+      "id": "604717e30e3ecad5",
       "title": "Why Goldman Sachs (GS) Stock Is Trading Up Today",
-      "description": "Why Goldman Sachs (GS) Stock Is Trading Up Today The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVhWR2FhVDRnT250LUM5Um1Nd09oV0pnV2RnQjQwYVFNb0U3QWRUWElhWm9OLUQ3TWFDelNzVWhFeXRPc0ptTnR3aFpiN21jVTR2SWs4Y1dZQUtXMmpKdVp0bEpMM1R3ZWhWWEdiSHFNTmlZcmdranpZZS1JcDBla2R4UjBZNjJxN0pKYVZSMjk4MFQ2d3pVY0xMSEpsX1VVQi16V2dMd1pWdktEazBRc3lvUkJNa3lfaDkwS0tOVU1UVnA5cWllUA?oc=5",
-      "source": "The Globe and Mail",
+      "description": "Why Goldman Sachs (GS) Stock Is Trading Up Today StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3l5U2FQMng1ZThjcWZheTFOaXZXTHVTeEJOeVBfOW82cjJGdmZJcENXRkE5VGJMX3RVbVBsenZ3UmJkRS1lWkFfZHp2a25wMS1oVzFya01ueTBDOUpYSExfYWdFbE5PX1dWMzhhTjU4R3l5RHhwX054YVBqRE5TSGR4djJMZkRrZlg0YXNvX1pEMHNZeW5USUpXZ1dpZHcxbkdrY0VkaThaZw?oc=5",
+      "source": "StockStory",
       "region": "Global",
       "section": "finance",
-      "published": "2026-10-13T14:05:00+00:00"
+      "published": "2026-10-13T14:14:39+00:00"
     },
     {
       "id": "311306c2f68bc749",
@@ -1521,16 +1511,6 @@
       "region": "Global",
       "section": "energy",
       "published": "2026-10-13T12:20:56+00:00"
-    },
-    {
-      "id": "f9949cfb329c4d99",
-      "title": "Intel's former CEO Pat Gelsinger has a 'message' for OpenAI, Amazon, Anthropic, Tesla, Microsoft and othe",
-      "description": "Intel's former CEO Pat Gelsinger has a 'message' for OpenAI, Amazon, Anthropic, Tesla, Microsoft and othe The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQMVRGbDNqT2UzVWR6ekxQMXdQX3o5Yi1tQVhLVXNNeGhRMC1DS3BROGJTS3ptaDNxWGNQVmZPWjBjTGR2MElrYi1IUUFTNkFSR3dBaFJyd29fN1U2Uk43a19VcldNWmcwcVhNbm5keFFpdFF6MkFzLV9kM1lYWVlMSDZYRFBJTEFfU3FPSEJSbXR5bFdBWWxHcnR1VzRRRmloelNCMWtoSW5nMHNIcXNIVG1zYnBFNTJEM2x0bUxvTHotQTBEVnBRTFhqZVphSUR0UndMbE9INnl2Q3NsRnpMRXJxemExck5laUJiMjBiSTZhVHhBXzBXR0hKVG95cDktb3JhSWM3aU1kYldaQ2JVNHRvcnUwZkV1YzlIdzJ1amdGU1BMbV9ldzltTEdISzlWdFZ3N25SSHAzUkR4eThJNG9IbmtZb1RLUEd0YUxTaElPTjl3RFBWTWZzbjBGdkhyWmfSAecCQVVfeXFMTUtXSHN6V2RwZ2NSeXRhdTRGZjEwQnRtOXQ3R0FkeklwcVB4TGZWMUZueVlCVUJxanl0NjE0Q3BmdVN6WWJLRmM0UFJMQkpNVVhfNEZObTFGcXowU05YSTRXV1BNVzJhRE84RUJjTU5vTkRVUFJwRFNua3h5T1JrMEhSSDZvanpheFlSVEJVVmdXT1Z1YlBRZk5CT0NodnBORkk0RlRqa1pwLVFJYjVRTEw2T05XQVIyQzJzdlU0ckZOTWJBNm9QbnVBZFBja3JObF9XQzJtcDZJbVJPanZ5cXp6VXpyVFl1eUU3YnJIeUxOeFJjTEF2bVNjVVVfemNmWXlYSm5KSktUeGVDQkdJWUlfbnBhZ1hzdWhUbGpqcFZqc01pUXMzN3l5ZWVHeU5QcUxyWlNTdEpEa2dRbENYcUFlaTFJN1RKRExxQXltRjlTTGxmNFZEaDl2cUpNVURWekVLUDhjRlU?oc=5",
-      "source": "The Times of India",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-13T12:12:00+00:00"
     },
     {
       "id": "ae8128cc78a31a53",
@@ -1601,6 +1581,26 @@
       "region": "UK",
       "section": "retail",
       "published": "2026-10-13T09:55:06+00:00"
+    },
+    {
+      "id": "8be7b0a55bacd4df",
+      "title": "Fashion retail sales remain sluggish ahead of Autumn Budget",
+      "description": "Fashion retail sales remain sluggish ahead of Autumn Budget TheIndustry.fashion",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOWw1YnN5c09JVk5fdmw5X2QwTHhlV0w3eXotbEFVV2FHclBRNHJfdUpoYzFqXzRuQVQwdDhRQ2g1cG95ZFJvTFF2NUtIVzNycUFiVWlfYjZaQUJETGtGaWpaUHBXaWZyeXNBbjAwWURWaGVldHZDZzQ2WlNBcUpYa1pyQXloeGVtVXV2YVZtMXVWX0FyaG04?oc=5",
+      "source": "TheIndustry.fashion",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-10-13T09:41:16+00:00"
+    },
+    {
+      "id": "336d7c63689b0658",
+      "title": "Wall Street Futures Diverge as AI Investment Doubts, LVMH Weakness and Bank Results Drive Trading: Dow Jones, S&P, Nasdaq",
+      "description": "Wall Street Futures Diverge as AI Investment Doubts, LVMH Weakness and Bank Results Drive Trading: Dow Jones, S&P, Nasdaq Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU29jZVc4WTVzendlcmQ4OXJVaTRRSEtYZWRlZzlSRHQydV95M1gxNHd6RnlsUzdiYldvWGtyc2FoM3pFWENPaVpqOGpLVlVvX0E5RDN1a2JxUzFLeWZMc0RtaElvalhNRmlNYnRtbUtKTERLU2RRNkNGVUVFZHBielQ0RHZhUQ?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-13T09:30:07+00:00"
     }
   ],
   "prices": {
