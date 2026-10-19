@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-10-19T20:01:20.866167+00:00",
-  "price_updated_at": "2026-10-19T20:01:20.866167+00:00",
+  "updated_at": "2026-10-19T20:42:30.860789+00:00",
+  "price_updated_at": "2026-10-19T20:42:30.860789+00:00",
   "articles": [
+    {
+      "id": "b547e7315312215c",
+      "title": "‘The Art of the AI Deal’. Anthropic, OpenAI & Microsoft. ARD #187",
+      "description": "‘The Art of the AI Deal’. Anthropic, OpenAI & Microsoft. ARD #187 AI: Reset to Zero",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84RGpQNGd2UG5Cd1RSYnFxVUF0M1NGdGtaRnBzWERaQmY2Z1VYa2V2ZWJGUXpmZjNLY1FaNFcxU25Zckszc29nZ2ZOZWNyd0RwWDR0NjlidnJrS2hNN3V1RmVQY2R6NUZUMVZ1c2NIazRtT0JwbmRjeQ?oc=5",
+      "source": "AI: Reset to Zero",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-19T20:02:36+00:00"
+    },
     {
       "id": "aa56a6b997a9d566",
       "title": "Albertsons and Kroger to Call Ex-CEOs to Testify Over Failed Deal",
@@ -11,6 +21,16 @@
       "region": "Global",
       "section": "supermarkets",
       "published": "2026-10-19T18:39:00+00:00"
+    },
+    {
+      "id": "0058a7c36bd424b0",
+      "title": "The Agent Advantage: How Merchants Plan to Win AI Shopping",
+      "description": "The Agent Advantage: How Merchants Plan to Win AI Shopping PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTWlIeDJSTTg1Q1pYaVliOEthNXI3RGFnTUp6bXJJY1NXWGJSUEZNUlN5Ri10ckdpYkRHb2ZHbGpHcEtMY3MzTVJnamYwR2YzaVgzZTZDUThCcUk0M2E4VGp6X3BnZUVUVHRHU0xkUTExMUViYUctNzgtR0FrZWRIMDFoNmViampoMzJoQ1prOXQ1RlJ3Sm5qYVhR?oc=5",
+      "source": "PYMNTS.com",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-19T17:54:49+00:00"
     },
     {
       "id": "fd6e62c91d1637cc",
@@ -49,6 +69,16 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T16:16:27+00:00"
+    },
+    {
+      "id": "544d9176e6034351",
+      "title": "Big read: Where do investors see value in clean energy?",
+      "description": "Big read: Where do investors see value in clean energy? Responsible Investor",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUMyMTZmc28yUExGdVY0OFI1R2VEa01vcGhKNHEyYVlTNEMtZ1JMbDNlNDJydEJiaGxob3VXSVhRbG9LWmJ0ZTRMeVppaEVQd2hDejdQaG94XzRLektwemVnVXNONVQ3OWhWOTRJRGM4SWw3VldTZ1IxUVNQTDBmVS02WHhmajVOVDZmSWliUFlDb2xRYVE?oc=5",
+      "source": "Responsible Investor",
+      "region": "UK",
+      "section": "energy",
+      "published": "2026-10-19T16:10:09+00:00"
     },
     {
       "id": "72201b1d7b093c1d",
@@ -153,16 +183,6 @@
       "summary": "It has 11 products including Tesco Finest Wagyu Ribeye Steak, Wagyu Rump Steak, Wagyu Sirloin Steak and Wagyu Fillet Steak",
       "key_points": [],
       "summary_origin": "publisher preview"
-    },
-    {
-      "id": "544d9176e6034351",
-      "title": "Big read: Where do investors see value in clean energy?",
-      "description": "Big read: Where do investors see value in clean energy? Responsible Investor",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUMyMTZmc28yUExGdVY0OFI1R2VEa01vcGhKNHEyYVlTNEMtZ1JMbDNlNDJydEJiaGxob3VXSVhRbG9LWmJ0ZTRMeVppaEVQd2hDejdQaG94XzRLektwemVnVXNONVQ3OWhWOTRJRGM4SWw3VldTZ1IxUVNQTDBmVS02WHhmajVOVDZmSWliUFlDb2xRYVE?oc=5",
-      "source": "Responsible Investor",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-10-19T15:12:07+00:00"
     },
     {
       "id": "fc659ea33fa4c749",
@@ -331,16 +351,6 @@
       "region": "UK",
       "section": "energy",
       "published": "2026-10-19T10:59:05+00:00"
-    },
-    {
-      "id": "b5b317348945556b",
-      "title": "Fuel Gas System Market worth $1,837.7 million by 2031 | MarketsandMarkets™",
-      "description": "Fuel Gas System Market worth $1,837.7 million by 2031 | MarketsandMarkets™ PR Newswire UK",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTnhxRjY2NXRFV2pGblVWVUFHbzNEV2VIczJ3Y3hUekFYTDlVZ3g2VjJOWFhXaW5abzY0c0NfTmpYY0JYV2ZFSlNGRDZ0X2dlN1g5S1JlSFREZmJ4d1JwY0QzM2lBRmZWUFVmalZlQWdJNmpWTXJEX25rM1hSRmRyNkNoME11MDQ4VkZQaE1SMkxSSEotZl82OC1QQkNjbm94LVY0anlvZnhfNGhsOG5uUzY1ZmtfR0Y2WS1SUDYtenZ6Mkd0aEZhcA?oc=5",
-      "source": "PR Newswire UK",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-10-19T10:59:00+00:00"
     },
     {
       "id": "078618dd98306d7e",
@@ -685,26 +695,6 @@
       "published": "2026-10-18T07:36:03+00:00"
     },
     {
-      "id": "23b87849933b4c47",
-      "title": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history",
-      "description": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NMmQ5V1p6Y0dwNFptbkR1QVcxNGVVTGFFSDBKMDZjMEYtdm1yVTY4UGhtblZJaXV6UU1xTTdsal9PWE8xR0NrbW42RzZyVWs?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-18T05:26:47+00:00"
-    },
-    {
-      "id": "0358d880f0cf4b97",
-      "title": "Salted Shrimp Prices Surge 30% Ahead of Kimchi Season",
-      "description": "Salted Shrimp Prices Surge 30% Ahead of Kimchi Season 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXFDalZuRXZlSl9EazRtWjVFR2dRVzFCUUZaXzZsdFJnNUpvX1RnTDV4Z2EtRmk5eExoQXd1TWxUOVZKdDl2Q3FCSndHTkNaYWZQcGVlaTh6VjNpYXRYOG1VWDA5cG1KZTVGaXJhUFk3cG5NWVo1RldyNW5Cd1JxOFItMnI4TWpjdndXWnZR?oc=5",
-      "source": "조선일보",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-10-18T00:30:02+00:00"
-    },
-    {
       "id": "61de9df08afc2da2",
       "title": "There's a crackdown on sports piracy - but is it already out of control?",
       "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
@@ -813,6 +803,16 @@
       "published": "2026-10-17T03:40:56+00:00"
     },
     {
+      "id": "49cabe197aa19adb",
+      "title": "Nvidia CEO Jensen Huang's First X Post Backs Open-Weight AI Alongside Meta, Microsoft, Palantir",
+      "description": "Nvidia CEO Jensen Huang's First X Post Backs Open-Weight AI Alongside Meta, Microsoft, Palantir Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTg5MEk2WjN3NWJfY1lzdjBvc2E0dmE2YmFjN0hfcGJfV0xWajRCa0Z0REctNjIyVVRTZUdIVk5jWkgydmRJZTRnb25vM3ZQMjhaSG5tWXdlOF81N3Y5NTVnZTVXaWJsTnVjQ19IRjZGVXNFS0hPV2Y1WWgzMXU3MG1PR2hOcjNyUzZ4UXZXMF9PbGJGUnZFbU14Sl9kUkJ3eV90M0tVRTBMY2puV2JCMlFIaG0tNE9iWDA2OGRmaFlRejFDVF9GYUh3?oc=5",
+      "source": "Stocktwits",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-17T03:38:32+00:00"
+    },
+    {
       "id": "96b4a49fba522590",
       "title": "Simpler deals to improve Singles Day sales",
       "description": "Simpler deals to improve Singles Day sales China Daily",
@@ -853,6 +853,16 @@
       "published": "2026-10-16T21:20:53+00:00"
     },
     {
+      "id": "8a2b2141e514e66c",
+      "title": "EU Commission chief urges to change energy consumption as fossil fuel imports cost bloc extra $119B",
+      "description": "EU Commission chief urges to change energy consumption as fossil fuel imports cost bloc extra $119B Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaE5qUFFWVlFyZVladGwwZ19kWEdxdnJEQ0hDSl82TnlvQkZicm5PYnFtUW9mSE9yNHNTUlk4OU5lZjZ4cjZ1V3VXSFVaM2pGdjRpUUdIR2NwSHlTTGhQckNoSjc0cF8tRlF5dEZDWVkxUGdwckVTSWQzVkVVRVhJSjN5aks2TjJFUzRKd1RyVWhpMWtJZUlKbHpGMzBfX1hHRkdnSGdLOG5JSEVJdXRId3dScjB6aERUOTdIUFhFMHd1bEdDY1N4NTJrSllKSnR3N0tLSQ?oc=5",
+      "source": "Anadolu Ajansı",
+      "region": "UK",
+      "section": "energy",
+      "published": "2026-10-16T18:14:52+00:00"
+    },
+    {
       "id": "fe043a791ca75d8f",
       "title": "Italy secures EU deal to lower its electricity prices",
       "description": "Italy secures EU deal to lower its electricity prices Financial Times",
@@ -873,16 +883,6 @@
       "published": "2026-10-16T16:41:07+00:00"
     },
     {
-      "id": "720af6214b9759cc",
-      "title": "The Friday Checkout: Ahold Delhaize’s digital disaster is a customer retention nightmare",
-      "description": "The Friday Checkout: Ahold Delhaize’s digital disaster is a customer retention nightmare Grocery Dive",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2I3Rk9leTR2bHJMRTFzR0dhd3BNdnlFUmotaWhlX3FRQTFwZnFGYnUxcjB2cE5MVDJ3UzlRTktMVG5BVmpTOGExZWhHUFBEYm1OdkZVdWJDNVNrSEdZVjhRanN2aVE4bnF6SVFSdGNHemQ3ekFRRGVwb09oUldCOXE4N0VnY1V6Mmg4ekd6dlVOYWN6YlpXOVUzQ2FVZ0hNTzZyOHVWNUV4NjVHQnVDU2xFbGk?oc=5",
-      "source": "Grocery Dive",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-16T15:55:19+00:00"
-    },
-    {
       "id": "d9e8dcc818ceeed9",
       "title": "BRC Notes Sluggish Retail Sales in September",
       "description": "BRC Notes Sluggish Retail Sales in September Insight DIY",
@@ -901,16 +901,6 @@
       "region": "UK",
       "section": "food",
       "published": "2026-10-16T14:20:00+00:00"
-    },
-    {
-      "id": "07c72068cefd0749",
-      "title": "Online Grocery Market: The 3-Way Profit Model",
-      "description": "Online Grocery Market: The 3-Way Profit Model Kings Research",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjVXWnNsXzNJYThQc1NKQTNiazliaHRvdWZlVHgwckxvY2VLVTV0YWFINEREbmduY3RRd2x5UzVvVk0tTG9NQk5XWUNueHhUb283bmFTeFliaWFWUk83WmFOdzZocy1MbzItbTFVSlRIamFaYmFZcjYyUm1BNm4xLVN0Z3R4Tm8?oc=5",
-      "source": "Kings Research",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-16T13:26:24+00:00"
     },
     {
       "id": "f5da609563557431",
@@ -1051,6 +1041,16 @@
       "published": "2026-10-16T07:30:00+00:00"
     },
     {
+      "id": "8dce603ee8271cd6",
+      "title": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn",
+      "description": "AI and finfluencers fuel surge in consumer scam risk as fraud hits record £1.28bn Money Marketing",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORldMb3FDa2FMdVQ4TzJKNGtKQktKcnBTVGhEaF9XS002dVd4UGlRSjFzT2tEOGgtWm1hV21pcTdTTXJtN3g5R1hVRThrTTYxWGFDNlVoWlRLc1JFbmEyMVFLb3A5UFl3QklIWElTRmQxNHVwSHBmdjliY1kzMm1DbEtXX2FLX2RlVGd5UV8tYkJVeUJxVlNnT1RlTlZxSzRMbXNmdTBveTQ0Vk5tMk91eVp5SlV6b1l6X1FV?oc=5",
+      "source": "Money Marketing",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-16T07:28:49+00:00"
+    },
+    {
       "id": "0b8d9023e16a2e9a",
       "title": "Amazon | E-commerce, Amazon Web Services, History, & Facts",
       "description": "Amazon | E-commerce, Amazon Web Services, History, & Facts Britannica",
@@ -1175,6 +1175,16 @@
       "published": "2026-10-15T19:46:37+00:00"
     },
     {
+      "id": "e8daae0c8725cd91",
+      "title": "Kiplinger Retail Outlook: Consumers Keep Spending, but…",
+      "description": "Kiplinger Retail Outlook: Consumers Keep Spending, but… Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncjA5YjZqazM5X2VIMGxXX0VDVlBQSERoanFIRXVJTDRtLTBPRmowZ0lneFN1YnRqZ09Qa1hKakVRZmhiRmRoa29xSDJhMEpkenRRd096bGI4LV85bFpCUXpacWpUQTBm?oc=5",
+      "source": "Kiplinger",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-15T19:09:03+00:00"
+    },
+    {
       "id": "40827384324d5f80",
       "title": "Meta Releases Open AI Model While Keeping Its Best Tech Closed",
       "description": "Meta Releases Open AI Model While Keeping Its Best Tech Closed Yahoo Finance UK",
@@ -1203,6 +1213,16 @@
       "region": "UK",
       "section": "supply",
       "published": "2026-10-15T13:57:06+00:00"
+    },
+    {
+      "id": "01a99c1be5d00d76",
+      "title": "How food and beverage manufacturers can take control of FX risk",
+      "description": "How food and beverage manufacturers can take control of FX risk Convera",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHZKcVlVVkVEekExLVRVbVpLYmk5OVV1cUh3SFNGMTFrRURVYUs4LVZ4UEhfdXlOZkVzZ3paemh1STE0VXNJZXFYQW1NMlVETDdOVFdDWDJ1TW5yS2IwQ1RqeEZyZEtJcS1FU3JMUjBfNzBGS0V0cDlGSGpMNGszZmNBQVZoY3J4V1h2QzRSbmVaYVRuYXZR?oc=5",
+      "source": "Convera",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-10-15T13:37:26+00:00"
     },
     {
       "id": "1533cf8e117e5bad",
@@ -1245,16 +1265,6 @@
       "published": "2026-10-15T11:00:00+00:00"
     },
     {
-      "id": "841d0a22dc61cb44",
-      "title": "U.K. Economy Defies Gloomy Predictions With Help From AI",
-      "description": "U.K. Economy Defies Gloomy Predictions With Help From AI WSJ",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmE5VndlSVB3NGFIb3FEelExSFI4dFdOckJ6a0lvWTdiTlY4OXhBT2xzbllyQUx3MmNzV1dSQjhaTkV6M3l6X1lBcFBhYnF5VXBmTW55NWMyVEtEQ1RLR3BRRjdkZEE0YmYwdDlnbF9KTnJGcFVaM09oTnhvMzA1eE53V1lwLVRyd0swTzd2S0ZTYmM?oc=5",
-      "source": "WSJ",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-15T09:26:00+00:00"
-    },
-    {
       "id": "b11e42c5b87084e0",
       "title": "Shellfish harvesting shut down over Salmonella outbreak",
       "description": "",
@@ -1273,16 +1283,6 @@
       "summary_origin": "public article text"
     },
     {
-      "id": "d3e78982943bb599",
-      "title": "Tech leaders, Wall Street CEOs, governments split over 'AI doom' fears",
-      "description": "Tech leaders, Wall Street CEOs, governments split over 'AI doom' fears Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVG9SVFRUdWs4Y0dKakJtbjk5NmtsVUxJWXpjSlQ4TWQzZVpJZmNEVVVLNW1jWHdHZld1eU5rVTZFbjJ4bDZ6cHF6WXozUDdyejE5QUE1V2xpRWpuRXN4RnR0M1JfNkFKXzA2eDdsbDhkYkdMRkhKamtyUkRJWXdtX1pfT0JUOVYwbUxrUGN0SEFlUEo2RkdMWndMeWljNVZrbXpXSzBhVENta1lCLVIxbExB?oc=5",
-      "source": "Reuters",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
       "id": "4b24431ce9ee32c1",
       "title": "Lean Finance: From Complexity to Business Value",
       "description": "",
@@ -1297,14 +1297,14 @@
       "summary_origin": "public article text"
     },
     {
-      "id": "4d7c6053c9f38252",
-      "title": "Maia 300: Microsoft’s Third-Gen AI Chip Aims to Cut Its Dependence on Nvidia From 2027",
-      "description": "Maia 300: Microsoft’s Third-Gen AI Chip Aims to Cut Its Dependence on Nvidia From 2027 eGamers.io",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR2NwRHYyVEI2T2xTLUpZZzB5UWJ5WjhrUUY2TVpuT0ltT1loUGg0VWNJR3V4Z0RJMUgxaDFpSi0xN1hVMVhkaUgxNkQ1ZDNjMlpLeTZHT3dGVVUwZ2VWSTZlNmFfbm1DVElDSFZ6UDFNTGQtSnRIUG42bXZrbjhodHVMRlFlNXllM1N6dzcyU2pabTVydlBvUnRzaWxXR3RUOXZhSkk2MA?oc=5",
-      "source": "eGamers.io",
+      "id": "77445f5f18ce5f2f",
+      "title": "Citigroup Q3 profit jumps 40% to $5.25 bn, beating Wall Street estimates",
+      "description": "Citigroup Q3 profit jumps 40% to $5.25 bn, beating Wall Street estimates Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWlN5QmthNm5abDBJNGFwaHpfQThPU0hkTE9obURRbXYtYWVSZmlwMGJPNHBpWkYzY3RQSVVBWTNWRVpQZmNGeUprV0N2TzFNcm9pSlF0Q0x6Y3ZPZkdBbmtUUVFrSVpuZ1RQdC1DTlctM011T1hZdUQtM3ZDREo2dFhmMDBCMkdpY3c?oc=5",
+      "source": "Beinsure",
       "region": "Global",
-      "section": "ai",
-      "published": "2026-10-14T19:46:03+00:00"
+      "section": "finance",
+      "published": "2026-10-14T20:43:27+00:00"
     },
     {
       "id": "d03b8ebfe69410ba",
