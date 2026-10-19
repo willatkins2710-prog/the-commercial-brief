@@ -23,6 +23,8 @@ RSS_FEEDS=[
     ('supermarkets','UK','The Grocer','https://www.thegrocer.co.uk/34272.rss',''),
     ('commercial-finance','Global','CFO Dive','https://www.cfodive.com/feeds/news/','commercial'),
     ('commodities','UK','The Grocer','https://www.thegrocer.co.uk/34272.rss','commodities'),
+    ('commodities','UK','Food Manufacture','https://www.foodmanufacture.co.uk/arc/outboundfeeds/rss/','commodities'),
+    ('commodities','Global','FoodNavigator','https://www.foodnavigator.com/arc/outboundfeeds/rss/','commodities'),
     ('economy','UK','BBC News','https://feeds.bbci.co.uk/news/business/rss.xml',''),
 ]
 COMMODITY_WORDS=re.compile(
