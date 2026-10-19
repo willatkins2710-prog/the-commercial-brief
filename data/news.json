@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T20:00:00.687065+00:00",
-  "price_updated_at": "2026-10-19T20:00:00.687065+00:00",
+  "updated_at": "2026-10-19T20:01:20.866167+00:00",
+  "price_updated_at": "2026-10-19T20:01:20.866167+00:00",
   "articles": [
     {
       "id": "aa56a6b997a9d566",
@@ -685,6 +685,16 @@
       "published": "2026-10-18T07:36:03+00:00"
     },
     {
+      "id": "23b87849933b4c47",
+      "title": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history",
+      "description": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NMmQ5V1p6Y0dwNFptbkR1QVcxNGVVTGFFSDBKMDZjMEYtdm1yVTY4UGhtblZJaXV6UU1xTTdsal9PWE8xR0NrbW42RzZyVWs?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-18T05:26:47+00:00"
+    },
+    {
       "id": "0358d880f0cf4b97",
       "title": "Salted Shrimp Prices Surge 30% Ahead of Kimchi Season",
       "description": "Salted Shrimp Prices Surge 30% Ahead of Kimchi Season 조선일보",
@@ -893,6 +903,16 @@
       "published": "2026-10-16T14:20:00+00:00"
     },
     {
+      "id": "07c72068cefd0749",
+      "title": "Online Grocery Market: The 3-Way Profit Model",
+      "description": "Online Grocery Market: The 3-Way Profit Model Kings Research",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjVXWnNsXzNJYThQc1NKQTNiazliaHRvdWZlVHgwckxvY2VLVTV0YWFINEREbmduY3RRd2x5UzVvVk0tTG9NQk5XWUNueHhUb283bmFTeFliaWFWUk83WmFOdzZocy1MbzItbTFVSlRIamFaYmFZcjYyUm1BNm4xLVN0Z3R4Tm8?oc=5",
+      "source": "Kings Research",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-16T13:26:24+00:00"
+    },
+    {
       "id": "f5da609563557431",
       "title": "First Shift: Fuel reserves, critical minerals and longer planning horizons shape the day",
       "description": "First Shift: Fuel reserves, critical minerals and longer planning horizons shape the day Supply Chain Management Review",
@@ -901,6 +921,16 @@
       "region": "Global",
       "section": "supply",
       "published": "2026-10-16T13:20:00+00:00"
+    },
+    {
+      "id": "ea19db43d0daba20",
+      "title": "European Shares Extend Gains as Corporate Earnings Strengthen and Bond Yields Ease: DAX, CAC, FTSE100",
+      "description": "European Shares Extend Gains as Corporate Earnings Strengthen and Bond Yields Ease: DAX, CAC, FTSE100 Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX0tZd2FtdXRaMldMMVhqdnJvRlhFNnlGb3F0SXNuZFVwdFFrWXQtbHNHTjdXSnVGa2J5b2lvZXUxSXpaa1NqYkhEcTROZjB1N3BsZHViZTFHand3RHRGRXZVSGxUbGdoMlJTV3FoVDRENjFMOXkwXzZKRGE0dkQtbEpHTTBQREI3NlUxcTRVSG0?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-16T13:10:03+00:00"
     },
     {
       "id": "0741b43d38d00bf2",
@@ -921,6 +951,7 @@
       "region": "UK",
       "section": "commodities",
       "published": "2026-10-16T12:52:15+00:00",
+      "direct_source": true,
       "summary": "The Agriculture and Horticulture Development Board (AHDB) has said that constrained cattle and sheep supply will remain a key feature of the market, underpinning market fundamentals in the years ahead.",
       "key_points": [
         "Across the board, the levy body is expecting production of beef, lamb, pork and dairy to fall over the next year.",
@@ -1027,16 +1058,6 @@
       "source": "Britannica",
       "region": "Global",
       "section": "retail",
-      "published": "2026-10-16T07:00:00+00:00"
-    },
-    {
-      "id": "f272e13bbb965fb3",
-      "title": "Market Movers blog: European markets in the green as inflation rises in the eurozone",
-      "description": "Market Movers blog: European markets in the green as inflation rises in the eurozone Investment Week",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-      "source": "Investment Week",
-      "region": "UK",
-      "section": "finance",
       "published": "2026-10-16T07:00:00+00:00"
     },
     {
@@ -1154,16 +1175,6 @@
       "published": "2026-10-15T19:46:37+00:00"
     },
     {
-      "id": "e8daae0c8725cd91",
-      "title": "Kiplinger Retail Outlook: Consumers Keep Spending, but…",
-      "description": "Kiplinger Retail Outlook: Consumers Keep Spending, but… Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncjA5YjZqazM5X2VIMGxXX0VDVlBQSERoanFIRXVJTDRtLTBPRmowZ0lneFN1YnRqZ09Qa1hKakVRZmhiRmRoa29xSDJhMEpkenRRd096bGI4LV85bFpCUXpacWpUQTBm?oc=5",
-      "source": "Kiplinger",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-15T19:09:03+00:00"
-    },
-    {
       "id": "40827384324d5f80",
       "title": "Meta Releases Open AI Model While Keeping Its Best Tech Closed",
       "description": "Meta Releases Open AI Model While Keeping Its Best Tech Closed Yahoo Finance UK",
@@ -1252,6 +1263,7 @@
       "region": "UK",
       "section": "commodities",
       "published": "2026-10-15T08:49:57+00:00",
+      "direct_source": true,
       "summary": "Virginia state health officials have shut down all shellfish harvesting on the Little Wicomico River in Northumberland County as a precaution after several people became ill with Salmonella.",
       "key_points": [
         "This latest outbreak, which first emerged in Pennsylvania, has now been traced to shellfish harvested from the Little Wicomico River.",
@@ -1279,6 +1291,7 @@
       "region": "Global",
       "section": "commercial-finance",
       "published": "2026-10-15T00:00:00+00:00",
+      "direct_source": true,
       "summary": "Lean Finance helps FP&A cut low-value complexity, protect critical capabilities and reallocate capacity towards higher-value decisions.",
       "key_points": [],
       "summary_origin": "public article text"
@@ -1292,16 +1305,6 @@
       "region": "Global",
       "section": "ai",
       "published": "2026-10-14T19:46:03+00:00"
-    },
-    {
-      "id": "5f0c72e10501c873",
-      "title": "BofA misses profit estimates on trading weakness, books $1.2 billion charge",
-      "description": "BofA misses profit estimates on trading weakness, books $1.2 billion charge Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERjcDdENDA2c180cFVhdW01WTVBaEdQdjRvejB6eGpkNklKUE8xM05mX1YybXZmMExUUXVkVDhMZUxGS0g5MWN0S3NtOHk1TjBISzBTWHB6VElZSjFjTHFUdU5sZXZtcHFxa0VybC1qR2Y2R0doZThnbGJoQVE5LVg5bHBDZmFvUm9ONGVUdUszODFvWV9aWlROdnE4NWs5R0FYZmJIVFAxaHZCQlJVRmtidS1IUlhVM1ZIM09MeEk?oc=5",
-      "source": "Reuters",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-14T18:07:54+00:00"
     },
     {
       "id": "d03b8ebfe69410ba",
@@ -1372,6 +1375,7 @@
       "region": "Global",
       "section": "commercial-finance",
       "published": "2026-10-08T00:00:00+00:00",
+      "direct_source": true,
       "summary": "It’s June, the annual budget was confidently approved in November, and now the numbers aren’t adding up.",
       "key_points": [
         "An initiative that looked like the obvious growth driver six months ago is underdelivering, while a smaller, underfunded programme is quietly outperforming its target.",
@@ -1418,6 +1422,7 @@
       "region": "Global",
       "section": "commercial-finance",
       "published": "2026-10-06T00:00:00+00:00",
+      "direct_source": true,
       "summary": "When you watch a symphony orchestra, you can see the conductor, the musicians and the instruments, but what is really magical is the invisible architecture that keeps them together: coordination.FP&A is just the same.",
       "key_points": [
         "The conductor is FP&A itself: setting direction, owning the decision, and remaining accountable for the outcome.",
@@ -1435,6 +1440,7 @@
       "region": "Global",
       "section": "commercial-finance",
       "published": "2026-10-01T00:00:00+00:00",
+      "direct_source": true,
       "summary": "Why output metrics fail in agentic finance — and what to measure instead.In Parts 1 and 2, I argued that agentic AI does not shrink the FP&A role so much as relocate it [1] [2].",
       "key_points": [
         "The routine production of a variance pack or a driver-based forecast moves to the agent; what remains for the professional is judgment in the probabilistic zone that the agent cannot be trusted to…",
