@@ -97,6 +97,13 @@ def read_public_article(url):
             ):
                 paragraphs.append(text)
         if len(paragraphs) < 3:
+            # Publisher-provided metadata is useful when the article body is
+            # rendered client-side or not publicly available.
+            for attrs in ({"property":"og:description"}, {"name":"description"}):
+                meta=soup.find("meta",attrs=attrs)
+                candidate=compact(meta.get("content","") if meta else "")
+                if len(candidate)>=100:
+                    return candidate
             return ""
         return " ".join(paragraphs[:10])[:6500]
     except Exception as exc:
