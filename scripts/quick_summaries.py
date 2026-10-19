@@ -23,7 +23,7 @@ SENTENCES = re.compile(r'(?<=[.!?])\s+(?=[A-Z0-9"“‘])')
 
 
 def compact(text):
-    return re.sub(r"\s+", " ", html.unescape(text or "")).strip()
+    return re.sub(r"(?<=[a-z0-9])\.(?=[A-Z])", ". ", re.sub(r"\s+", " ", html.unescape(text or ""))).strip()
 
 
 def sentence_candidates(raw):
