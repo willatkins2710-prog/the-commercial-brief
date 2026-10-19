@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T19:52:44.245010+00:00",
-  "price_updated_at": "2026-10-19T19:52:44.245010+00:00",
+  "updated_at": "2026-10-19T19:57:49.974895+00:00",
+  "price_updated_at": "2026-10-19T19:57:49.974895+00:00",
   "articles": [
     {
       "id": "aa56a6b997a9d566",
@@ -31,6 +31,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T16:46:35+00:00",
+      "direct_source": true,
       "summary": "Vinted says it has removed listings of items believed to have been looted from shops during the ongoing riots in France .",
       "key_points": [
         "The second hand re-selling platform said following the weekend's disorder it had \"taken immediate action to identify and remove listings linked to looting\".",
@@ -58,29 +59,10 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T16:09:00+00:00",
+      "direct_source": true,
       "summary": "The business, launched by brothers Brendon and Jaydon Manders from their kitchen table in 2020, has scaled its UK retail presence since securing investment from an appearance on Dragons’ Den in 2025.",
       "key_points": [],
       "summary_origin": "publisher preview"
-    },
-    {
-      "id": "46f0059453dddf0a",
-      "title": "FRS 102 lease accounting: How to get month-end right",
-      "description": "Financial reporting",
-      "url": "https://www.accountingweb.co.uk/business/financial-reporting/frs-102-lease-accounting-how-to-get-month-end-right",
-      "source": "AccountingWEB",
-      "region": "UK",
-      "section": "commercial-finance",
-      "published": "2026-10-19T16:00:00+00:00"
-    },
-    {
-      "id": "f8ff821a6143182a",
-      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
-      "description": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
-      "source": "EnergyNow.com",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-10-19T15:55:06+00:00"
     },
     {
       "id": "c5f94697688dcb8b",
@@ -101,6 +83,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T15:44:53+00:00",
+      "direct_source": true,
       "summary": "Hundreds watch e-bike jousting in London Fields in Hackney, east London E-bike rental company Lime has said its bikes are \"not for jousting\" after footage of two riders dressed as knights charging at each other in an east London park circulated over the weekend.",
       "key_points": [
         "Hundreds of people congregated in London Fields, Hackney, to watch artist Jack Carden and actor Camtholomew the First joust, while riding the bright green rentable e-bikes.",
@@ -128,6 +111,7 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T15:25:00+00:00",
+      "direct_source": true,
       "summary": "Available at Waitrose and Ocado from 21 October, it has been described as ‘gently spiced’ and made with free-range whole milk, turmeric, cinnamon, black pepper and honey",
       "key_points": [],
       "summary_origin": "publisher preview"
@@ -141,6 +125,7 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T15:23:00+00:00",
+      "direct_source": true,
       "summary": "Through LENs, the funding will support farmers across more than 2,500 hectares of land including within Danone’s key oat sourcing regions",
       "key_points": [],
       "summary_origin": "publisher preview"
@@ -154,6 +139,7 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T15:13:00+00:00",
+      "direct_source": true,
       "summary": "It has 11 products including Tesco Finest Wagyu Ribeye Steak, Wagyu Rump Steak, Wagyu Sirloin Steak and Wagyu Fillet Steak",
       "key_points": [],
       "summary_origin": "publisher preview"
@@ -187,6 +173,7 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T14:03:00+00:00",
+      "direct_source": true,
       "summary": "Princes has added Thai Red Chicken Curry, Thai Green Chicken Curry, Chicken Katsu Curry and Korean Sweet Chilli Chicken Curry",
       "key_points": [],
       "summary_origin": "publisher preview"
@@ -200,6 +187,7 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T14:02:00+00:00",
+      "direct_source": true,
       "summary": "Developed in collaboration with Tesco and available since 12 October, it comprises Mozzarella & Tomato Egg Bites, Ham Hock with Sweet Potato Frittata Slices and Boiled Eggs",
       "key_points": [],
       "summary_origin": "publisher preview"
@@ -235,21 +223,6 @@
       "published": "2026-10-19T13:07:00+00:00"
     },
     {
-      "id": "b1510b34940c18e1",
-      "title": "Our comments featured in the Times - How to beat the fresh mortgage squeeze",
-      "description": "Finance & strategy Tags Alternative finance Finance Finance, Accounting and Bookkeeping Show",
-      "url": "https://www.accountingweb.co.uk/community/industry-insights/our-comments-featured-in-the-times-how-to-beat-the-fresh-mortgage",
-      "source": "AccountingWEB",
-      "region": "UK",
-      "section": "commercial-finance",
-      "published": "2026-10-19T13:05:00+00:00",
-      "summary": "MSP Financial Solutions is a whole of market mortgage brokerage bringing together an abundance of industry experience to offer clear, expert property finance advice, with a personal touch.",
-      "key_points": [
-        "Our key focus is partnering with financial professionals, particularly accountancy firms."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
       "id": "bcb0edc8f340dc06",
       "title": "Home sellers cut asking prices on 3,000 properties a day",
       "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
@@ -258,6 +231,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T12:54:03+00:00",
+      "direct_source": true,
       "summary": "Home sellers cut asking prices on more than 3,000 properties a day on average in Britain during September, according to figures from Rightmove shared exclusively with the BBC.",
       "key_points": [
         "The property website said the total was the highest of any month for 15 years and was driven, in part, by a glut of homes on the market and some sellers setting unrealistic…",
@@ -285,6 +259,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T12:16:32+00:00",
+      "direct_source": true,
       "summary": "Bereaved families affected by severe delays paying out civil service pensions could face an \"unjust\" tax bill, the government has been warned.",
       "key_points": [
         "Under HMRC rules, certain lump sum pension payments must be paid within two years of the pension scheme being notified of a death to remain tax-free.",
@@ -332,6 +307,7 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-19T11:13:00+00:00",
+      "direct_source": true,
       "summary": "Bernard Matthews will receive the lion’s share of the sum, according to the Ranjit Boparan-owned firm, with much of it bound for its Halesworth facility – which processes around 100k turkeys a week",
       "key_points": [],
       "summary_origin": "publisher preview"
@@ -377,22 +353,6 @@
       "published": "2026-10-19T10:22:00+00:00"
     },
     {
-      "id": "69a1cb0a1fcec36f",
-      "title": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
-      "description": "The last long-term federal recovery funds allocated for a major disaster were for Hurricane Milton, which hit in late 2024 Survivors of extreme weather disasters across the US are facing long waits for government assistance funds to rebuild their lives, with t",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
-      "source": "The Guardian",
-      "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-19T10:00:03+00:00",
-      "summary": "The last long-term federal recovery funds allocated for a major disaster were for Hurricane Milton, which hit in late 2024 Survivors of extreme weather disasters across the US are facing long waits for government assistance funds to rebuild their lives, with the last long-term recovery funds allocated for Hurricane Milton…",
-      "key_points": [
-        "Government officials estimate more than $10bn is needed in long-term disaster recovery funding to rebuild affected communities in Los Angeles county and St Louis, Missouri, alone.",
-        "Demetrice Davis’s home in north St Louis still has damage from the EF3 tornado that tore through the area in May 2025."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
       "id": "480118fff36feb62",
       "title": "People playing loud music on buses could face £100 fine",
       "description": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched.",
@@ -401,6 +361,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T09:49:58+00:00",
+      "direct_source": true,
       "summary": "Passengers who play loud music on buses in England could be fined up to £100 under an attempt by the government to crack down on antisocial behaviour.",
       "key_points": [
         "The measures also seek to tackle littering, vaping and threatening behaviour to help improve journeys on all forms of public transport.",
@@ -418,6 +379,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T09:38:25+00:00",
+      "direct_source": true,
       "summary": "Elon Musk's SpaceX and artificial intelligence giant Anthropic have pledged big financial giveaways as Big Tech firms come under pressure over the potential impact of AI on humanity.",
       "key_points": [
         "Musk said on Monday that he would give one of his shares at his rocket company, which owns xAI, to every child in America next year.",
@@ -435,6 +397,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T09:01:40+00:00",
+      "direct_source": true,
       "summary": "Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October.",
       "key_points": [
         "He has refused to rule out tax increases after acknowledging government borrowing costs are at \"historic highs\".",
@@ -474,23 +437,6 @@
       "published": "2026-10-19T08:14:18+00:00"
     },
     {
-      "id": "a644cd870e0ae9e5",
-      "title": "Most practices that act as company secretary handle written resolutions for clients. The drafting is rarely the problem. The process around it is.",
-      "description": "Finance & strategy Tags Companies House Company law Practice management",
-      "url": "https://www.accountingweb.co.uk/community/industry-insights/most-practices-that-act-as-company-secretary-handle-written-resolutions",
-      "source": "AccountingWEB",
-      "region": "UK",
-      "section": "commercial-finance",
-      "published": "2026-10-19T07:46:00+00:00",
-      "summary": "Written resolutions are the everyday decision-making tool of the UK private company.",
-      "key_points": [
-        "Shareholders spread across the country, directors who can't all make the same call, a decision that needs to be on file by Friday: a written resolution is how it gets done.",
-        "For practices that provide company secretarial services, they are also a quiet source of risk.",
-        "The problems sit in the process: who was asked, when, and what they signed."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
       "id": "05d5ce35fb8133a4",
       "title": "UK profit warnings hit near two-year high as retailers brace for Budget",
       "description": "UK profit warnings hit near two-year high as retailers brace for Budget Retail Gazette",
@@ -501,21 +447,14 @@
       "published": "2026-10-19T07:24:41+00:00"
     },
     {
-      "id": "5a638e8f0f39ff81",
-      "title": "Xero looks for lift-off with fixes, not fanfare",
-      "description": "Accounting software",
-      "url": "https://www.accountingweb.co.uk/tech/accounting-software/xero-looks-for-lift-off-with-fixes-not-fanfare",
-      "source": "AccountingWEB",
-      "region": "UK",
-      "section": "commercial-finance",
-      "published": "2026-10-19T07:00:00+00:00",
-      "summary": "After making headlines for the wrong reasons, Xero started its run of roadshows in Bristol with a message aimed squarely at accountants and bookkeepers: it is listening, and it has software to show for it.",
-      "key_points": [
-        "Held at Aerospace Bristol, home of the final Concorde ever built, the event followed a turbulent September in which a paid influencer post suggested AI could cut accounting fees, while automated analytics emails…",
-        "But rather than dwell on the controversy, Xero executives used their keynotes to pitch new additions for take-off targeting the everyday friction found in running a practice.",
-        "Xero’s general manager, UK product Grant Smith, began his presentation by focusing on fixing practical issues for practitioners."
-      ],
-      "summary_origin": "public article text"
+      "id": "62a8cf4f965298a4",
+      "title": "Tariffs reshape airfreight demand and supply chains",
+      "description": "Tariffs reshape airfreight demand and supply chains Global Sources",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMVJHYkNKZ0h0a2t5WGJhNnlUWkoxZlJfbHJVREhxSURYZ25ZTmVSSHBKMEE5LTV5NmNXc2dOazFURWs2amsxX3NzOTB2Zm9PUUVUd0RmUUtYMm5FNUFIUndKZGIxTUVkV3FPVUl3Z3c4Y1dzZGI1ZXhlanRsZzlyMFNRXzREbHlyOTlERW50YlVOM1JfdWwxZ2RyN3VJRFE?oc=5",
+      "source": "Global Sources",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-19T06:53:47+00:00"
     },
     {
       "id": "54ab3daa0b738952",
@@ -526,38 +465,12 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-19T06:08:02+00:00",
+      "direct_source": true,
       "summary": "China's economic growth picked up in the three months to the end of September, rebounding from a three-year low as the artificial intelligence (AI) boom helped boost exports.",
       "key_points": [
         "The world's second largest economy grew by 4.5% in the third quarter, up from the previous period but below the 5% expansion recorded from January to March, according to official Chinese data.",
         "The latest figure is at the bottom end of Beijing's annual growth target of 4.5%-5%, which analysts have said gives policymakers room to address the country's economic challenges.",
         "While exports have helped offset weak spending at home, global trade tensions and uncertainty over AI investments are clouding its outlook."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
-      "id": "db097bcb4414ce0b",
-      "title": "Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks",
-      "description": "Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0lTQng2Q2RoUVg1UnFEMFVqeTJOQzJXZXhfT3RQYmNLcnBHakJOU1A2VnpELUI0RFk0WmhFUVNMcmRtSjFTZnowRmtmOEZ6WjVDZ25Vd2JxZE9wUnBaMkh1U0lVTU5sbm5OV0g1cjdiTlJfNmxseXpuWWJxT0ttSFYzd2ZXY2RWWjhXU3V6X3o3WlFuMlVVTVVMYkM1WjVGRGc?oc=5",
-      "source": "EnergyNow.com",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-10-19T06:01:29+00:00"
-    },
-    {
-      "id": "894fa54d5f082c71",
-      "title": "Seabird numbers bounce back in Solent region after 2022 avian flu wipeout",
-      "description": "Conservation work by RSPB has led to recovery of terns, gulls, plovers and oystercatchers on England’s south coast The colony of sandwich terns nesting at Pagham harbour, West Sussex, was completely wiped out by bird flu in 2022. But numbers have bounced back ",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/seabird-numbers-bounce-back-solent-region-avian-flu-rspb",
-      "source": "The Guardian",
-      "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-19T06:00:21+00:00",
-      "summary": "Conservation work by RSPB has led to recovery of terns, gulls, plovers and oystercatchers on England’s south coast The colony of sandwich terns nesting at Pagham harbour, West Sussex, was completely wiped out by bird flu in 2022.",
-      "key_points": [
-        "But numbers have bounced back from zero to 756 breeding pairs in just three years after conservation work in the Solent.",
-        "Populations of breeding little terns, ringed plovers, oystercatchers and black-headed gulls have also increased along the same coastline.",
-        "The turnaround comes thanks to work by RSPB staff and volunteers at the Pagham harbour nature reserve and similar efforts across 52,000 hectares (128,000 acres) of coastline and estuary between the south coast…"
       ],
       "summary_origin": "public article text"
     },
@@ -570,26 +483,6 @@
       "region": "UK",
       "section": "finance",
       "published": "2026-10-19T05:50:00+00:00"
-    },
-    {
-      "id": "3e3329bddc428667",
-      "title": "NORMA Group provides details on NewNORMA strategy and sets financial ambition through 2031",
-      "description": "NORMA Group provides details on NewNORMA strategy and sets financial ambition through 2031 TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQXRLWG5ENzJEMWQxVTVHZkF4ck92TDc2SXA0M25tNnIyTnJxVC1HRFlucEU4SFpFN0hJSnZYTDF3emhFR2JEUjZJRVdSVEpYZkZMZkNiTERWRmRjX3pBYmdydkhiSThIZWRjMVpuVFZSSDdqaHlsUk9yQnNqWG1LZk1yT3I1R1RjeEZqYTd0dUJJUDBNSlFia1ZKdmhRNXQzS1psLXJoN2Faa0taYkJiMGUzMFVXaGdhZS16c3BhdURRVmRJbGVsNFMyRWM5LS1KTXVGbWJnY0xxSlVL?oc=5",
-      "source": "TradingView",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-10-19T05:03:00+00:00"
-    },
-    {
-      "id": "90c7765d7d570156",
-      "title": "Law Society calls for greater support for small firms",
-      "description": "Law Society calls for greater support for small firms Today's Wills and Probate",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWkFtZXEtNndUcklMU0xTSGxHVkhTVlZXNldNUHJWTmhMWFVHVlh2elNqdHlDU282YVUyUFlueDBMNHBRVGxsY1hHT3RiN21uSDFjczIzY05oOGZVSVJsUEhNZGNrZlBsUk1lejJ0QTU1Y0dtdFJSWDFxRjQ2RFV3Y3J4alBab0FuNm5YXzV0RGxIcVp1?oc=5",
-      "source": "Today's Wills and Probate",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-19T03:15:09+00:00"
     },
     {
       "id": "d44edc656ca9307d",
@@ -610,6 +503,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-18T23:28:45+00:00",
+      "direct_source": true,
       "summary": "The boss of one of Ukraine's biggest steel companies has called on the European Union to drop import restrictions on products made from the country, arguing it has been \"bundled together\" in measures aimed a curbing cheap imports from the likes of China.",
       "key_points": [
         "Yuriy Ryzhenkov, chief executive of Metinvest, told the BBC the recently-imposed tariffs on imported steel to the EU were \"unfair\" and had been put in place \"without any consideration for the situation Ukraine…",
@@ -627,6 +521,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-18T23:24:59+00:00",
+      "direct_source": true,
       "summary": "Be careful where you buy from, shoppers are being warned as criminals use AI to supercharge scams.",
       "key_points": [
         "Some fraudsters have made websites for fake retailers that claim to be family-owned firms selling quality UK-made products.",
@@ -674,6 +569,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-18T16:46:42+00:00",
+      "direct_source": true,
       "summary": "Nscale said it remained committed to building a £2bn AI data centre in Loughton A tech company has said it still plans to build the UK's largest AI data centre despite Microsoft pulling out of the project.",
       "key_points": [
         "Nscale announced last year it had pledged £2bn to build and open a pioneering facility in Loughton , Essex.",
@@ -721,6 +617,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-18T08:12:24+00:00",
+      "direct_source": true,
       "summary": "Engineer David Mummery says tidal power could change lives in coastal communities In a secret location in the Highlands of Scotland, there's a fast-flowing river that's the key to understanding the massive power of water.",
       "key_points": [
         "It's where engineer David Mummery found himself more than a decade ago.",
@@ -738,6 +635,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-18T08:12:17+00:00",
+      "direct_source": true,
       "summary": "Zoey Darnbrough took a job at Annandale Distillery after finishing her studies Zoey Darnbrough is the first to admit that just a few years ago she did not even know there was a whisky distillery near her hometown in southern Scotland.",
       "key_points": [
         "But it hasn't stopped her rising rapidly from tour guide, to group tourism and events co-ordinator at the site near Annan.",
@@ -775,6 +673,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-18T00:11:09+00:00",
+      "direct_source": true,
       "summary": "\"Football's Gone Round the Spend!\" screamed The People newspaper one Sunday in July 1995.",
       "key_points": [
         "It reported breathlessly that three clubs between them were set to pay out more than £20m on new players.",
@@ -782,6 +681,16 @@
         "That number might not seem too impressive today, in an age when £100m transfers are almost commonplace."
       ],
       "summary_origin": "public article text"
+    },
+    {
+      "id": "a77018a528c3adbd",
+      "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+      "description": "Oil Prices Stay High as War Keeps Supply Tight Into 2027 Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWk4WFNnZ1pCa1hzQ3FlZWNhMmJlVC1QejlndUplUDllMWtOVXNpbklEZ1ZsRFBldlgtNURlQWJlSVMzQjBESkFtMzdVWjUxVHNJWk1ITDV2Z280VWFZY3J6Y0xTZHNTdDJMZElwa2FZUzU5QjlIMzJXNmQ0TUo3T0N6UmFReXk2VDV1czdlT2FVT1VDZXVVbl9fOFhfV2xvbEHSAacBQVVfeXFMTnhFV1FibGFVc2t2YnRBdkt6NmhNWDNSSmNQMjJSeE5IZUx0MFFwWV9Kb0dHaHliYVJmZkMtVGZ0RlhpLWNiSk1XaXBILURySi1Ca3ktZGNWbllfQUxmdEJJZVpTUmRpSnY2cWszdU1uVUdRLWYxN25xamQ3ZGZFb29lNmlFdVNqLUt0R0UxNi1PUWtIZldkekJTMjYtOFVQZWY3SmkxczQ?oc=5",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-17T23:00:00+00:00"
     },
     {
       "id": "e05b73fa62563865",
@@ -844,23 +753,6 @@
       "published": "2026-10-17T08:39:01+00:00"
     },
     {
-      "id": "98910ab68041b9ea",
-      "title": "PO Matching in Sage 50: Closing Purchase Orders Automatically and Clearing Old Open POs",
-      "description": "Finance & strategy Tags Automation Finance Sage",
-      "url": "https://www.accountingweb.co.uk/community/industry-insights/po-matching-in-sage-50-closing-purchase-orders-automatically-and",
-      "source": "AccountingWEB",
-      "region": "UK",
-      "section": "commercial-finance",
-      "published": "2026-10-17T08:00:00+00:00",
-      "summary": "PaperLess is a Sage Approved AP Automation Software that brings together automatic invoice recognition, online invoice approval, purchase order matching and purchase order requisitions.",
-      "key_points": [
-        "Most Sage 50 users who raise purchase orders have the same problem sitting in their purchase order list: orders that should have been closed months ago.",
-        "The goods arrived, the supplier was paid, but the PO is still showing as outstanding.",
-        "Multiply that across a year and the list stops telling you anything useful."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
       "id": "869daf1c77267737",
       "title": "Oil Rises Over 1% as Traders Assess Shipping Flows; Monthly Gains in Sight",
       "description": "Oil Rises Over 1% as Traders Assess Shipping Flows; Monthly Gains in Sight EnergyNow.com",
@@ -871,38 +763,24 @@
       "published": "2026-10-17T07:38:52+00:00"
     },
     {
-      "id": "76883c25854f1e34",
-      "title": "Expert Insights: Why CFOs are taking control of employee expenses before month end",
-      "description": "Finance & strategy Tags CFO Expenses Finance director",
-      "url": "https://www.accountingweb.co.uk/community/industry-insights/expert-insights-why-cfos-are-taking-control-of-employee-expenses-before",
-      "source": "AccountingWEB",
-      "region": "UK",
-      "section": "commercial-finance",
-      "published": "2026-10-17T07:30:00+00:00",
-      "summary": "PaperLess is a Sage Approved AP Automation Software that brings together automatic invoice recognition, online invoice approval, purchase order matching and purchase order requisitions.",
-      "key_points": [
-        "By Diogo Cavazzini, Product & Marketing Director, PaperLess Europe Helping finance teams across Sage, Xero and SAP Business One automate invoice processing and expenses Supplier invoices get most of the attention in accounts…",
-        "Employee expenses get very little, until the last days of the month, when a pile of receipts and claims arrives and the close has to wait for it.",
-        "When I speak to CFOs and Finance Directors about expenses, the complaint is rarely the money itself."
-      ],
-      "summary_origin": "public article text"
+      "id": "996ac875dbffccd4",
+      "title": "Topic: Online shopping behavior in the U.S.",
+      "description": "Topic: Online shopping behavior in the U.S. Statista",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TbUhRQWJpRjhxQkpzNWhwMWt1Y19kZHBYeV82bE15bUpIV0FLVEFTX250cDkxa0JzOG90LWZwc1YzSjZhUlF0cGtzNFU0TjFnV25kS3ZKdVM3M2JPZng4Tnl5WU1adFJtRHJqeVQ1QQ?oc=5",
+      "source": "Statista",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-17T07:00:00+00:00"
     },
     {
-      "id": "a12153d9add993b2",
-      "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
-      "description": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "commodities",
-      "published": "2026-10-17T05:10:33+00:00",
-      "summary": "Avian flu, cost-cutting and Brexit are among the reasons behind the transfer of captive birds from one of Northern Ireland's best-known wildlife sites, according to the charity that runs it.",
-      "key_points": [
-        "Director of Operations at Wildfowl and Wetlands Trust (WWT) Alex Lane said avian influenza, as well as difficulties in transporting birds since Brexit, has contributed to the decline in the number of captive…",
-        "The closure of both the site's captive bird programme and guided school tour programme is part of wider WWT cost-cutting measures.",
-        "An Assembly member has described the changes to the education offering as \"disappointing\"."
-      ],
-      "summary_origin": "public article text"
+      "id": "f8ff821a6143182a",
+      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
+      "description": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-17T04:19:40+00:00"
     },
     {
       "id": "ff24e81a2af15a50",
@@ -913,33 +791,6 @@
       "region": "Global",
       "section": "energy",
       "published": "2026-10-17T03:40:56+00:00"
-    },
-    {
-      "id": "49cabe197aa19adb",
-      "title": "Nvidia CEO Jensen Huang's First X Post Backs Open-Weight AI Alongside Meta, Microsoft, Palantir",
-      "description": "Nvidia CEO Jensen Huang's First X Post Backs Open-Weight AI Alongside Meta, Microsoft, Palantir Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTg5MEk2WjN3NWJfY1lzdjBvc2E0dmE2YmFjN0hfcGJfV0xWajRCa0Z0REctNjIyVVRTZUdIVk5jWkgydmRJZTRnb25vM3ZQMjhaSG5tWXdlOF81N3Y5NTVnZTVXaWJsTnVjQ19IRjZGVXNFS0hPV2Y1WWgzMXU3MG1PR2hOcjNyUzZ4UXZXMF9PbGJGUnZFbU14Sl9kUkJ3eV90M0tVRTBMY2puV2JCMlFIaG0tNE9iWDA2OGRmaFlRejFDVF9GYUh3?oc=5",
-      "source": "Stocktwits",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-17T03:38:32+00:00"
-    },
-    {
-      "id": "3646c095245b9f33",
-      "title": "Why hasn't the UK had any named storms yet?",
-      "description": "So far this autumn wet and windy weather patterns have been steered away from the UK. When could we see that change?",
-      "url": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "commodities",
-      "published": "2026-10-17T01:53:34+00:00",
-      "summary": "With November already on the horizon the UK is yet to see its first named storm of the season.",
-      "key_points": [
-        "Deep Atlantic lows responsible for more turbulent conditions have been steered away by dominant areas of high pressure.",
-        "This year the headlines have been about worsening drought rather than the impact of gales.",
-        "However, could this be the calm before the storms as the Met Office predict a growing chance that late autumn and early winter will turn wetter and windier as El Niño strengthens in…"
-      ],
-      "summary_origin": "public article text"
     },
     {
       "id": "96b4a49fba522590",
@@ -980,32 +831,6 @@
       "region": "Global",
       "section": "finance",
       "published": "2026-10-16T21:20:53+00:00"
-    },
-    {
-      "id": "faa766143bb44c35",
-      "title": "Dark Matter Tech appoints new CFO in leadership shuffle",
-      "description": "The mortgage tech provider named a new CFO, CTO and general counsel, after its freshly minted CEO increased the company’s AI focus.",
-      "url": "https://www.cfodive.com/news/dark-matter-tech-appoints-new-cfo-leadership-shuffle/833270/",
-      "source": "CFO Dive",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-10-16T19:10:48+00:00",
-      "summary": "The mortgage tech provider named a new CFO, CTO and general counsel, after its freshly minted CEO increased the company’s AI focus.",
-      "key_points": [],
-      "summary_origin": "publisher preview"
-    },
-    {
-      "id": "68d5b5aac3d215d1",
-      "title": "How 10 years at storied Cleveland Foundation changed its CFO — and Ohio",
-      "description": "The non-profit’s long-time CFO Rosanne Potter has put her corporate finance and treasury skills to use to help create community value, she said.",
-      "url": "https://www.cfodive.com/news/cleveland-foundations-cfo-tackles-transformative-change/833147/",
-      "source": "CFO Dive",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-10-16T17:55:48+00:00",
-      "summary": "The non-profit’s long-time CFO Rosanne Potter has put her corporate finance and treasury skills to use to help create community value, she said.",
-      "key_points": [],
-      "summary_origin": "publisher preview"
     },
     {
       "id": "fe043a791ca75d8f",
@@ -1058,6 +883,16 @@
       "published": "2026-10-16T14:20:00+00:00"
     },
     {
+      "id": "07c72068cefd0749",
+      "title": "Online Grocery Market: The 3-Way Profit Model",
+      "description": "Online Grocery Market: The 3-Way Profit Model Kings Research",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjVXWnNsXzNJYThQc1NKQTNiazliaHRvdWZlVHgwckxvY2VLVTV0YWFINEREbmduY3RRd2x5UzVvVk0tTG9NQk5XWUNueHhUb283bmFTeFliaWFWUk83WmFOdzZocy1MbzItbTFVSlRIamFaYmFZcjYyUm1BNm4xLVN0Z3R4Tm8?oc=5",
+      "source": "Kings Research",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-16T13:26:24+00:00"
+    },
+    {
       "id": "f5da609563557431",
       "title": "First Shift: Fuel reserves, critical minerals and longer planning horizons shape the day",
       "description": "First Shift: Fuel reserves, critical minerals and longer planning horizons shape the day Supply Chain Management Review",
@@ -1066,19 +901,6 @@
       "region": "Global",
       "section": "supply",
       "published": "2026-10-16T13:20:00+00:00"
-    },
-    {
-      "id": "86826a43b030bcab",
-      "title": "Super Micro’s CFO is out after change was slow-walked",
-      "description": "The AI server maker has replaced CFO David Weigand with Western Digital alum Mark Long, nearly two years after an advisory committee called for Weigand’s ouster.",
-      "url": "https://www.cfodive.com/news/super-micros-cfo-out-change-accounting-leadership-ai/833213/",
-      "source": "CFO Dive",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-10-16T13:19:14+00:00",
-      "summary": "The AI server maker has replaced CFO David Weigand with Western Digital alum Mark Long, nearly two years after an advisory committee called for Weigand’s ouster.",
-      "key_points": [],
-      "summary_origin": "publisher preview"
     },
     {
       "id": "ea19db43d0daba20",
@@ -1139,23 +961,6 @@
       "region": "Global",
       "section": "supply",
       "published": "2026-10-16T09:56:56+00:00"
-    },
-    {
-      "id": "cf97c253ea8f1740",
-      "title": "Iguazu Falls in South America hits record 10 times normal water flow – video",
-      "description": "Iguazu Falls, an Unesco world heritage site, has reached a record water flow after heavy rains across the river basin. El Niño weather patterns are said to have driven the water flow to hit 10 times the normal amount. Usually the water flow is 1.5m litres per ",
-      "url": "https://www.theguardian.com/world/video/2026/oct/16/iguazu-falls-in-south-america-hits-record-10-times-normal-water-flow-video",
-      "source": "The Guardian",
-      "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-16T09:37:13+00:00",
-      "summary": "Iguazu Falls, an Unesco world heritage site, has reached a record water flow after heavy rains across the river basin.",
-      "key_points": [
-        "El Niño weather patterns are said to have driven the water flow to hit 10 times the normal amount.",
-        "Usually the water flow is 1.5m litres per second, but local government registered a flow of 15m litres of water per second.",
-        "Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels Continue reading..."
-      ],
-      "summary_origin": "publisher preview"
     },
     {
       "id": "7d3bb038d7710da4",
@@ -1288,16 +1093,6 @@
       "published": "2026-10-15T23:11:52+00:00"
     },
     {
-      "id": "80b0b3e951e9ff72",
-      "title": "Europe’s heat wave sends a warning to pet food makers",
-      "description": "Europe’s heat wave sends a warning to pet food makers PetfoodIndustry",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdDBHdkFvQ3NrZU9pb1RRYURYWHJCSGMyaTlIS0tEbS1xM2RNNXlYVVRHbFh3M01Ib25KSmsybE5yc2hZNkNNZmx6VG5ZRmttTHNVZjFEaDRVWml3MG1reVlsOE4taGx0YnF2MVkwYk1aTG82VmJwUnhDeHcwdHg0VjlYM1RzaTJBMXNJWnVXZmRPdHQ1YkpwNHc0ZHZrWV9wMFpsaHoxSWpaakk4VmxoUnlBUDBIc0k?oc=5",
-      "source": "PetfoodIndustry",
-      "region": "UK",
-      "section": "commodities",
-      "published": "2026-10-15T21:36:53+00:00"
-    },
-    {
       "id": "f6ad4fc965f55a11",
       "title": "L.A. port just hit a 118-year record. China's 40% grip explains everything.",
       "description": "L.A. port just hit a 118-year record. China's 40% grip explains everything. Latin Times",
@@ -1326,6 +1121,7 @@
       "region": "Global",
       "section": "commercial-finance",
       "published": "2026-10-15T19:57:30+00:00",
+      "direct_source": true,
       "summary": "The plan to acquire revenue management platform Sequence comes as businesses increasingly contend with complex pricing and billing models.",
       "key_points": [],
       "summary_origin": "publisher preview"
@@ -1351,26 +1147,6 @@
       "published": "2026-10-15T19:46:37+00:00"
     },
     {
-      "id": "e8daae0c8725cd91",
-      "title": "Kiplinger Retail Outlook: Consumers Keep Spending, but…",
-      "description": "Kiplinger Retail Outlook: Consumers Keep Spending, but… Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncjA5YjZqazM5X2VIMGxXX0VDVlBQSERoanFIRXVJTDRtLTBPRmowZ0lneFN1YnRqZ09Qa1hKakVRZmhiRmRoa29xSDJhMEpkenRRd096bGI4LV85bFpCUXpacWpUQTBm?oc=5",
-      "source": "Kiplinger",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-15T19:09:03+00:00"
-    },
-    {
-      "id": "31c12b4a119d88b0",
-      "title": "El Niño, oil shocks and hunger — Why SA needs a joined-up food strategy",
-      "description": "El Niño, oil shocks and hunger — Why SA needs a joined-up food strategy Daily Maverick",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLVdGWnhuY1I1ZUdRSlF4TXJIdldqWExNcEl4RDVaMEZ1RGRBX2phUXZoM2lsaU1uV3p4ZV9KaHNXTXpvUzNteWZhc1g0bGtTblhiVFdTeUUtNnRvdVFTakwwckc5VE5PQ2l4ZDEzeWpTQWJZRVExWWQtNXI1UThCMXBoTEFVM3BMLWhOX3ZMZ19Damxwbnhnd0xqV0VFSzg3SHYxYXlBNDhXUEU3SmxwQkZjaEVDRmhuSmE2NEg0Mm9WZw?oc=5",
-      "source": "Daily Maverick",
-      "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-15T18:34:08+00:00"
-    },
-    {
       "id": "40827384324d5f80",
       "title": "Meta Releases Open AI Model While Keeping Its Best Tech Closed",
       "description": "Meta Releases Open AI Model While Keeping Its Best Tech Closed Yahoo Finance UK",
@@ -1391,23 +1167,6 @@
       "published": "2026-10-15T16:07:59+00:00"
     },
     {
-      "id": "6cc6df1a6916285f",
-      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-      "description": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "commodities",
-      "published": "2026-10-15T15:42:37+00:00",
-      "summary": "Severe drought has been declared in parts of southern England after months of dry weather drove some reservoirs to exceptionally low levels.",
-      "key_points": [
-        "Most of England and all of Wales were already under drought conditions after both nations' hottest summers on record, which has taken its toll on rivers, crops and nature.",
-        "Roughly 30 million people across parts of England and Wales are covered by hosepipe bans, as part of water companies' efforts to manage supplies.",
-        "\"Severe drought\" - the highest category - has now been declared for parts of Cornwall, Devon, Dorset, Somerset, East Sussex and West Sussex ."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
       "id": "5c4f4a65a451bd2d",
       "title": "Supply Chain Portfolio Grows in UK",
       "description": "Supply Chain Portfolio Grows in UK Logistics Business",
@@ -1416,16 +1175,6 @@
       "region": "UK",
       "section": "supply",
       "published": "2026-10-15T13:57:06+00:00"
-    },
-    {
-      "id": "dce60ec562d37637",
-      "title": "3 EU Logistics Stocks Linked To Asia Europe Trade Flows Worth Watching",
-      "description": "3 EU Logistics Stocks Linked To Asia Europe Trade Flows Worth Watching Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMnkwdFlBNlllRkpNamxCVE9qMGpSWGU5WkVKRDhZSDNRVUh6cnkzai1GeWpmOUJoSkxYOXpxbjVpRUgyQkV5YlpYM2o5LTZhWUc4YnJURXY2ZS1XUElXS3ZLdVhEZkpkdFpqMWFyUkYyTHk1MFJRcVotQzBmZGJOV1NwUDVadFFzYTJGYy1vUUV6SXNEbjRRTA?oc=5",
-      "source": "Yahoo Finance",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-15T12:13:23+00:00"
     },
     {
       "id": "1533cf8e117e5bad",
@@ -1468,14 +1217,14 @@
       "published": "2026-10-15T11:00:00+00:00"
     },
     {
-      "id": "3b8df359715d3cad",
-      "title": "WHITAKER’S WEEKLY: Government must protect value for consumers",
-      "description": "WHITAKER’S WEEKLY: Government must protect value for consumers Professional Jeweller",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJX0xqWnJLQnJuQ19jNnF0RHlKdnd2VGJVZlVLeDRqOHpIUnY3bGxLcDkySHBnWGRLRXlEYmxzRlkzSVhSQXlYeldWWmt1Z2N0cmVoVndMaWFmVElYWXJRNzhvQjAzY0dGaDdBenVHaGlOcXoxczFYbHhkalc?oc=5",
-      "source": "Professional Jeweller",
+      "id": "841d0a22dc61cb44",
+      "title": "U.K. Economy Defies Gloomy Predictions With Help From AI",
+      "description": "U.K. Economy Defies Gloomy Predictions With Help From AI WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmE5VndlSVB3NGFIb3FEelExSFI4dFdOckJ6a0lvWTdiTlY4OXhBT2xzbllyQUx3MmNzV1dSQjhaTkV6M3l6X1lBcFBhYnF5VXBmTW55NWMyVEtEQ1RLR3BRRjdkZEE0YmYwdDlnbF9KTnJGcFVaM09oTnhvMzA1eE53V1lwLVRyd0swTzd2S0ZTYmM?oc=5",
+      "source": "WSJ",
       "region": "UK",
-      "section": "retail",
-      "published": "2026-10-15T09:26:02+00:00"
+      "section": "ai",
+      "published": "2026-10-15T09:26:00+00:00"
     },
     {
       "id": "d3e78982943bb599",
@@ -1488,29 +1237,6 @@
       "published": "2026-10-15T07:00:00+00:00"
     },
     {
-      "id": "6ca6c5ac8a543869",
-      "title": "Chutes & Ladders—Inspira Health outlines leadership transition; Joint Commission names COO",
-      "description": "Chutes & Ladders—Inspira Health outlines leadership transition; Joint Commission names COO Fierce Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzdyTGN2RTkwa2l5S2QtOHlsOW5jeFN6UDBLckZ0VE5TODA0bHVoZlY3RDB0Z1FQblV4VUFpTkJmUDhuUlZLQ00xTC1fR2w0UDdlYWhRY0dzcWZweFczY3BUUmlfMm12QVlkUTZIUXJXT0Q1QmwwSEVVY1c3Wl8tWGVQbjFnOFlsREdSb25qOWxoSTBfNXJzMFluUjI3WWhDWDRpX2hEV2pWUVNSR2tXa0gtMDN3b2tkSXRrNlFuTHAwWG8?oc=5",
-      "source": "Fierce Healthcare",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-10-15T07:00:00+00:00"
-    },
-    {
-      "id": "c7e08071ddd62404",
-      "title": "Judge rebukes Trump officials for intimidating ex-FEMA CFO",
-      "description": "Mary Comans, an “exemplary” career civil servant with over two decades of federal service, was fired last year after serving as FEMA’s CFO since 2018, the judge wrote.",
-      "url": "https://www.cfodive.com/news/judge-rebukes-trump-officials-intimidating-ex-fema-cfo/833046/",
-      "source": "CFO Dive",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-10-14T20:05:34+00:00",
-      "summary": "Mary Comans, an “exemplary” career civil servant with over two decades of federal service, was fired last year after serving as FEMA’s CFO since 2018, the judge wrote.",
-      "key_points": [],
-      "summary_origin": "publisher preview"
-    },
-    {
       "id": "4d7c6053c9f38252",
       "title": "Maia 300: Microsoft’s Third-Gen AI Chip Aims to Cut Its Dependence on Nvidia From 2027",
       "description": "Maia 300: Microsoft’s Third-Gen AI Chip Aims to Cut Its Dependence on Nvidia From 2027 eGamers.io",
@@ -1521,24 +1247,24 @@
       "published": "2026-10-14T19:46:03+00:00"
     },
     {
-      "id": "d03b8ebfe69410ba",
-      "title": "As Wall Street banks finance and adopt AI, risks mount on both fronts",
-      "description": "As Wall Street banks finance and adopt AI, risks mount on both fronts Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZDh1RnYtQmd3b0ZLYjh6dVd0cllieVhyUkpCbHB3SjdLMFc0N3FKOFVDbm1ISVhGNVVnY3ktVUVxcmszWjZacjJ5TkNLWVkyOHJpQTUzaEg5M0RsdXBvRXBqaWlWVFdHSU8wSGRWdi1kMkVmaGZjSVVEZWIzQnI3U21vTHBzS3VzRE5qckVzOVg4NXcwR1JpTDMyT083cTRYb1NWWWFIY1ZUd3h6MklfamVTNEw?oc=5",
+      "id": "5f0c72e10501c873",
+      "title": "BofA misses profit estimates on trading weakness, books $1.2 billion charge",
+      "description": "BofA misses profit estimates on trading weakness, books $1.2 billion charge Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSERjcDdENDA2c180cFVhdW01WTVBaEdQdjRvejB6eGpkNklKUE8xM05mX1YybXZmMExUUXVkVDhMZUxGS0g5MWN0S3NtOHk1TjBISzBTWHB6VElZSjFjTHFUdU5sZXZtcHFxa0VybC1qR2Y2R0doZThnbGJoQVE5LVg5bHBDZmFvUm9ONGVUdUszODFvWV9aWlROdnE4NWs5R0FYZmJIVFAxaHZCQlJVRmtidS1IUlhVM1ZIM09MeEk?oc=5",
       "source": "Reuters",
       "region": "Global",
       "section": "finance",
-      "published": "2026-10-14T17:47:43+00:00"
+      "published": "2026-10-14T18:07:54+00:00"
     },
     {
-      "id": "ca0acc2d5f645a90",
-      "title": "Food Security Monitor - September 2026",
-      "description": "Food Security Monitor - September 2026 ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fNlI1MThyaVUwVUp2Z29NNnZzdjBMQV9ZVElMUmUyakJlRzFwbi1jNlFCLWs3MXRlemh1NUR5WmtsWHJmSUlGczZLQmtGcmpxM19zS3c5X1RjamxhdjZheFo2RHNIT010amY1MVhKNklTX3UxRW5EY1dDcw?oc=5",
-      "source": "ReliefWeb",
+      "id": "28bb19bf36e4e63a",
+      "title": "UK ICO Opens 6-Week Agentic AI Call for Evidence [2026]",
+      "description": "UK ICO Opens 6-Week Agentic AI Call for Evidence [2026] shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lV09pcWpzaVBnSnFxQzhuMkE5RE1fRU5sMmNrWWw0UXVHRGh3d2xkNkkzR2hDTW1FcHpkRWtVTGdYZDNsc3czYlZ2ZlcwYjhLZGpzVnJFNS1salRJRk53R2hiUFdxNW5xa0hCQmM4Zw?oc=5",
+      "source": "shattered.io",
       "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-14T13:41:06+00:00"
+      "section": "ai",
+      "published": "2026-10-14T15:13:33+00:00"
     },
     {
       "id": "1ee7d698cc7a81ac",
@@ -1571,26 +1297,6 @@
       "published": "2026-10-13T19:34:50+00:00"
     },
     {
-      "id": "ccd16f4d05e802fa",
-      "title": "Embarc Advisors: Interview With Senior Director And Head Of Strategic Finance Lance Geda About Fractional CFO Services",
-      "description": "Embarc Advisors: Interview With Senior Director And Head Of Strategic Finance Lance Geda About Fractional CFO Services Pulse 2.0",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YYldEd0NhajJfcjcyUEhrNjRTM1QtYVk5ZzJRVU5IVlhKTFNJZ0p1RVN2UTU1U1dwc19CU0RaY1czYmZ1SnBZUk5jNEloTEZuTG9abnlORzR2OWduOURjOGxUdzRYY0p3alp4NVRyWlNKUQ?oc=5",
-      "source": "Pulse 2.0",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-10-13T12:47:58+00:00"
-    },
-    {
-      "id": "d73160a2a53855af",
-      "title": "What is El Niño, how does it affect hunger and how does WFP respond?",
-      "description": "What is El Niño, how does it affect hunger and how does WFP respond? UN World Food Programme",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWNwOXBYV3J6Q1JydWVCaFpGNzllU3NkQmtrdDZRNDBWandEckNweFVmUUdvT3BLVHZtdUV6eDFFYlg3SXJSS1NzZWxFYV9XTUcxQWg3bC03VjlISUJZb19xcnpLVFpRZW9qNnBWT1JIWEVzbVBiVkxkajctdVBvc1BCSnFfaXF0VGhKVWFFSDA2Rk45ckE?oc=5",
-      "source": "UN World Food Programme",
-      "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-13T12:00:00+00:00"
-    },
-    {
       "id": "82e31ddf263f567b",
       "title": "Washington Confirms First Bird Flu Cases In Dairy Cattle, Quarantines Two Yakima County Farms",
       "description": "Washington Confirms First Bird Flu Cases In Dairy Cattle, Quarantines Two Yakima County Farms https://en.edairynews.com/",
@@ -1601,31 +1307,24 @@
       "published": "2026-10-13T09:26:46+00:00"
     },
     {
-      "id": "005c675e37b052a8",
-      "title": "You Need a New CFO",
-      "description": "You Need a New CFO Andreessen Horowitz",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yV2hwbUY3Yi1vellQb3dKVC1DT3NJbjdlYzNOY3A5SEQ0VUptVko5elFCbE53ZmpPVnZuRHdkc25EUk52TUNUa1p1QVU?oc=5",
-      "source": "Andreessen Horowitz",
+      "id": "2c072b1d4b90c406",
+      "title": "Assumptions Beyond the Future Budget 2027",
+      "description": "",
+      "url": "https://fpa-trends.com/article/assumptions-beyond-future-budget-2027",
+      "source": "FP&A Trends",
       "region": "Global",
       "section": "commercial-finance",
-      "published": "2026-10-08T07:00:00+00:00"
+      "published": "2026-10-13T00:00:00+00:00"
     },
     {
-      "id": "dbbae3b89103d0cf",
-      "title": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
-      "description": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North Carolina It was 4pm and 90F (32C) when Carlos Vargas Moreno and other farm workers set out to we",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
-      "source": "The Guardian",
+      "id": "7ba41e43e8c66242",
+      "title": "No Sacred Cows: A Playbook for Mid-Year Budget Reallocation",
+      "description": "",
+      "url": "https://fpa-trends.com/article/no-sacred-cows-playbook-mid-year-budget-reallocation",
+      "source": "FP&A Trends",
       "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-07T11:00:08+00:00",
-      "summary": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North Carolina It was 4pm and 90F (32C) when Carlos Vargas Moreno and other farm workers set out to weed a watermelon field in Goldsboro, North…",
-      "key_points": [
-        "The work day had begun at 7am and included two 15-minute breaks and a one-hour lunch eaten outdoors.",
-        "The heat index – what the temperature feels like to the human body when relative humidity is combined with the air temperature – was 98.3F.",
-        "It was the kind of day that a heat safety app created by the Occupational Safety and Health Administration (Osha) and the National Institute for Occupational Safety and Health (Niosh) defined as “hazardous”…"
-      ],
-      "summary_origin": "public article text"
+      "section": "commercial-finance",
+      "published": "2026-10-08T00:00:00+00:00"
     },
     {
       "id": "9444fd2d51925094",
@@ -1648,16 +1347,6 @@
       "published": "2026-10-07T05:03:51+00:00"
     },
     {
-      "id": "649ac5eb0729d631",
-      "title": "When El Niño Meets a Thirsty World - Mahabahu.com",
-      "description": "When El Niño Meets a Thirsty World - Mahabahu.com Mahabahu.com",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqNFFXLXk4MmRlYVZ5QVMtdHpqLTA1NkFoVEc2YUtVaVZpN0pSM3RmazRBQi1hZ1ZoUFRYbGZfRFJMSG1WTlVidTNMbXV5cXFVTW1TSldvQkE0elBtUi1KUVo4UFlnVVHSAW9BVV95cUxPNHJhTjlGc2Y2MUZfSkYzaHk3YXNuaWNlQldUS0RCdWIwY1MxdmFMWXZBcTRTNzlHNTNxZ1hmOThUQjFDYmdpS0FrR3Vqc1JWcnlQTF9VZUxKa2k2ZUFQckxNS3c5dVFPc0k1YzBjbXM?oc=5",
-      "source": "Mahabahu.com",
-      "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-07T00:20:17+00:00"
-    },
-    {
       "id": "b2cdec57ac154955",
       "title": "Data monetization for CFOs: ROI, risk and strategy",
       "description": "Data monetization for CFOs: ROI, risk and strategy PwC",
@@ -1668,14 +1357,34 @@
       "published": "2026-10-06T09:27:46+00:00"
     },
     {
-      "id": "056ca39865ed0835",
-      "title": "Avian Influenza | Animal and Plant Health Inspection Service",
-      "description": "Avian Influenza | Animal and Plant Health Inspection Service Animal and Plant Health Inspection Service (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WclQ1VktDWkktM0tZRmRESERkWkZNWEw5SkMwOHpObHdxNTdiZFVYbXhjOHhxNmN0eHZtc1VTTVVqWEhhREJ6aWE4dTVYbkpWSE1ENUtJa0ZlOVRybnBXb1Z5UjYtWFZMcWs5VnZPODM5QnZuTGR5UmxhZUtRaXc?oc=5",
-      "source": "Animal and Plant Health Inspection Service (.gov)",
+      "id": "9791a6c2cba39fe1",
+      "title": "AI-Enabled FP&A Orchestration: Evolution, Gaps & Pathways",
+      "description": "",
+      "url": "https://fpa-trends.com/article/ai-enabled-fpa-orchestration-evolution-gaps-pathways",
+      "source": "FP&A Trends",
       "region": "Global",
-      "section": "commodities",
-      "published": "2026-10-06T07:00:00+00:00"
+      "section": "commercial-finance",
+      "published": "2026-10-06T00:00:00+00:00"
+    },
+    {
+      "id": "a645ef2766ce60b7",
+      "title": "Measuring the Invisible: How CFOs Must Evaluate FP&A Talent in an AI-First Function — Part 3 of 3",
+      "description": "",
+      "url": "https://fpa-trends.com/article/measuring-invisible-how-cfos-must-evaluate-fpa-talent-ai-first-function-part-3-3",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-10-01T00:00:00+00:00"
+    },
+    {
+      "id": "542b71721397db7e",
+      "title": "The Hardest Part of Scenario Planning Is Asking the Right Question",
+      "description": "",
+      "url": "https://fpa-trends.com/article/hardest-part-scenario-planning-asking-right-question",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-09-29T00:00:00+00:00"
     }
   ],
   "prices": {
@@ -1790,5 +1499,5 @@
       "unit": "$/mt"
     }
   },
-  "feeds_succeeded": 28
+  "feeds_succeeded": 25
 }
