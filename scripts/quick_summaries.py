@@ -196,3 +196,57 @@ def fpa_feature_stories():
     except Exception as exc:
         print("FP&A Trends articles unavailable:",str(exc)[:160],file=sys.stderr)
         return []
+
+
+def ahdb_market_stories():
+    """Official UK livestock, dairy, cereals and supply outlook news."""
+    url="https://ahdb.org.uk/Query/30?title=Latest+news+stories"
+    try:
+        req=urllib.request.Request(url,headers={"User-Agent":UA})
+        with urllib.request.urlopen(req,timeout=18) as response:
+            soup=BeautifulSoup(response.read(1_100_000),"html.parser")
+        now=dt.datetime.now(dt.timezone.utc)
+        pattern=re.compile(
+            r"^(\d{1,2}\s+(?:January|February|March|April|May|June|July|"
+            r"August|September|October|November|December)\s+20\d{2})\s+",
+            re.I
+        )
+        out=[]
+        seen=set()
+        for link in soup.find_all("a",href=True):
+            text=compact(link.get_text(" ",strip=True))
+            match=pattern.match(text)
+            if not match:
+                continue
+            href=urllib.parse.urljoin(url,link["href"])
+            if urllib.parse.urlparse(href).hostname not in ("ahdb.org.uk","www.ahdb.org.uk"):
+                continue
+            if href in seen:
+                continue
+            published=dt.datetime.strptime(match.group(1),"%d %B %Y").replace(tzinfo=dt.timezone.utc)
+            if not dt.timedelta(0) <= now-published <= dt.timedelta(days=30):
+                continue
+            heading=link.find(["h2","h3","h4","h5"])
+            desc_node=link.find("p")
+            tail=compact(text[match.end():])
+            description=compact(desc_node.get_text(" ",strip=True)) if desc_node else ""
+            title=compact(heading.get_text(" ",strip=True)) if heading else ""
+            if not title and description and tail.endswith(description):
+                title=compact(tail[:-len(description)])
+            if not title:
+                title=tail[:150].rsplit(" ",1)[0]
+            if len(title)<20:
+                continue
+            seen.add(href)
+            ident=hashlib.sha1((title.casefold()+"ahdb").encode()).hexdigest()[:16]
+            out.append({"id":ident,"title":title,"description":description[:260],
+                        "preview":description[:1200],"url":href,"source":"AHDB",
+                        "region":"UK","section":"commodities","published":published.isoformat(),
+                        "direct_source":True})
+            if len(out)>=15:
+                break
+        print("AHDB food-sector market stories",len(out))
+        return out
+    except Exception as exc:
+        print("AHDB news unavailable:",str(exc)[:160],file=sys.stderr)
+        return []
