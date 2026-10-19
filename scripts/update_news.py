@@ -95,6 +95,8 @@ FINANCE_NOISE=re.compile(
 def story_is_relevant(article):
     title=article.get('title','')
     if article.get('section')=='commercial-finance':
+        if article.get('source')=='FP&A Trends':
+            return True
         return bool(FINANCE_RELEVANCE.search(title)) and not FINANCE_NOISE.search(title)
     if article.get('section')=='commodities':
         if re.search(r'\b(seabird|wild bird|captive bird|pet food|hunger aid|'
