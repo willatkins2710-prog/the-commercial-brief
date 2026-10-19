@@ -1,5 +1,8 @@
 name: Refresh business and commodity news
 on:
+  push:
+    paths:
+      - 'scripts/update_news.py'
   schedule:
     - cron: '19 */4 * * *'
   workflow_dispatch:
@@ -15,7 +18,7 @@ jobs:
         with:
           python-version: '3.12'
       - name: Install monthly-price reader
-        run: python -m pip install --disable-pip-version-check openpyxl
+        run: python -m pip install --disable-pip-version-check openpyxl beautifulsoup4
       - name: Retrieve and curate new headlines and benchmark prices
         run: python scripts/update_news.py
       - name: Save updated data
