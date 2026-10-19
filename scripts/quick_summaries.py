@@ -4,6 +4,8 @@ No generative API or paywall bypass: uses publisher-provided previews and
 publicly accessible article paragraphs. Does not invent missing key points.
 """
 import concurrent.futures
+import datetime as dt
+import hashlib
 import html
 import re
 import sys
@@ -80,6 +82,9 @@ def read_public_article(url):
         for node in soup.select("script, style, nav, header, footer, aside, form, noscript, button"):
             node.decompose()
         body = (soup.select_one("[itemprop='articleBody']") or
+                soup.select_one(".field--name-body") or
+                soup.select_one(".article-content") or
+                soup.select_one(".article__body") or
                 soup.select_one("article") or
                 soup.select_one("main"))
         if body is None:
@@ -128,3 +133,59 @@ def enrich_summaries(articles, previous):
     # do not cause missing text to be invented.
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
         return list(pool.map(one, articles))
+
+
+def fpa_feature_stories():
+    """Read dated, freely discoverable FP&A Trends article listings."""
+    url = "https://fpa-trends.com/fpa-articles"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=18) as response:
+            soup = BeautifulSoup(response.read(1_200_000), "html.parser")
+        out = []
+        seen = set()
+        pattern = re.compile(
+            r"\b(\d{1,2}\s+(?:January|February|March|April|May|June|July|"
+            r"August|September|October|November|December)\s+20\d{2})\b",
+            re.I
+        )
+        for anchor in soup.find_all("a", href=True):
+            href = urllib.parse.urljoin(url, anchor["href"])
+            parsed = urllib.parse.urlparse(href)
+            if parsed.hostname != "fpa-trends.com" or not parsed.path.startswith("/article/"):
+                continue
+            title = compact(anchor.get_text(" ", strip=True))
+            if not (19 <= len(title) <= 190) or title.lower() in ("read more", "continue reading"):
+                continue
+            if href in seen:
+                continue
+            match = None
+            for parent in list(anchor.parents)[:7]:
+                context = compact(parent.get_text(" ", strip=True))
+                if len(context) > 3800:
+                    break
+                match = pattern.search(context)
+                if match:
+                    break
+            if not match:
+                continue
+            try:
+                published = dt.datetime.strptime(match.group(1), "%d %B %Y").replace(tzinfo=dt.timezone.utc)
+            except ValueError:
+                continue
+            now = dt.datetime.now(dt.timezone.utc)
+            if not dt.timedelta(0) <= now-published <= dt.timedelta(days=31):
+                continue
+            seen.add(href)
+            ident = hashlib.sha1((title.casefold()+"fpa trends").encode()).hexdigest()[:16]
+            out.append({"id": ident, "title": title, "description": "",
+                        "url": href, "source": "FP&A Trends", "region": "Global",
+                        "section": "commercial-finance", "published": published.isoformat(),
+                        "direct_source": True})
+            if len(out)>=12:
+                break
+        print("FP&A Trends featured articles", len(out))
+        return out
+    except Exception as exc:
+        print("FP&A Trends articles unavailable:",str(exc)[:160],file=sys.stderr)
+        return []
