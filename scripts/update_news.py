@@ -3,7 +3,7 @@
 import concurrent.futures, datetime as dt, email.utils, hashlib, html, io, json, re, sys
 import urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from pathlib import Path
-from quick_summaries import enrich_summaries, fpa_feature_stories
+from quick_summaries import enrich_summaries, fpa_feature_stories, ahdb_market_stories
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'data'/'news.json'
@@ -101,6 +101,8 @@ def story_is_relevant(article):
             return True
         return bool(FINANCE_RELEVANCE.search(title)) and not FINANCE_NOISE.search(title)
     if article.get('section')=='commodities':
+        if article.get('source')=='AHDB':
+            return bool(re.search(r'\b(market|outlook|supply|milk|cattle|grain|forecast|disease|swine|pork|beef|wheat|dairy|price|livestock|farm cost)\w*\b',title,re.I)) and not bool(re.search(r'appointment|appointed|manager joins',title,re.I))
         if re.search(r'\b(seabird|wild bird|captive bird|pet food|hunger aid|'
                      r'food security monitor|wildlife|conservation)\b',title,re.I):
             return False
@@ -185,6 +187,7 @@ def main():
         groups=list(pool.map(lambda args:stories(*args),jobs))
     found=[a for group in publisher_groups+groups for a in group]
     found.extend(fpa_feature_stories())
+    found.extend(ahdb_market_stories())
     found=[a for a in found if story_is_relevant(a)]
     unique={}
     for article in sorted(found,key=lambda a:a['published'],reverse=True):
