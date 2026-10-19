@@ -3,7 +3,7 @@
 import concurrent.futures, datetime as dt, email.utils, hashlib, html, io, json, re, sys
 import urllib.parse, urllib.request, xml.etree.ElementTree as ET
 from pathlib import Path
-from quick_summaries import enrich_summaries
+from quick_summaries import enrich_summaries, fpa_feature_stories
 
 ROOT=Path(__file__).resolve().parents[1]
 DATA=ROOT/'data'/'news.json'
@@ -22,10 +22,7 @@ QUERIES={
 RSS_FEEDS=[
     ('supermarkets','UK','The Grocer','https://www.thegrocer.co.uk/34272.rss',''),
     ('commercial-finance','Global','CFO Dive','https://www.cfodive.com/feeds/news/','commercial'),
-    ('commercial-finance','UK','AccountingWEB','https://www.accountingweb.co.uk/rss.xml','commercial'),
     ('commodities','UK','The Grocer','https://www.thegrocer.co.uk/34272.rss','commodities'),
-    ('commodities','UK','BBC News','https://feeds.bbci.co.uk/news/science_and_environment/rss.xml','commodities'),
-    ('commodities','Global','The Guardian','https://www.theguardian.com/environment/rss','commodities'),
     ('economy','UK','BBC News','https://feeds.bbci.co.uk/news/business/rss.xml',''),
 ]
 COMMODITY_WORDS=re.compile(
@@ -71,6 +68,40 @@ def stories(section,region,query):
         print('Feed unavailable:',section,region,str(exc)[:150],file=sys.stderr)
         return []
 
+
+
+COMMODITY_PRODUCT=re.compile(
+    r'\b(beef|cattle|pork|pig|chicken|poultry|livestock|sheep|lamb|meat|'
+    r'dairy|milk|cheese|butter|wheat|grain|flour|egg|sugar|cocoa|coffee|'
+    r'crop|harvest|food commodit|food ingredient|rice|palm oil|soybean|'
+    r'potato|fish|seafood|farm|animal feed|produce)\w*\b',re.I)
+COMMODITY_SIGNAL=re.compile(
+    r'\b(supply|shortage|cost|price|inflation|tight|drought|disease|outbreak|'
+    r'avian|bird flu|weather|elnino|el niño|la niña|yield|harvest|forecast|'
+    r'risk|regulation|tariff|production|quarantine|future|expect|pressure|'
+    r'collapse|flood|heatwave|heat wave|disruption)\w*\b',re.I)
+FINANCE_RELEVANCE=re.compile(
+    r'\b(FP&A|forecast|budget|planning|pricing|promotion|margin|profit|'
+    r'revenue management|revenue growth|commercial finance|business partner|'
+    r'financial strategy|finance transformation|financial model|'
+    r'working capital|return on investment|ROI|analytics|cost reduction|'
+    r'capital allocation|scenario|CFO survey|finance team)\w*\b',re.I)
+FINANCE_NOISE=re.compile(
+    r'\b(appoints?|appointed|named CFO|new CFO|CFO out|leaves|resigns?|'
+    r'indicted|arrested|court|trial|leadership shuffle|mortgage|'
+    r'company secretary|lease accounting|bookkeeping)\b',re.I)
+
+
+def story_is_relevant(article):
+    title=article.get('title','')
+    if article.get('section')=='commercial-finance':
+        return bool(FINANCE_RELEVANCE.search(title)) and not FINANCE_NOISE.search(title)
+    if article.get('section')=='commodities':
+        if re.search(r'\b(seabird|wild bird|captive bird|pet food|hunger aid|'
+                     r'food security monitor|wildlife|conservation)\b',title,re.I):
+            return False
+        return bool(COMMODITY_PRODUCT.search(title) and COMMODITY_SIGNAL.search(title))
+    return True
 
 def publisher_stories(section,region,publisher,url,filter_name):
     try:
@@ -149,6 +180,8 @@ def main():
         publisher_groups=list(pool.map(lambda args:publisher_stories(*args),RSS_FEEDS))
         groups=list(pool.map(lambda args:stories(*args),jobs))
     found=[a for group in publisher_groups+groups for a in group]
+    found.extend(fpa_feature_stories())
+    found=[a for a in found if story_is_relevant(a)]
     unique={}
     for article in sorted(found,key=lambda a:a['published'],reverse=True):
         fingerprint=re.sub(r'\W+','',article['title'].casefold())[:140]
