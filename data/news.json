@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-24T00:58:35.036034+00:00",
-  "price_updated_at": "2026-10-24T00:58:35.036034+00:00",
+  "updated_at": "2026-10-24T04:40:46.294317+00:00",
+  "price_updated_at": "2026-10-24T04:40:46.294317+00:00",
   "articles": [
     {
       "id": "66b7f6f1d2aef418",
@@ -11,6 +11,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-24T00:36:47+00:00",
+      "direct_source": true,
       "summary": "Canada and the US are currently locked in a tit-for-tat trade war The Trump administration is lifting some of its 50% tariffs on Canadian goods two weeks before the midterm elections, after a Republican candidate in a key Senate race said she had lobbied for the change.",
       "key_points": [
         "Starting on 30 October, tariffs will be eased on products including \"plywood sheets, some paper products, certain machinery and refrigeration equipment,\" the White House said on Friday.",
@@ -38,6 +39,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-24T00:05:45+00:00",
+      "direct_source": true,
       "summary": "The UK says it will establish a national AI Biosecurity Lab (AIBL) to help strengthen its defences against emerging biological threats.",
       "key_points": [
         "As part of Wednesday's Budget, the government will commit £100m to establishing the new, \"world first\" institute with the support of leading AI firms.",
@@ -45,6 +47,26 @@
         "\"AI will transform daily life: every firm, community, hospital, school, and every aspect of our economy can benefit,\" John Healey said."
       ],
       "summary_origin": "public article text"
+    },
+    {
+      "id": "f8ff821a6143182a",
+      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
+      "description": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-23T23:48:09+00:00"
+    },
+    {
+      "id": "35042e05a625f33e",
+      "title": "Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two",
+      "description": "Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeW9oTV9lT0MtTjVpc1Z0TTBBam9sSDZ1eThMeVBkNkNjM0N1NUt6bjBocFJMRmwxWDVsTHBPUXh4WWkwWGpBN1BmV19PLTRaWXVSbU1pZVpWWThjUHFRalRkeVF6VHhCc01adzZFcjMxTDV6ODZsNGNmdmFhVElNUmdoa3IxSkRfNC1LYVJ0TE5XS05hd3pvRC1Nb1VWdXozU0d1M2F0ZEZHcnlvY0FkQUpB?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-23T23:28:46+00:00"
     },
     {
       "id": "e093c236410e2b7b",
@@ -55,6 +77,16 @@
       "region": "Global",
       "section": "retail",
       "published": "2026-10-23T23:14:54+00:00"
+    },
+    {
+      "id": "df3be1ca271a3b85",
+      "title": "Trump tweaks Canada tariffs, removing certain goods while adding others",
+      "description": "Trump tweaks Canada tariffs, removing certain goods while adding others Supply Chain Dive",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWNaejhRbU4wTGlxcFhxbG5MdUNqWDV6THIwMHV5Yk01dlNLU0gyNnU4b25tNkxZNzJNdV9Qa3hMWHhYdDROOXJJU2U0cUhKS2c4MnZobl91VUZuOTJyVzRSWFJzakpKclBYR3lOOWUyOGhVNktSNVpiVEtmdVBuYldqcWdPOXdfYzlPcGpLN3BMdVZmWnMySXY1SVk0YjBiNVdhUXlPOU9taU1CeUNubmFQRmMxQQ?oc=5",
+      "source": "Supply Chain Dive",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-23T22:12:39+00:00"
     },
     {
       "id": "753ad4de645224a8",
@@ -77,16 +109,6 @@
       "published": "2026-10-23T18:24:34+00:00"
     },
     {
-      "id": "4109cebc2e33e803",
-      "title": "Oil Prices End Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks",
-      "description": "Oil Prices End Mixed as Traders Weigh Demand Outlook, Hormuz Shipping Risks WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNW1MMHhCS1RGcmU1N242QUVfclBfWW56RTVPeWhhUFowX2owYlRJWlBFa1BEMFZaM2daaFVtbG1aVlBBOFJhbnVhR19jMEhmZ0FpYXFZcTllS25ETExYdUtWRTVIVkI3MVdGMDBDOTZDOVhJQm9CUkVDaDNvcWFQeFQxZ1NmdkpHZGZTdmFEUWNJS2R6QVNyZXNrWTNOazZOTUlvVWNwaVV5NENQbTNkTEJ2MVFyYmR6?oc=5",
-      "source": "WSJ",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-10-23T17:08:56+00:00"
-    },
-    {
       "id": "98abc95ddfdee584",
       "title": "Week ahead: Autumn Budget, UK bank earnings in the spotlight",
       "description": "Week ahead: Autumn Budget, UK bank earnings in the spotlight Sharecast.com",
@@ -95,6 +117,16 @@
       "region": "UK",
       "section": "finance",
       "published": "2026-10-23T16:32:00+00:00"
+    },
+    {
+      "id": "0e65ec180e909679",
+      "title": "The Friday Checkout: Did Kroger really want to merge with Albertsons?",
+      "description": "The Friday Checkout: Did Kroger really want to merge with Albertsons? Grocery Dive",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXdBWEZIZFEtT0loOGw4WDNib25WOTZEY3hXU01MY2wzRHBhTHB2ckZvS0lCNDNKRS16eEhvNHhzQ1htSnVFQzF6aV93bTBWNHc2U2VmMW44a1p3VjFzX3NOTGdiODR3NTlxdjJXQ3JQNWg1clJBSjR4M3I4dV80UnJVOWdtWGlUMmZtU3dYcnllVFQ1cDN1bUFtRmJ5Nm8?oc=5",
+      "source": "Grocery Dive",
+      "region": "Global",
+      "section": "supermarkets",
+      "published": "2026-10-23T15:46:08+00:00"
     },
     {
       "id": "328ed30daf4c1a06",
@@ -185,14 +217,14 @@
       "published": "2026-10-23T13:43:48+00:00"
     },
     {
-      "id": "f8ff821a6143182a",
-      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
-      "description": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
-      "source": "EnergyNow.com",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-10-23T13:26:49+00:00"
+      "id": "7355bfd75937256c",
+      "title": "Retail sales fall 0.4 per cent as households cut back on food",
+      "description": "Retail sales fall 0.4 per cent as households cut back on food Business Matters",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QaENNdEYzbnFDd3VMMmlyMWtZNkdSZ0ZhVk9rTlJ0MncwcTRXV1otTjRITTA3el9jZjljS3IwYjcyM3FDQ1JFd2tmRTNpcXI4YmxnTWIwdWM4VmZ2dlhPRFpqSEhjaDZqWDZIUzlXeTNPdnAzSW9mbFY3X20?oc=5",
+      "source": "Business Matters",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-10-23T13:27:00+00:00"
     },
     {
       "id": "816a60ccc7871625",
@@ -279,16 +311,6 @@
       "summary_origin": "publisher preview"
     },
     {
-      "id": "95f9795d94ed1a91",
-      "title": "China's Ministry of Commerce threatens countermeasures if UK aligns with EU on tariffs for Chinese EVs",
-      "description": "China's Ministry of Commerce threatens countermeasures if UK aligns with EU on tariffs for Chinese EVs Automotive Logistics",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXI2TGhtd2w0aWFabjRFbUpRSjFFWGt6XzZfcFdzVGFXeXJjZ00yU3ZwWEZMSDgwY1A4N25ITEtTVXhja2hvckliR1h5N2Vlb1Z3ZlE5MUdRXy1PRHFCbzNwdlJ5RmpDMDVHMldJNTFkaElXWHFPbUp0dk1XVW1sb0hBcmlpRE1oV2owbVBXVllJY3psSlQ2dlhSRG1XY2MtcERYbkEwbnhTdTR3T2dCbTUybmRtckxVdXM1Tl9HSGRtTFpRV0NKR0pNdU51bk5aZFh1MkhSZE1GeE9hRUFEdnM0Wm14NFVnUnRGNzRCWkI4dw?oc=5",
-      "source": "Automotive Logistics",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-23T11:15:41+00:00"
-    },
-    {
       "id": "b15865fb7c612783",
       "title": "Nearly 100 jobs at risk of redundancy at Hilton Seachill site in Grimsby",
       "description": "The seafood giant has proposed changes to the organisational structure of the business and has begun a consultation",
@@ -327,6 +349,16 @@
         "The company said the redesign would improve shelf standout and make its products easier for shoppers to navigate"
       ],
       "summary_origin": "publisher preview"
+    },
+    {
+      "id": "8e5519bd561625f9",
+      "title": "Aldi creates Moth advent calendar dupe for £13",
+      "description": "Aldi creates Moth advent calendar dupe for £13 The Spirits Business",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFo2c042YlJ6NkM3cjY1NVNLTUZWek90TlplUmQyYW16cVdmeEVrMzAyazQ4Qk9EdFh6S2lPbTdtTUlKd2JCRGpPTjdXcnFYQ2J0aFhwNlB5M1d1SVlESU43bnA3dUhmb2FyWU5QamZ5VkdFUExHMWVMaWdtaU93c2puOHM4TVlGSDY2Qml5a08xM28?oc=5",
+      "source": "The Spirits Business",
+      "region": "UK",
+      "section": "supermarkets",
+      "published": "2026-10-23T11:06:36+00:00"
     },
     {
       "id": "2121717c6b4a8655",
@@ -381,16 +413,6 @@
       "summary": "The new managers will work with retailers to understand their business’s individual needs, identify opportunities for growth, and provide practical recommendations that can make a ‘measurable difference to store performance’",
       "key_points": [],
       "summary_origin": "publisher preview"
-    },
-    {
-      "id": "74a18fc809ec723c",
-      "title": "Aldi and Lidl to face same rules as rival supermarkets, says watchdog",
-      "description": "Aldi and Lidl to face same rules as rival supermarkets, says watchdog London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd1dRZzB4ZnRUNkNrYVFiMlZhTGsyLXgzT0YwelBjRU4zeWtWaVdaVzNYXzVqWnB4RFB3QWh0T2xUUXBhUW1ZMEhtZ3loREJXa0NDSmo1TWlLVU40TGJQTG9GUWVTTHhlQk83bmI5cG1NeU8zai1WSEdQR2xRNEFXbTI5dlNmbDNHNkJPZkg4RUxRSjlJT2pDRFpheW5lX2doLThFUFBQZzM2SEJnZURmVVUybGFzMWNFWmZ2SEQ1UG5BRHl2QU5hZ1Rydw?oc=5",
-      "source": "London Evening Standard",
-      "region": "UK",
-      "section": "supermarkets",
-      "published": "2026-10-23T09:23:05+00:00"
     },
     {
       "id": "c2e52020a9f6ee44",
@@ -577,6 +599,16 @@
       "published": "2026-10-23T04:00:00+00:00"
     },
     {
+      "id": "0e980acbf8ba219e",
+      "title": "The billion-dollar battle behind Vietnamese shoppers’ clicks",
+      "description": "The billion-dollar battle behind Vietnamese shoppers’ clicks Theinvestor",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZk9Wd08zT2xsWDhjZmFaOE5aYU0xa1RNZGExRVc4YS1SYzNhQmxpM2t4dUR6MTNZRlZnNG5fQmwzYkVEOXFZQUVycHpzNmd3YzJrUHFFa052RlBVTDNtY3NIODh3bmhPbFR5ekpTVXpxTXAxenpyWkVBQ3prTjl1SGdZcm5YVzB4cDhVa3M1ajRGTllyaXdzMmN3?oc=5",
+      "source": "Theinvestor",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-23T01:47:00+00:00"
+    },
+    {
       "id": "614b8ed0dd7764da",
       "title": "Lowering Great Britain’s electricity bills – recommendations for government",
       "description": "Lowering Great Britain’s electricity bills – recommendations for government E3G",
@@ -605,16 +637,6 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-23T00:00:00+00:00"
-    },
-    {
-      "id": "ca7d841a6b014bc3",
-      "title": "The Booming Business of Beauty on TikTok Shop",
-      "description": "The Booming Business of Beauty on TikTok Shop WWD",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmZlWWZMWlZwSEw5V1picjFWYm5ndG13OW1QT0UzS1ZIczYzc1FjX1lqcUtINldtX29SR3BpNXMzd05WeEhta2FkeGtSZVA2MVFSMkYwTVJXaFNJeHdTOXUzSVFCYktaTzdXMlQ3TGtKUGVDdV9NRTRjZ1ZQZlNlbDUtSE1ETmd3bzBNREdiR2FHcTVQQVBCQmdnU3hzSFd4NGxDNHdmS1hHYWY1?oc=5",
-      "source": "WWD",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-22T23:59:43+00:00"
     },
     {
       "id": "598b35a10029d228",
@@ -673,14 +695,14 @@
       "published": "2026-10-22T20:56:35+00:00"
     },
     {
-      "id": "5359f66a7ba29637",
-      "title": "AI Is Creating A Secondary Retail Leaderboard",
-      "description": "AI Is Creating A Secondary Retail Leaderboard Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0ZDM1d2U3RDR1dBXzdEclRUdVJZQnduN3NyY1BLX08yUWJLV2tLZWI5V002Tkh1cGhSaXNScmx5cnJEODBOcFY3UEdCcXEySGdUZ3M2NEdFZlNETmtkVzZxaURGcncwQlNyYWhLVjRGZllHa05QeXozODJqajN2dU82TG1ZQ1pVQnZRNFQ3UGw3RHhhX29FVWRJUUs3Z2JxbFVjY3FFS1JBZVU2?oc=5",
-      "source": "Yahoo Finance",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-22T20:55:42+00:00"
+      "id": "b7bd700ed1202910",
+      "title": "Shopify-Like IPO Successes Becoming Rare in Canada, Nowlan Says",
+      "description": "Shopify-Like IPO Successes Becoming Rare in Canada, Nowlan Says Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ29EakdZTzZaM0loNU5GaTBFbE1RYUI2Unk4bTJySlpFeVVMYklwcURpck56R1FQZ2lUNjBjWDNLUGRzUk5VeWxsSms4Q0pWbkJLV19Fc1FmbXkwc2Ixa2pZc0tpeEM4ZFRlTUlQQUxVS1YzemlaUGhSR0E3SWkwSXBqSjI3dDlIbHNWTA?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-22T20:39:03+00:00"
     },
     {
       "id": "b94ed747527a653e",
@@ -729,16 +751,6 @@
       "region": "UK",
       "section": "finance",
       "published": "2026-10-22T18:18:00+00:00"
-    },
-    {
-      "id": "6b975a82e7910f8d",
-      "title": "Earnings call transcript: Heritage Financial tops Q3 2026 estimates as margin widens",
-      "description": "Earnings call transcript: Heritage Financial tops Q3 2026 estimates as margin widens Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlJXbHlzbWJWYWFIUWJ2NmhNZVRxaHViZERxVEVTdWRzWUpWbmdMQzRiX3FRNTdIa0d4XzFObUcwSENjTGRoOFBWVkdLcENjM2pRVnJ5WVVnQkF6OHE5NXZGcFVvSi1lLTM2aUJZb1ZoUGFlNGV0RGJiejZLUEtTT0hsN0xiajZYekZQOTNUSHhtVDdLbHkxdFE5c0xNcFo4RG5YOERDbFdGRmdBMDUwdkhxS1dza1RCNWZscndENllEM1ltdjctTXJDQ1lWSjByaVgtR0RpR3IycURC?oc=5",
-      "source": "Investing.com UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-22T18:12:00+00:00"
     },
     {
       "id": "d59987f15aa6a39c",
@@ -847,19 +859,6 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-22T14:53:00+00:00"
-    },
-    {
-      "id": "a0b7fe139e022482",
-      "title": "Bidfood launches space-saving overhead EV charging system at Slough depot",
-      "description": "The foodservice wholesaler has partnered with infrastructure provider Erinion on the venture, in what it has described as an “important milestone in Bidfood’s journey towards alternative fuels”",
-      "url": "https://www.thegrocer.co.uk/news/bidfood-launches-space-saving-overhead-ev-charging-system-at-slough-depot/725114.article",
-      "source": "The Grocer",
-      "region": "UK",
-      "section": "supermarkets",
-      "published": "2026-10-22T14:52:00+00:00",
-      "summary": "The foodservice wholesaler has partnered with infrastructure provider Erinion on the venture, in what it has described as an “important milestone in Bidfood’s journey towards alternative fuels”",
-      "key_points": [],
-      "summary_origin": "publisher preview"
     },
     {
       "id": "5087f0d9d64eb27a",
@@ -972,6 +971,16 @@
       "published": "2026-10-22T10:44:20+00:00"
     },
     {
+      "id": "ec37427e91125294",
+      "title": "Earnings call transcript: Barclays posts mixed Q3 2026 results as revenue misses",
+      "description": "Earnings call transcript: Barclays posts mixed Q3 2026 results as revenue misses Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWnBQQl9VT1pmRlRKU0I0VnNRSmlReW1iZV9PTnlDOXV0MC1DTTREYjl5UnlzaTBjQmNNanBfRnZkSXp6aEl5R24tVGRSSXpaSXVJYVl1NE9tcVZBdTZndVBTS2JualluNENKU1M1SVJMSWFGc3VFV18zbHd6d2xxUFI2LVJFZ2tSSngzTTc2Mk1lbkpCai1jTWxZNkNKLWFQdzZzSnBBQXhyYVJmZm1GMlhCMWQzT3RjVjZlSEVNd3BZTldBZXMwZzZ6UjhSMFVBRTd2b0tnQQ?oc=5",
+      "source": "Investing.com UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-22T10:44:00+00:00"
+    },
+    {
       "id": "0b3e13a067ba7f37",
       "title": "Barclays cutting 5,000 jobs in AI-led efficiency drive",
       "description": "Barclays cutting 5,000 jobs in AI-led efficiency drive Sky News",
@@ -1052,6 +1061,16 @@
       "published": "2026-10-22T04:00:00+00:00"
     },
     {
+      "id": "76e9cbca1f5c0d4a",
+      "title": "Standard Chartered PLC (STAN.L) stock price, news, quote and history",
+      "description": "Standard Chartered PLC (STAN.L) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NQU1lQ1hTVGVwSWk1amhheEViNEZSTnAzMGhkRXJrbFN3bjQ3RHhoWTZfVTRfTlBOcUpqZW0yaEZrZEdUTG5SMWxsVnlBSkl2ODhWSA?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-22T00:44:09+00:00"
+    },
+    {
       "id": "0439e2d55f18b3b3",
       "title": "Earnings calendar for:",
       "description": "Earnings calendar for: Yahoo Finance UK",
@@ -1060,16 +1079,6 @@
       "region": "UK",
       "section": "finance",
       "published": "2026-10-22T00:11:27+00:00"
-    },
-    {
-      "id": "b3c5aee0f5730a8d",
-      "title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
-      "description": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year WSJ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
-      "source": "WSJ",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-22T00:05:00+00:00"
     },
     {
       "id": "5ad15525c1a21cc6",
@@ -1082,16 +1091,6 @@
       "published": "2026-10-22T00:00:00+00:00"
     },
     {
-      "id": "7c12ead2842b28da",
-      "title": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5%",
-      "description": "Stocks rise on AI-led earnings, France's 10-year bond yield hits 5% Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5",
-      "source": "Reuters",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-21T23:03:08+00:00"
-    },
-    {
       "id": "e05b73fa62563865",
       "title": "Oil, Gas Prices Surge as Iran Conflict Disrupts Middle Eastern Flows",
       "description": "Oil, Gas Prices Surge as Iran Conflict Disrupts Middle Eastern Flows EnergyNow.com",
@@ -1102,16 +1101,6 @@
       "published": "2026-10-21T22:35:00+00:00"
     },
     {
-      "id": "35042e05a625f33e",
-      "title": "Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two",
-      "description": "Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeW9oTV9lT0MtTjVpc1Z0TTBBam9sSDZ1eThMeVBkNkNjM0N1NUt6bjBocFJMRmwxWDVsTHBPUXh4WWkwWGpBN1BmV19PLTRaWXVSbU1pZVpWWThjUHFRalRkeVF6VHhCc01adzZFcjMxTDV6ODZsNGNmdmFhVElNUmdoa3IxSkRfNC1LYVJ0TE5XS05hd3pvRC1Nb1VWdXozU0d1M2F0ZEZHcnlvY0FkQUpB?oc=5",
-      "source": "EnergyNow.com",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-10-21T22:20:10+00:00"
-    },
-    {
       "id": "2b0150ac946e45ec",
       "title": "Key Takeaways from Mayer Brown’s Defense and Security Forum",
       "description": "Key Takeaways from Mayer Brown’s Defense and Security Forum Mayer Brown",
@@ -1120,6 +1109,16 @@
       "region": "UK",
       "section": "ai",
       "published": "2026-10-21T22:02:13+00:00"
+    },
+    {
+      "id": "fd954b68fc0c18e2",
+      "title": "Tanker costs add new pressure to global oil markets",
+      "description": "Tanker costs add new pressure to global oil markets Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ0VYQ0dkeG1oR1hSc3JBaTNzLUdGdVVJTWdmMzZHYUxsbHptbGRBR245X2h3QlZQQTRIclhWYXhEYlYxMGE3QVhibmVIY1Jvekw4Mjg2eDRWWmpRVGpNaTBIVm54SFZENlEwVWxubGxlOWR0bnQ2dW1KMkNBblBGbUVDMVVIMnVYeHNpYS16SlM5ZzMtNURyem9n?oc=5",
+      "source": "Oil & Gas 360",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-21T19:38:33+00:00"
     },
     {
       "id": "3185ecf449740165",
