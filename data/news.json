@@ -1,7 +1,64 @@
 {
-  "updated_at": "2026-10-26T04:44:33.401079+00:00",
-  "price_updated_at": "2026-10-26T04:44:33.401079+00:00",
+  "updated_at": "2026-10-26T08:53:39.342890+00:00",
+  "price_updated_at": "2026-10-26T08:53:39.342890+00:00",
   "articles": [
+    {
+      "id": "d3dea34c5203d601",
+      "title": "UK CEOs see AI productivity gains but struggle on ROI",
+      "description": "UK CEOs see AI productivity gains but struggle on ROI IT Brief UK",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdmEteGFtNzFvOURYc0lXREhPUTg0UGN4aW4yNzFFTEZPZ2lrS3ZnNXNlcEtjZUM2UWNRYzdDdG8tS29vckRtZ3Y2RExtX25sSzJjUUxQOUVINkoyQWVmSDNRbk1QalNzRTNZSURYR0NKczNyelM4a3dOLW1WMHZzNXlpMEQ2WGEz?oc=5",
+      "source": "IT Brief UK",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-26T08:45:00+00:00"
+    },
+    {
+      "id": "8f7823bd14a599a2",
+      "title": "Dehulled Sunflower Cake Market Size, Share & Forecast 2036",
+      "description": "Dehulled Sunflower Cake Market Size, Share & Forecast 2036 Fact.MR",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CNi1fVDVrTGdZMWd3NDNmdE8teXIyaHlZMTYwaG9GaF9zYk5mVEctUWxQWXY0TG9xTGExb1VBTGZxdWlGTG5VQlRLcUd3YW9pQWY4VllteEZYdEhnQklhd1VIb296aGtaMWhTRw?oc=5",
+      "source": "Fact.MR",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-10-26T06:20:00+00:00"
+    },
+    {
+      "id": "f7e1fb4f2938a2f2",
+      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "description": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+      "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-10-26T06:14:11+00:00",
+      "summary": "Marcus Perkins said rising costs were making it harder for salons to employ staff and train apprentices After 22 years running a salon, Marcus Perkins says he is increasingly worried about the future of the hair and beauty industry.",
+      "key_points": [
+        "Rising costs are making it harder for businesses to employ staff and invest in apprenticeships, he says, while more salons are turning to self-employed models to survive.",
+        "\"Seeing salons close on the high street is very scary,\" he said.",
+        "Luckily it hasn't happened yet but who knows what the future holds?\" Perkins is among more than 2,000 salon owners who have signed an open letter calling on the Chancellor John Healey to…"
+      ],
+      "summary_origin": "public article text"
+    },
+    {
+      "id": "670377a023ab9cb5",
+      "title": "Indian Exporters in 2026: Navigating Tariffs, Rising Costs and Global Market Shifts",
+      "description": "Indian Exporters in 2026: Navigating Tariffs, Rising Costs and Global Market Shifts businessnewsthisweek.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNV9wdE9aTFdDSmZBaEJBMXMyYW1vZ0ljUXN1b0tmOUR2U1FDbUVNdjJOMmFrVnFtTlBDa1FHMFZLVC02N1ZFVk91MWR4UkZfV2JObVpadTF0VVJ1Z1ZrR0pOWHJocy10NGZvdHR1bjhiRGtkcHlRTUVvVjE5ZVNPYWx2ejFwbWNYSWZDTGJZTU1CbHl6RlVpV3dRU2p5ZUNKUUtZaWUtYXl1bzBLS1BwWEpIR00xRnNpb2p5ckE5dnoxUQ?oc=5",
+      "source": "businessnewsthisweek.com",
+      "region": "UK",
+      "section": "supply",
+      "published": "2026-10-26T05:25:07+00:00"
+    },
+    {
+      "id": "af4a091973886a74",
+      "title": "AI, geopolitical shifts, and the new cost of capital",
+      "description": "AI, geopolitical shifts, and the new cost of capital T. Rowe Price",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHVERDdFa28tWUNLNFBoWk9sRlZtVlZHRGdqVTZBLTRGRzRHUGtNeWlyUG1VZkMzcTJaRWdYTnQ4Z1g1S1VKcGNkVzBDOGdiREo4LXZSTE04R3BucVdKc3lVUUFydkxuRzhsZGdQeUt5MFJkTUNlRVJZU0FfM3FscWd3Z1dwT0xBWC1SZ0k5ZzllblJFQ2Fn?oc=5",
+      "source": "T. Rowe Price",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-26T05:24:07+00:00"
+    },
     {
       "id": "3c9945508fc12ebf",
       "title": "Anthropic’s IPO Stares Down a Wobbly AI Trade",
@@ -21,6 +78,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-26T02:16:37+00:00",
+      "direct_source": true,
       "summary": "Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October.",
       "key_points": [
         "He has refused to rule out tax increases after acknowledging government borrowing costs are at \"historic highs\".",
@@ -58,6 +116,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-10-26T00:26:49+00:00",
+      "direct_source": true,
       "summary": "The chancellor's aides are using intelligence-style security measures to guard its secrets: the Budget has been split into \"compartments\" with very few given access to all of them.",
       "key_points": [
         "The IT has been locked down and ministers viewing the plans have to sign a digital promise not to brief media.",
@@ -81,8 +140,8 @@
       "summary_origin": "publisher preview"
     },
     {
-      "id": "1540e54d10ef4a7b",
-      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "id": "573c3df1d3e4d754",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
       "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
       "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -96,6 +155,36 @@
         "But the speed at which they're growing, the enormous amount of electricity they consume and concerns about their environmental impact are fuelling a public backlash around the world."
       ],
       "summary_origin": "public article text"
+    },
+    {
+      "id": "1c0e30d8fd812656",
+      "title": "Dinner Rolls Market Size, Share, Trends 2036",
+      "description": "Dinner Rolls Market Size, Share, Trends 2036 Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92WFIyaEJ6b1RYTUhFUnJjdmN0UEJ3SmFXZHhiZXJIbVdqekhJMmRjcXh1Zm0zMlFiWGhhbDEyZDNQLUJwRnZGSTdOeEVPQ29tYW1ORUllM1pNWDdUTndrZzI1bEdFV0p2eFUydnlPbW54Zw?oc=5",
+      "source": "Future Market Insights",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-10-25T18:30:00+00:00"
+    },
+    {
+      "id": "2105ac1281d7a278",
+      "title": "Bank of America sends SpaceX stock investors strong signal",
+      "description": "Bank of America sends SpaceX stock investors strong signal Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdk9SM3czazR2QlBudGhBSmRoS2FUdkhVLWlJTW9WRy1jcTBOUE5CVWVGbk5kV0dJcFpIWjhCc2pMTUMzNXJqOWNLVTRGdTRaNzJKWDRTdWRabVk3N0tYWUpPem9neURkVmlhWlVseVAwLWpBdFVuN2N2Y09IdzdOWE8yREZvZEdVU0w5b1hGVUJyZTBwTi1fOHNZTXo?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-25T18:03:00+00:00"
+    },
+    {
+      "id": "3033754f4028d983",
+      "title": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
+      "description": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2FvMEk4MFF5d0d3cDBiOTcxLW81U2IxdDY2SWt1R0NLUTR4eWRrWjltR2hwNktSVTZudXgyUC1waDJXUFdNMjlFcktuVVprWTJZOFlIUjNZZHFWVzdWRE5RZFBqaVJCWmZCS09EMFM5NEM5YTA2WGhkNVdDOEVkWW1lOVNkN0hEamlUaW94UndEZGhwY0Z3SzlJaDZnaUUzdi1Ibm80VDNuMjVBQXlKaEFTRWhqUWVyYnJOQ0Y2X0JoZjJyOTREN2p4UV9rZjZfanRzeWM4aE5yX1ZIOEZ0LW1DNDdZZmc?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-25T17:39:49+00:00"
     },
     {
       "id": "816a60ccc7871625",
@@ -128,16 +217,6 @@
       "published": "2026-10-25T12:14:57+00:00"
     },
     {
-      "id": "2ce019d3aca287da",
-      "title": "Aramco CEO warns of 2% GDP growth, >6% inflation, if Hormuz disruption continues – Chemicals and the Economy",
-      "description": "Aramco CEO warns of 2% GDP growth, >6% inflation, if Hormuz disruption continues – Chemicals and the Economy ICIS",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGhCTUpWdkZySFBxcWJwN1pIN2NVdG1TbmZDSTRCaF9CbzctVnY4Tnc5czVybGV6WTg3U0p1NkNJUWo4Q3JtaWROejYzN2k1NnhYRVlfV0pKT05hSWdQa0ZicElkN1NXaUtqR0xURkJ5T1FLM0haS3M2TWtqMHhwWmc5VThVSTRiRHlKQzhWbXdQWXpDa1dHQmt1TEY5Q1EwU04yNGhhQ1pLR0trNUpldnNNaWFXUExRb2pPb1NZNjJXNUZkMVZkQ2tKaw?oc=5",
-      "source": "ICIS",
-      "region": "Global",
-      "section": "economy",
-      "published": "2026-10-25T11:38:21+00:00"
-    },
-    {
       "id": "23582ff1f43d249f",
       "title": "Budget to include £1bn for social and affordable housing",
       "description": "The move will take funding for the 10-year programme to more than £40bn.",
@@ -154,6 +233,26 @@
         "Chancellor John Healey said English cities and regions would get the \"right to decide their own future\", while Prime Minister Andy Burnham said the plans were about shifting power to those \"who know…"
       ],
       "summary_origin": "public article text"
+    },
+    {
+      "id": "869daf1c77267737",
+      "title": "Oil Rises Over 1% as Traders Assess Shipping Flows; Monthly Gains in Sight",
+      "description": "Oil Rises Over 1% as Traders Assess Shipping Flows; Monthly Gains in Sight EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTdYajhYVHBoTFY3OG5hV0RObkVRc3hXb0hmcGVvLVEwRzlQWklPVGhITld3RXRwbmg1cDc5OUhpSzVWdWNiUzVpZ2FzUTRKZ2NXcEFkLWoyajRNUE51aU1oNlNzODFsTDhwNTU5MUcyWi1oS1gydi13eFh4S0FRWU14Y09qSE1xY2VGVW94bXBCdGhSdGdwdm81bXNfQQ?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-25T08:41:30+00:00"
+    },
+    {
+      "id": "48c58914106a5f35",
+      "title": "Oil Hits Three-Week High on Uncertainty Over Hormuz",
+      "description": "Oil Hits Three-Week High on Uncertainty Over Hormuz EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXI5R3ktV2Y0TG5oV3JwOU0za3YwUGU1c0hBQXhOSnpOYXZJMkpha0hBaVJITVgwYVdqQWRwVW8xUHlZUWtLNmNyNGpPUXpEMExTaXl3bHp0aDItMWhjX3AydVlPejJoUEFyTjg4Nl9tMlZhUkJNRDQyTlVhYTdnc1FZT0JGQnFSaWc?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-10-25T08:03:59+00:00"
     },
     {
       "id": "413cb25802e05b80",
@@ -280,14 +379,14 @@
       "published": "2026-10-24T13:05:33+00:00"
     },
     {
-      "id": "20d17212af139230",
-      "title": "UK to Inject £20 Billion into State-Backed Lenders in Budget Move",
-      "description": "UK to Inject £20 Billion into State-Backed Lenders in Budget Move Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajFIbTg1cWFXMnFncWh3RWxNZ3IxRGQ4eHZhZWxGeExzXzI0MjFzWlJKRFo3ZDRsOFQ0VGZDQlZOWmxPSm9zT2FXbmRBRDh5bDE3RWVXQUZNYVY4Qk5wdTVkMHlWc0xxWDhrY1ZMbEJCZmFZR1Y1bk1KV1lnM1RmWnBLVDJLa0VoeXl4RDRLTEhmWkpISV9NUFVXcDVBNXJ1QUE?oc=5",
-      "source": "Global Banking & Finance Review",
+      "id": "ac76907ae0868cdc",
+      "title": "Graphite’s Mike Tilbury: Rise of AI content could lead to ‘rights-clean’ data re-rating; Mutares completes largest-ever deal with Sabic carve-out",
+      "description": "Graphite’s Mike Tilbury: Rise of AI content could lead to ‘rights-clean’ data re-rating; Mutares completes largest-ever deal with Sabic carve-out PEI Private Equity",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQOU5NT0dyb1BQUDJzZzJybUt6dnBEaTVZenhwVlVpSkZfQXIyaFRNYnA0WERUWXptWXQxVHJ3dk5sanJXdnpRYkpQUUpENGtHZS1TYndEUnJqUERCelhFUUwyVnJka2J2TEFFNG9JRUxVdk51S1FKdzZSUWFIaG5oUzVuTFU3cjdvRWV4Z0pHdDhFeEFWNDM0eXNibXBvdWNNVnc0MnNiTEEtZnYxcDFIMFlJQWt4TG43SXJsTXY4Qnp5RTR3LU1KVktaY09CTFVzTnJIS1BqbG1iTHRsQ2dEQm82ZkRCd3Rocl9MNDlHMmFTOXlLc29PSFRKVXlaX3BaZ3EteEF0Y2Q0cDdWWDNFYnh3?oc=5",
+      "source": "PEI Private Equity",
       "region": "UK",
       "section": "ai",
-      "published": "2026-10-24T10:57:11+00:00"
+      "published": "2026-10-24T11:12:51+00:00"
     },
     {
       "id": "b5913d1f761f6e60",
@@ -310,14 +409,14 @@
       "published": "2026-10-24T08:49:38+00:00"
     },
     {
-      "id": "8b2e4a648162a489",
+      "id": "fbc6b977757debf0",
       "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-      "description": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week The Independent",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajJHWnVsZk5VS3RCU1ctSE1sclNTbDU1Vk9TTDRIbHFDZ2NyUngtWUN4UUdPUEVQa3BpNnJ4Z1FhXzJlMF81Sk11YU1hTU9TYmNPekd0Q0U2cEQxZUxIRy1mREhXdk5qVW5hR0dET3BxWTlOV3U1SGJTRlVLOTN4WEhzQlJNV2QzdmhvNXBLTTlTOVh2eXZ4Zk9lXzZuR0M3?oc=5",
-      "source": "The Independent",
+      "description": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS1dpZFRwdHJoRWI4UllJSVpRZEl2Y2JWeVBWSmRHdG80WGgzVk94VnNCMmQ1b083QW00NFVBYm4xcHBXWFZMS0p2ay1kRDZpd1RHWVIza09wUEhmSzRCMk9oRXZtWE5SdVFSTjMxZVZ1TEZ6QUswWmFDeHhEelB0ZVZjWDQ1engtNG1faDZ1WHJlUlJIcUhNNHlqX3pMaEJKRFhCcVYxZk9uRFF0ajhVWVFkT2xaZjF0cFR0STVTaXhIeDhmTk9KNnQ1X29kUDBVZGlfTVhEY2YxQW1tVFhOZGl6clBUaHRvNDNLLTBpZV9PeHpINWdsZ2tTNUUxQQ?oc=5",
+      "source": "The Killeen Daily Herald",
       "region": "Global",
       "section": "economy",
-      "published": "2026-10-24T08:00:00+00:00"
+      "published": "2026-10-24T08:00:09+00:00"
     },
     {
       "id": "5fc115d39d391faf",
@@ -350,24 +449,14 @@
       "published": "2026-10-24T06:09:36+00:00"
     },
     {
-      "id": "14e420b496147947",
-      "title": "Chancellor unveils Britain’s ambitious plan for AI",
-      "description": "Chancellor unveils Britain’s ambitious plan for AI GOV.UK",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVJjeW15WWZ4UFBYYWVqT1VvR2djRFJYT00yVGFaYVZrUmV6enp3dmNMc3RGOHFQNHc4WWh2Y04wU29PaDZqa2g5bWduTm8xb0xwUWZoMEFaZDZkNWNCNGN1T3pidXNxSEprTzJCYXZYdWc1cjd3WG9RejI4VW8ySmViUV9CVlVKTzhJRw?oc=5",
-      "source": "GOV.UK",
+      "id": "6dbd0a4391a906db",
+      "title": "Small shops pushed to stock new products to prop up sales as costs mount ahead of the Budget",
+      "description": "Small shops pushed to stock new products to prop up sales as costs mount ahead of the Budget This is Money",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbW1qYi1VRUdQeHliZUJqLXlOaFp0ZHZSWDdSTTd2RzdndldrTVE1LU5yVVpNNUZrVVlsX0hid2hxR1I4aVRadldvaGdIOVMtTU00em04LUtjWXJ2cVNZV1dGQnFNdGhpd0RmVUxwRk5RLTBIQVkwQlRwdEJPc1R4aTd2NVhQaGtxaVpzVTU0THZuUmtKUC1KVlNyZUZESVBBaVdHN3h1WVJtSFlvTF9ITkRJeG1pcEtFRVV1cUluY3hYaGc3Q3dDY1lmS2oxN3ZMd1ZuNk5XdDBxcmw4WXc?oc=5",
+      "source": "This is Money",
       "region": "UK",
-      "section": "ai",
-      "published": "2026-10-24T05:00:05+00:00"
-    },
-    {
-      "id": "4c3a0deb24d75cc5",
-      "title": "UK Pledges More Funding to Guard Against AI Risks",
-      "description": "UK Pledges More Funding to Guard Against AI Risks ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWldLLTFHVVhQcURlMTdlZ3dVb2hJZ1NEYkNzX1BwOUtTSjd2SjV6UU1HMFhvSXBfcDVBQVAyWEpKMzg3UUs2ZzF5T2ZoLUE2VnRndEgtVVUyb3VHVnFTYzA1UVhkRUFzQngwYUNiWDZPUGw1R0k2WmxMSFQ2N3hhdElMR1BRQUd4dktPbkQxdVIySXdK?oc=5",
-      "source": "ASHARQ AL-AWSAT English",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-24T04:36:55+00:00"
+      "section": "retail",
+      "published": "2026-10-24T06:00:49+00:00"
     },
     {
       "id": "23b87849933b4c47",
@@ -377,7 +466,17 @@
       "source": "Yahoo Finance UK",
       "region": "UK",
       "section": "finance",
-      "published": "2026-10-24T01:24:30+00:00"
+      "published": "2026-10-24T05:51:05+00:00"
+    },
+    {
+      "id": "14e420b496147947",
+      "title": "Chancellor unveils Britain’s ambitious plan for AI",
+      "description": "Chancellor unveils Britain’s ambitious plan for AI GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeVJjeW15WWZ4UFBYYWVqT1VvR2djRFJYT00yVGFaYVZrUmV6enp3dmNMc3RGOHFQNHc4WWh2Y04wU29PaDZqa2g5bWduTm8xb0xwUWZoMEFaZDZkNWNCNGN1T3pidXNxSEprTzJCYXZYdWc1cjd3WG9RejI4VW8ySmViUV9CVlVKTzhJRw?oc=5",
+      "source": "GOV.UK",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-24T05:00:05+00:00"
     },
     {
       "id": "7d9cea3484bd1e11",
@@ -418,44 +517,14 @@
       "published": "2026-10-24T00:09:12+00:00"
     },
     {
-      "id": "1d8aabd307cccc77",
-      "title": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot’s date",
-      "description": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot’s date Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemctbjZ6dTZjWHBpMGhDQllnWmphUXVUTzhLUEhyOFhYQkVyQ3VrdkZKTFVmT1kwdWlNLUZudHA3bWcxOFE3dUpmWTFidGwyZjVheGo2MHd3bzNaQVJCb2JLTy1WRHJELTZSMmNSN3lRaV8zWUs0bFY3cFktRVd4M252ZTRHMDdDQXpoLUNTVUtGUXk3UGF1aWpR?oc=5",
-      "source": "Fortune",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-23T23:35:00+00:00"
-    },
-    {
-      "id": "869daf1c77267737",
-      "title": "Oil Rises Over 1% as Traders Assess Shipping Flows; Monthly Gains in Sight",
-      "description": "Oil Rises Over 1% as Traders Assess Shipping Flows; Monthly Gains in Sight EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOTdYajhYVHBoTFY3OG5hV0RObkVRc3hXb0hmcGVvLVEwRzlQWklPVGhITld3RXRwbmg1cDc5OUhpSzVWdWNiUzVpZ2FzUTRKZ2NXcEFkLWoyajRNUE51aU1oNlNzODFsTDhwNTU5MUcyWi1oS1gydi13eFh4S0FRWU14Y09qSE1xY2VGVW94bXBCdGhSdGdwdm81bXNfQQ?oc=5",
-      "source": "EnergyNow.com",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-10-23T23:24:28+00:00"
-    },
-    {
-      "id": "b7e4db7caddfa824",
-      "title": "UK government sets out $800 million of AI security funding",
-      "description": "UK government sets out $800 million of AI security funding Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5",
-      "source": "Reuters",
+      "id": "4fe4bf7bf147de5b",
+      "title": "Introducing the AI Biosecurity Lab",
+      "description": "Introducing the AI Biosecurity Lab GOV.UK",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Vko2eXhWdTRIalZnWk1uSjFpUU10SzNRaDdKUjNwMFl4bm56VVZaTTVsS0ZEY1ZraFlvUUdaczh1U21HSGlrcjJ0VzNzN1BXdEwxTmRJWVRvMGhFMDNjb3UtNkJVdko5NzR0UFVWOVpHb2FKVGZ4cQ?oc=5",
+      "source": "GOV.UK",
       "region": "UK",
       "section": "ai",
-      "published": "2026-10-23T23:03:43+00:00"
-    },
-    {
-      "id": "df3be1ca271a3b85",
-      "title": "Trump tweaks Canada tariffs, removing certain goods while adding others",
-      "description": "Trump tweaks Canada tariffs, removing certain goods while adding others Supply Chain Dive",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWNaejhRbU4wTGlxcFhxbG5MdUNqWDV6THIwMHV5Yk01dlNLU0gyNnU4b25tNkxZNzJNdV9Qa3hMWHhYdDROOXJJU2U0cUhKS2c4MnZobl91VUZuOTJyVzRSWFJzakpKclBYR3lOOWUyOGhVNktSNVpiVEtmdVBuYldqcWdPOXdfYzlPcGpLN3BMdVZmWnMySXY1SVk0YjBiNVdhUXlPOU9taU1CeUNubmFQRmMxQQ?oc=5",
-      "source": "Supply Chain Dive",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-23T22:12:39+00:00"
+      "published": "2026-10-23T23:01:00+00:00"
     },
     {
       "id": "c79dd34ecdf228f4",
@@ -538,16 +607,6 @@
       "published": "2026-10-23T13:53:16+00:00"
     },
     {
-      "id": "d52ee5f19cea5187",
-      "title": "Earnings call transcript: Woori Financial Group posts solid Q3 2026 profit as margin pressure lingers",
-      "description": "Earnings call transcript: Woori Financial Group posts solid Q3 2026 profit as margin pressure lingers Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZE5CLVNOT1JuU0pMNERfTEw5UzZLejJPbE5lYUU1OWcwcEszM2pMTUptajFLSlVwTEtvR1lNRnVXZ3lxSXBTOU5IVmZ3MlExZUdoMjdVSk9HR3QwbHFfN3ZBRzJyX3J3NG1seUttd3FycHpJZmZHMk4zUHBiZnhnR0EtV3ZNdjl3NmNPMmd3N2FBUDNId3g3RFQxNkJyZk1HMl9IMDdLa2lLR2UyS2t3TlFGRDdtZU1lMklsQjJlbS1lamVDal9nZWFxUWQ4NC1MTGhLQTAwUXZybWhJNFNWb1FxVHhDVzdjNVdNellteGthdTg?oc=5",
-      "source": "Investing.com UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-23T13:48:00+00:00"
-    },
-    {
       "id": "7355bfd75937256c",
       "title": "Retail sales fall 0.4 per cent as households cut back on food",
       "description": "Retail sales fall 0.4 per cent as households cut back on food Business Matters",
@@ -568,26 +627,6 @@
       "published": "2026-10-23T13:23:02+00:00"
     },
     {
-      "id": "bb6202a6576790eb",
-      "title": "Earnings call transcript: IndusInd Bank posts stronger Q2 2026 recovery By Investing.com",
-      "description": "Earnings call transcript: IndusInd Bank posts stronger Q2 2026 recovery By Investing.com Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0s2T0YxVjhVT0FEcGxqLVNNZllhd2w1ZGZHSDktWU5qdTdvRlJNS0FnbWI0ZXVwdGRJanlzbFhFeHlFeFNrODRpdlZNWi1LbWhVRmp1SHNJdEJ4WVFfNTFtRmFydlJLVXMzZEM0RGFEczU5Q24wMzE3VHktaF9TeUFYVkl6WU1aczFNTE9kSE5SOC1zckk2a0NQOVlSQnE1TkNGZE9MU0c4dUlEMy1ldEFibHl4djB5Tkgwdkc2anllWjk4Y2lYRU9WNA?oc=5",
-      "source": "Investing.com UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-23T13:14:00+00:00"
-    },
-    {
-      "id": "004e8c5bfefbaad6",
-      "title": "Aldi and Lidl brought under same competition rules as major UK supermarkets",
-      "description": "Aldi and Lidl brought under same competition rules as major UK supermarkets Lancashire Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWE1uMF8zZWRNUE91STN6LUJuM2lvVWZKZFQ0VG4yWDh3RTMzU0lqNlctbjJBX3NSX3o1ZlFvclFSOXFiVFZyaHBRa3FSeXJaMnNoVjRNMkcwQmx0UUYtVWJfR3NOMGFKMkZYNUdBN2l2R3FrLW1HaW5iTnpjbzBVRG9PQUhJamJwai1ZU1N5ZHdmS3FF?oc=5",
-      "source": "Lancashire Telegraph",
-      "region": "UK",
-      "section": "supermarkets",
-      "published": "2026-10-23T12:06:38+00:00"
-    },
-    {
       "id": "c8b57b623cadc1f6",
       "title": "Las Olas founder to debut Hackey Marsh functional tonic brand",
       "description": "The brand will launch at the end of this month with a classic Indian tonic water with magnesium and B vitamins, and a lion’s mane and ginger tonic",
@@ -602,20 +641,10 @@
       "summary_origin": "publisher preview"
     },
     {
-      "id": "b0361f9126340db6",
-      "title": "A Tech Rotation Roils the Markets, Again",
-      "description": "A Tech Rotation Roils the Markets, Again The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0FQUFEwV25pVGlhQmdUYzFrZXlCOE16UENqZG4wbE0xV21PczlPaV9mSXFhX2RWeUpVMHY1aVRWYTA5TGkwc3JSUnlJOXA0NFBZMUZBbW1QbE5DbTBkUzFJZGRFTlgyRWpJcjBzc19HTmcyU0JWSThVU0FkUmZPTVpidkVIN1BO?oc=5",
-      "source": "The New York Times",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-10-23T11:42:50+00:00"
-    },
-    {
       "id": "9464a63104f490cb",
       "title": "Della Vite expands roster with ‘approachable’ DOC prosecco and mimosa spritz",
       "description": "It comes amid wider retail listings for Della Vite’s Hugo, Bellini and Sicilian Lemon spritzes across Morrisons and WH Smith stores",
-      "url": "https://www.thegrocer.co.uk/comment-and-opinion/della-vite-expands-roster-with-approachable-doc-prosecco-and-mimosa-spritz/725139.article",
+      "url": "https://www.thegrocer.co.uk/news/della-vite-expands-roster-with-approachable-doc-prosecco-and-mimosa-spritz/725139.article",
       "source": "The Grocer",
       "region": "UK",
       "section": "supermarkets",
@@ -624,6 +653,16 @@
       "summary": "It comes amid wider retail listings for Della Vite’s Hugo, Bellini and Sicilian Lemon spritzes across Morrisons and WH Smith stores",
       "key_points": [],
       "summary_origin": "publisher preview"
+    },
+    {
+      "id": "95f9795d94ed1a91",
+      "title": "China's Ministry of Commerce threatens countermeasures if UK aligns with EU on tariffs for Chinese EVs",
+      "description": "China's Ministry of Commerce threatens countermeasures if UK aligns with EU on tariffs for Chinese EVs Automotive Logistics",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQXI2TGhtd2w0aWFabjRFbUpRSjFFWGt6XzZfcFdzVGFXeXJjZ00yU3ZwWEZMSDgwY1A4N25ITEtTVXhja2hvckliR1h5N2Vlb1Z3ZlE5MUdRXy1PRHFCbzNwdlJ5RmpDMDVHMldJNTFkaElXWHFPbUp0dk1XVW1sb0hBcmlpRE1oV2owbVBXVllJY3psSlQ2dlhSRG1XY2MtcERYbkEwbnhTdTR3T2dCbTUybmRtckxVdXM1Tl9HSGRtTFpRV0NKR0pNdU51bk5aZFh1MkhSZE1GeE9hRUFEdnM0Wm14NFVnUnRGNzRCWkI4dw?oc=5",
+      "source": "Automotive Logistics",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-23T11:15:41+00:00"
     },
     {
       "id": "b15865fb7c612783",
@@ -664,6 +703,26 @@
       "region": "UK",
       "section": "retail",
       "published": "2026-10-23T10:56:14+00:00"
+    },
+    {
+      "id": "956cc33e3905498e",
+      "title": "FCA chief: Risks put on ‘steroids’ by unprecedented pace of tech and AI development",
+      "description": "FCA chief: Risks put on ‘steroids’ by unprecedented pace of tech and AI development Investment Week",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlFSblBWUVpuOGFyR3QyTXF3bHZvZmI2ZmJzbndMMDRpWjJJdWM5S3o0SmZoZGYtT3gzcHJZRzlkWkpUN2k4WHZiUmpvNVRnRDQxRWZ2ZVduUTZNT2lsX2ZHUGdmcmlSZVY3QzhMQ0JuVFUtOXZ0VU9VVEhsREpYd0I3cXR4dS1DbjdGanR6aHhYUnBWb2lhUlVoNzhUTG1uazFkeDFhSTVQdjJtb1E?oc=5",
+      "source": "Investment Week",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-23T10:08:28+00:00"
+    },
+    {
+      "id": "32e790cb78e62eea",
+      "title": "Online retail sales volumes fell in September as retailers brace for a muted Black Friday",
+      "description": "Online retail sales volumes fell in September as retailers brace for a muted Black Friday InternetRetailing",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR19BX3dqVmQ0bXMyX2VsWXFQRmQtZWxwbUx4dmtId1lZOTFDZWdqQkh3cDNUSFlRUUxGTkE3bUtJRFo2N1lYVVZ6clJIMzZHWHhQeV9XcVBqVy1JRE9SM0F2VWkyS25rNTZxNEZTNHg2WUo5VTFJSDhtMENfMWtGdGJsVUticDVzS3pEeWZnUlN6TFZKd0JhQXJyaHRoNzg0YkFEQm81VjJ4RGdrZUtTVDR4eW9fdEV6WkkxVTV1MU8?oc=5",
+      "source": "InternetRetailing",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-10-23T10:03:02+00:00"
     },
     {
       "id": "aa246134778eb89c",
@@ -768,16 +827,6 @@
       "summary_origin": "publisher preview"
     },
     {
-      "id": "7959829a14dccdbc",
-      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
-      "description": "ON TUESDAY: How AI can accelerate investment in climate solutions edie",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUQ0bE1RcmlGTXhZaHh0TnN4clBaNnl2d3p3QkRKMWJLTU0wTVViSzVSSnJweHh5cl80elpKZWltNUJ6M1pRVHFQODREcEVlV2dEU1o3SW11T2FQd2NtZzhYOWM2V1NmelF6NVZqektiMThOQ1VGbDVTVURUSXFPOTJoQTgwSFZDRnhmbkdZcEpFb2dpeUHSAaIBQVVfeXFMUGtBYk95cWVuZk1JLUhXMHZWNXI4Q0ctNWdSUE9UWExOQ0pnNnBhQ3dDZFBwb0o2OVhmZFVmcm1DbTV2eHZQaWZGVkl3R3hGejRnc2pVVUNCR1k1ek9BdzhHMjA0Y1g0Ym1wdHBxeEhDSzZnVXVMdW5lTFdlem1zWFdWNGVhdlNVRFhJdnV3UDAyaXZtTVB6LUFTVHU1TF9wMmhB?oc=5",
-      "source": "edie",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-23T07:00:00+00:00"
-    },
-    {
       "id": "1dd1e7c068da8b68",
       "title": "Amazon Brings OpenAI, Meta, Anthropic to AWS GovCloud [2026]",
       "description": "Amazon Brings OpenAI, Meta, Anthropic to AWS GovCloud [2026] shattered.io",
@@ -788,16 +837,6 @@
       "published": "2026-10-23T07:00:00+00:00"
     },
     {
-      "id": "76ad3fc4c2ff312f",
-      "title": "What retail wants from the Budget: Fashion leaders call for confidence and lower costs",
-      "description": "What retail wants from the Budget: Fashion leaders call for confidence and lower costs TheIndustry.fashion",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNXdoYWdwLThGcU8zeVMtMHlhc0prdDh6N3I3SFdTVUlRa2ZubC1Belg0dzQxTGV0QjlMTGx2QzB3TTFYOFltZV92Z1Y4NzNrUEl0SnF1WlFjeDExcWJNU1RBSTdRTUJXUlB3SXl3eHJYOEZzbVh4UUl0Mk1JaUFfVnFKcWl3QXdBaS10SkZpY3NBUW5HcEhiSjJrYlFla2RwUHUxT0o5dERPXzhOaGFXd0VMakVpdzk2Rmc?oc=5",
-      "source": "TheIndustry.fashion",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-10-23T07:00:00+00:00"
-    },
-    {
       "id": "a25f234943d32b2f",
       "title": "Market Movers blog: Oil nears new high as markets 'teetering on the precipice of an energy crisis'",
       "description": "Market Movers blog: Oil nears new high as markets 'teetering on the precipice of an energy crisis' Investment Week",
@@ -805,6 +844,16 @@
       "source": "Investment Week",
       "region": "UK",
       "section": "finance",
+      "published": "2026-10-23T07:00:00+00:00"
+    },
+    {
+      "id": "2ffa3d4ff22ca8be",
+      "title": "Nuclear Power in the USA",
+      "description": "Nuclear Power in the USA World Nuclear Association",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdEw2eHFVOFRNQlBPTlc3dy1Lb0xRNkppdjYwRmthZjBoOVZBWFRBWWNyeS03Q25QcWh2YmZQVm1rVTF6RmpXc295TU93dUJmVkUtX2h3TU1lWVNpSFN5WXhOUzM1Z25uajNNMjJER3lpQVVBUUM1MmgxZHo1MU1wOHJNeUJBYWdqeTdYVGt4bkNSYlJZbVJGUlZB?oc=5",
+      "source": "World Nuclear Association",
+      "region": "UK",
+      "section": "energy",
       "published": "2026-10-23T07:00:00+00:00"
     },
     {
@@ -838,26 +887,6 @@
       "published": "2026-10-23T00:19:42+00:00"
     },
     {
-      "id": "fa67cc5ce5b53302",
-      "title": "UK gas, power grids ready for winter despite global turmoil, operators say",
-      "description": "UK gas, power grids ready for winter despite global turmoil, operators say Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcko0Q21WeGM0Sms0aUI4VWVaVm1PNllSc05wM2VQLUFXdmhLeEwtOUFjenQ5VXdzYXU1S2FZdFlKeS0weFN0MmMwc0FodlFvN3k0c2VyUTBqczEtdTZ5YnNwSjBadnVfdmFhOGs0MFk1RUJoWmZOd2dzVDJvdHAyTGlfY3gzUFhuYlpBQ29WTnk3VlY3dzdSb296NFp5ckhNSmdiVVFKZDBLUXQ1eHd3R3JZaXFWR0FKVEtSYg?oc=5",
-      "source": "Reuters",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-10-23T00:10:00+00:00"
-    },
-    {
-      "id": "c91aa3a86706ec07",
-      "title": "Energy system stable for winter despite overseas gas reliance, analysis finds",
-      "description": "Energy system stable for winter despite overseas gas reliance, analysis finds Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdfVE80MURaUms3LVM3eGFPQ0tSckozWGpFeUZzbzNvREc2U0ZvU3Y3RXVDME1XOEZZcTBabG5SUjJibTR4SUM5aXFFS3ZfYVpLVjNaNUxOajZPa0JWbDBYUDZPWkRrSXVWWTViQzllZ1hFNTEyWVYyc1poT0xHX0VlOW9uMFJDMDdpTg?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-10-22T23:01:00+00:00"
-    },
-    {
       "id": "7c31e6b4c06bf21c",
       "title": "Kroger to open 110 new stores, lower prices",
       "description": "Kroger to open 110 new stores, lower prices Cleveland.com",
@@ -866,16 +895,6 @@
       "region": "Global",
       "section": "supermarkets",
       "published": "2026-10-22T22:00:00+00:00"
-    },
-    {
-      "id": "fb388a80b10ead71",
-      "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
-      "description": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFJYYnNjX1VqR0Y0RVo0U21ZWXBLbFdIbFV3eER1bjh0OEtGZ19yb0hIREZlMExxUENOWXlhV2RCQjZ0S04yYzdCNE94cEFCdXppUlByOEU3TlJwQll3bmgtZUZrbnNPb2NFb2NWRUF0Rzl5R20xLW8zVjg1WkJEQXF6OA?oc=5",
-      "source": "AOL.co.uk",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-22T21:14:05+00:00"
     },
     {
       "id": "b94ed747527a653e",
@@ -918,6 +937,16 @@
       "published": "2026-10-22T18:18:00+00:00"
     },
     {
+      "id": "6b975a82e7910f8d",
+      "title": "Earnings call transcript: Heritage Financial tops Q3 2026 estimates as margin widens",
+      "description": "Earnings call transcript: Heritage Financial tops Q3 2026 estimates as margin widens Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTlJXbHlzbWJWYWFIUWJ2NmhNZVRxaHViZERxVEVTdWRzWUpWbmdMQzRiX3FRNTdIa0d4XzFObUcwSENjTGRoOFBWVkdLcENjM2pRVnJ5WVVnQkF6OHE5NXZGcFVvSi1lLTM2aUJZb1ZoUGFlNGV0RGJiejZLUEtTT0hsN0xiajZYekZQOTNUSHhtVDdLbHkxdFE5c0xNcFo4RG5YOERDbFdGRmdBMDUwdkhxS1dza1RCNWZscndENllEM1ltdjctTXJDQ1lWSjByaVgtR0RpR3IycURC?oc=5",
+      "source": "Investing.com UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-22T18:12:00+00:00"
+    },
+    {
       "id": "1a22b5ad7d6ba2b0",
       "title": "OurCoop marks two-year Samaritans partnership with £650k raised",
       "description": "OurCoop colleagues have raised funds via customer donations and community events",
@@ -948,6 +977,16 @@
       "published": "2026-10-22T16:34:09+00:00"
     },
     {
+      "id": "8e8dc0e055771f07",
+      "title": "Aldi and Lidl brought under same competition rules as major UK supermarkets",
+      "description": "Aldi and Lidl brought under same competition rules as major UK supermarkets Dudleynews.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSmZRZFgycW5TeHpsSW9Oa1NicUdFb1RYTTdxY0szNUs4Yy1wS1VQRWNpS1ptV1dVWWxHYjFNUFNGV2ljcnFmQzZiZkwwTG5rX05ERFJEcFJTbVBJV2FYSm1jR3luaHlNUHZON0hpS3FCQnp0N0F0b3ZZaFg1TVFVYzBlYlVLb1VweTg0M25RbU9xRWg1T2RSa08yNUotQ09H?oc=5",
+      "source": "Dudleynews.co.uk",
+      "region": "UK",
+      "section": "supermarkets",
+      "published": "2026-10-22T16:26:05+00:00"
+    },
+    {
       "id": "264c4b16d02a8231",
       "title": "3 Bank Stocks for Higher Rates and Dividend Income",
       "description": "3 Bank Stocks for Higher Rates and Dividend Income Yahoo Finance",
@@ -968,34 +1007,34 @@
       "published": "2026-10-22T15:50:30+00:00"
     },
     {
-      "id": "0dcabe5831115fe0",
-      "title": "Why Lazard (LAZ) stock is trading lower today",
-      "description": "Why Lazard (LAZ) stock is trading lower today TradingView",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjJXOHhsV2RxaDFMNzJkUFhrOVh3M3pKWnV3VnJ4SEhrQXVxTDQ1UHZvSS11MnhMVnExTDVDYVpZTG5ka1Q4UlZvdjNoc3BMWTFfeXEwazY1TFhLNWhzLUxCdXVvcjFfYUxjTmlHNF9UaWNPZzVvbGktbjB0eDRfREtqVVdTWndMNFJLRTNselZTcElvVmFHajRDR205eHp6NlFQSGZ6QQ?oc=5",
-      "source": "TradingView",
-      "region": "Global",
+      "id": "93540ea278acc579",
+      "title": "Earnings call transcript: CVB Financial tops Q3 2026 estimates as profit jumps",
+      "description": "Earnings call transcript: CVB Financial tops Q3 2026 estimates as profit jumps Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWUtR09EY2FobGlVWUdvYzdWWHc0aU1mRE0zSXQtUmxhZFpMbkg0NGZVWnJ0c01LRzlvdTFJM0Mtd1hlc0JucU5wTTd3SDBwXzIxQmhiNUVfVmMwQm54d1pHZjFuUlZlWl8wNEk3Zy1YdVpCeWRDMktGRHdOMW5FRXFUY1hTRGN2MlNnSWpZVmp1bHVMYXJSVUVEal9hNWVNcnNOTVl3d1R6TmhMelhNLUZyU3E0bTNXTWZKTGFkMW9OZ01iQzNmajJfekQ0UFpXWlJsRg?oc=5",
+      "source": "Investing.com UK",
+      "region": "UK",
       "section": "finance",
-      "published": "2026-10-22T14:45:45+00:00"
+      "published": "2026-10-22T15:26:00+00:00"
     },
     {
-      "id": "b36d23578fdb6e37",
-      "title": "Trade uncertainty narrows the planning horizon for supply chain leaders",
-      "description": "Trade uncertainty narrows the planning horizon for supply chain leaders Supply Chain Management Review",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS05DRW1VVTdhcnBGa3lhdzNsZ0dkTFFNNkRvX0g0N0FxUlV0N2lvdTJYMGpvaTlvYVJIM0k5QUpKVEUtWEwwdDYzQlRSUG1CZjJLQmMwT1EyM1JUcDVtWjBHeFFkX0djSmt1NTM0Q0wxYW5zUTJ2VktLVWRZMXVjeEZHS1BzLWpGYXpIbURWa3AzekQxYUNCZE9vUTVQMG1DQUE?oc=5",
-      "source": "Supply Chain Management Review",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-22T13:47:00+00:00"
+      "id": "fac4b40a29979586",
+      "title": "Earnings call transcript: Fulton Financial tops Q3 2026 estimates, shares rise",
+      "description": "Earnings call transcript: Fulton Financial tops Q3 2026 estimates, shares rise Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbzhwRGxpbU1tYVBKT2g3R3pjSmIycENoVE1ZUjFSRE9lM0RqY05nQW90NlBISTEwUjdySk5TYjhKMEw3VXdBWC0wRkZPMmpnQjFFS2lpcGVtYnJXSTlFY0hremttQTdOb1B2MDR4a2JVNno1YVd4RUlvUTdIVTRDdnlwWVdXQXlYRnUtOGx3RzhxRUJuVUw1ZVg1R09QRnpIVjNPZDJBbmMxT3p3RUwzM05WZzNyQjBTdVE5UmlLUWJQOFk2V2FkSTgwT0lMcmNOOVNr?oc=5",
+      "source": "Investing.com UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-22T14:46:00+00:00"
     },
     {
-      "id": "78afd00ad108711f",
-      "title": "China remains strong driver of trade and air cargo",
-      "description": "China remains strong driver of trade and air cargo Air Cargo News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3Zma2pSYlV6N1VvSTFIUDVKVTlueS13bm5hdjhaYW5NckJDREtRRWRaSUlSOEg1LWx3STlhY2ZhTXVVUV8yNWI0Wm55N01NQ3FwVXgxVWswVy1QRTBMR25xcEtZb2xiQzRsVzJKTnVHalVGVGN5VlgweVZ1d29uZTlIQ0tiaWl1YWlZd2hCc1ZhdGVETkVxckdmRm1WNWFRZ0VyZQ?oc=5",
-      "source": "Air Cargo News",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-10-22T13:23:11+00:00"
+      "id": "2b2566682bdf06bc",
+      "title": "TPR warns pension schemes over hidden AI investment risks",
+      "description": "TPR warns pension schemes over hidden AI investment risks Money Marketing",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcndzcVFjdlRWOWhMODdJVHZEYnpaT0xjdHU3ZV9NdWdBdEpJX3ZUcFd3NWV4UUdfRE1qZ1BvRXBYQWlnYnlKVDV4VkdFR1VNYVpUUXNRLU5PNWFTZ2U3blV3ZTBYQWRKV1NYZEliWElpUE5mTGhOWWVuN2ItTmpQTG9xTGdsdkhMcXlJdVhNaUNJbEhTSHpzRXcwN3g?oc=5",
+      "source": "Money Marketing",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-22T11:33:29+00:00"
     },
     {
       "id": "d570be9bd121f2d7",
@@ -1028,16 +1067,6 @@
       "published": "2026-10-22T10:44:00+00:00"
     },
     {
-      "id": "19e9a3ffc461fdef",
-      "title": "Elon Musk’s SpaceX-Tesla merger math doesn’t add up",
-      "description": "Elon Musk’s SpaceX-Tesla merger math doesn’t add up Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmR3eGR4WnVtOWhtWVV5Q1BFdktWOUhUMzRtbmdmeG9BZkxKMUpiTXBFazM4Vnk3T184QzFKcVpRSHNSWHRXWFprWTdNdFBIenM1THlYOUN0WG1wQUtQb2xlM3BCcHZhYU9xY0pQaGNNQnZWak1MLUdnVjQ0VEl0SVBkQ0RVR00?oc=5",
-      "source": "Fortune",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-22T10:27:00+00:00"
-    },
-    {
       "id": "176b1aec893ff605",
       "title": "DCA Market Intelligence to Attend Food Ingredients Europe 2026 in Frankfurt",
       "description": "DCA Market Intelligence to Attend Food Ingredients Europe 2026 in Frankfurt DCA Market Intelligence",
@@ -1046,16 +1075,6 @@
       "region": "Global",
       "section": "food",
       "published": "2026-10-22T09:58:00+00:00"
-    },
-    {
-      "id": "7ac8b381fb13b18e",
-      "title": "Meta’s revenue beat; Tesla’s lower annual sales goal - what’s moving markets",
-      "description": "Meta’s revenue beat; Tesla’s lower annual sales goal - what’s moving markets Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1FOTnM4ei1FeVBhbDRHUlh1aWJuTVJRSThSVFBIZE9XWVpYdmRKMjg4a2ROLWhKOGw0ZlBRWEE1OFdkQ3ladHpDdjNEZHNJSXFoMFFZQ3Y4Q3VmUTRSWTNrSm1uN3BFMHdnejBLOWpKaTA1QVdjdFR5eW85TWJrV2NKcFpIZHIwcDcxQjJ6Z2YwckstbnNRQkVB?oc=5",
-      "source": "Yahoo Finance",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-22T08:28:37+00:00"
     },
     {
       "id": "ec972929e30ecd87",
@@ -1148,6 +1167,16 @@
       "published": "2026-10-21T13:56:47+00:00"
     },
     {
+      "id": "4326a8d5de99b462",
+      "title": "Guerrilla Supply Chains: Rethinking how companies respond to disruption",
+      "description": "Guerrilla Supply Chains: Rethinking how companies respond to disruption Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzktTTIxVGlVcjFzNTJ5WDRUb1BCV211cmFtdDJMeWZkN2NZVHRmbnN1eVB2d1NSd3gtNnh6Q28tMW9YVVBHR2M1NWRPQl80cDJsY2RKb0o1a1lZUndWbVVnZkMzTjU0MUMzaVl2MlE3R0VIUzljT3RaOEZFbDBocTJmS014R1lyVy1hdzdSU3VyRVRKT3I4eXRzR3RzWC0z?oc=5",
+      "source": "Supply Chain Management Review",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-10-21T12:43:00+00:00"
+    },
+    {
       "id": "1311c53e07d9dfab",
       "title": "Francis Walsh III on Tariffs and Freight Costs",
       "description": "Francis Walsh III on Tariffs and Freight Costs Global Banking & Finance Review",
@@ -1230,26 +1259,6 @@
       "summary": "See why weak data, processes and Enterprise Context limit ROI and what CFOs should fix first.",
       "key_points": [],
       "summary_origin": "public article text"
-    },
-    {
-      "id": "6971b760b73b0c5e",
-      "title": "Proanthocyanidins Market Size, Share | CAGR of 6.7%",
-      "description": "Proanthocyanidins Market Size, Share | CAGR of 6.7% Market.us",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jYXJYUml3UUNEdGczTW01SVMtaVAtd3VPYkEtbU5jVXpkbkR1WUFKZUw5U0xqSDlfaGFYZlY3YTE3NFBkVVZETnpGbHRJYkFpRXRSZUU1OFFJRVdEbnY4?oc=5",
-      "source": "Market.us",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-10-19T13:54:38+00:00"
-    },
-    {
-      "id": "e347db81f82f0814",
-      "title": "Thickeners and Vegetable Gums Market to Reach US$20.8 Billion by 2033 on Rising Food Demand",
-      "description": "Thickeners and Vegetable Gums Market to Reach US$20.8 Billion by 2033 on Rising Food Demand openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUU5fZzIxTHpDOWRNU0V4bmM3bUhzMEVEbEg3TmNOWUZ5ajZIcWNOWjFyT0tWVXREUndwTzNqbnVRcW5VeUY3S0hFTmIzaXFXUkM5WldqNmVINHdpUzdBYzA1SFJEOUlWeUlYX01LNXkxRHlfaHRleHUta3NucjVZMHBRQmRNQ3pOeHFHem40UnY0TUVYRHBfUHhLUmV5UQ?oc=5",
-      "source": "openPR.com",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-10-19T07:46:15+00:00"
     },
     {
       "id": "92dc50bb6137de3e",
