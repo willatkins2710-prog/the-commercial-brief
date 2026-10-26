@@ -1,7 +1,44 @@
 {
-  "updated_at": "2026-10-26T01:04:33.874493+00:00",
-  "price_updated_at": "2026-10-26T01:04:33.874493+00:00",
+  "updated_at": "2026-10-26T04:44:33.401079+00:00",
+  "price_updated_at": "2026-10-26T04:44:33.401079+00:00",
   "articles": [
+    {
+      "id": "3c9945508fc12ebf",
+      "title": "Anthropic’s IPO Stares Down a Wobbly AI Trade",
+      "description": "Anthropic’s IPO Stares Down a Wobbly AI Trade The Daily Upside",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNk40eHhhZjI0X0U1LXRTRjhNUU55UkE4Z185X3VnS0M5N1plSUxZOWhOWURfQS1YUVJZdVRVekY4SldtS1dNaHVEYWpfN0l4MFJRb1c5ZUN3Z2lubTRqT3JQRkx0RWNSNkVfLW8zYzBJYS16T0NoUzJkU3d4WnB1Y0NwRy1kcHJoanJlMU1PLUJzQVNkLVB5cVBnOE9WTi1sRWNvVWRRZnJMbmt3djBaUA?oc=5",
+      "source": "The Daily Upside",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-10-26T04:01:00+00:00"
+    },
+    {
+      "id": "cdc02bdf3e169979",
+      "title": "What is the Budget and what could be in it?",
+      "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-10-26T02:16:37+00:00",
+      "summary": "Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October.",
+      "key_points": [
+        "He has refused to rule out tax increases after acknowledging government borrowing costs are at \"historic highs\".",
+        "Before the 2024 general election, Labour promised not to increase three big revenue earners for the government: income tax, National Insurance and VAT.",
+        "In his statement, delivered to MPs in the House of Commons, Healey will set out how the government plans to raise or lower taxes."
+      ],
+      "summary_origin": "public article text"
+    },
+    {
+      "id": "48d06ab0068dacfb",
+      "title": "Public investment powers India’s GDP growth; structural reform must sustain it",
+      "description": "Public investment powers India’s GDP growth; structural reform must sustain it The Federal",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0Q5SmN6eWJ4R0FMX1ZIaHBKSXhyUjV2aS00MEI2cWtEMW9lMGt0SGNSclhkTmlraGhyVEFubS02enFMYnQ0RkQwVVp4UDFubDFUZnVuaGhHX2dMdDVveWFvT3R2RmF4eGtVSXliall6NmV2TEhkLWZRTmR5d2w0UnhaSVUzMTZycTBsNnNxS01ZeTlSV0NrY2plWnY2WHZJTU5wZkswQ0ZTYUVka3MxbVprYkJEMzZKaVVNVElUeFM?oc=5",
+      "source": "The Federal",
+      "region": "Global",
+      "section": "economy",
+      "published": "2026-10-26T01:00:00+00:00"
+    },
     {
       "id": "64445b2c023adb91",
       "title": "Washing away the US: Tariff evasion on the other side of the US–China trade war",
@@ -10,7 +47,24 @@
       "source": "CEPR",
       "region": "Global",
       "section": "supply",
-      "published": "2026-10-26T00:45:00+00:00"
+      "published": "2026-10-26T00:55:04+00:00"
+    },
+    {
+      "id": "8e313be590611804",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "description": "The economic is positive now but come January things could become trickier for the Labour government",
+      "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-10-26T00:26:49+00:00",
+      "summary": "The chancellor's aides are using intelligence-style security measures to guard its secrets: the Budget has been split into \"compartments\" with very few given access to all of them.",
+      "key_points": [
+        "The IT has been locked down and ministers viewing the plans have to sign a digital promise not to brief media.",
+        "Such security is a response to the feeling that speculation around the last Budget, sometimes informed by insiders, was economically destabilising.",
+        "As a recent former defence secretary, Chancellor John Healey has embraced such strict procedures, and has approached most of his public engagements and interviews with a sturdy refusal to break the Budget omertà,…"
+      ],
+      "summary_origin": "public article text"
     },
     {
       "id": "a950cb49fbff0cd1",
@@ -21,19 +75,27 @@
       "region": "UK",
       "section": "supermarkets",
       "published": "2026-10-26T00:01:00+00:00",
+      "direct_source": true,
       "summary": "Through a consultation, launched today and running until 21 December, the government’s proposals would see the pork industry move towards ‘more humane methods’ if successful",
       "key_points": [],
       "summary_origin": "publisher preview"
     },
     {
-      "id": "3033754f4028d983",
-      "title": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up",
-      "description": "'The world's super company': Wall Street weighs SpaceX earnings, company's likely Tesla tie-up Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPM2FvMEk4MFF5d0d3cDBiOTcxLW81U2IxdDY2SWt1R0NLUTR4eWRrWjltR2hwNktSVTZudXgyUC1waDJXUFdNMjlFcktuVVprWTJZOFlIUjNZZHFWVzdWRE5RZFBqaVJCWmZCS09EMFM5NEM5YTA2WGhkNVdDOEVkWW1lOVNkN0hEamlUaW94UndEZGhwY0Z3SzlJaDZnaUUzdi1Ibm80VDNuMjVBQXlKaEFTRWhqUWVyYnJOQ0Y2X0JoZjJyOTREN2p4UV9rZjZfanRzeWM4aE5yX1ZIOEZ0LW1DNDdZZmc?oc=5",
-      "source": "Yahoo Finance",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-10-25T17:39:49+00:00"
+      "id": "1540e54d10ef4a7b",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-10-25T23:44:34+00:00",
+      "summary": "Until a few years ago many of us may have been blissfully unaware of what a data centre was.",
+      "key_points": [
+        "These giant, warehouse-like buildings power virtually all our internet activity, from our web searches and emails to movie downloads and online banking.",
+        "They are at the heart of the AI boom, housing the advanced computer chips and servers needed to run services like ChatGPT and Claude.",
+        "But the speed at which they're growing, the enormous amount of electricity they consume and concerns about their environmental impact are fuelling a public backlash around the world."
+      ],
+      "summary_origin": "public article text"
     },
     {
       "id": "816a60ccc7871625",
@@ -64,6 +126,16 @@
       "region": "Global",
       "section": "economy",
       "published": "2026-10-25T12:14:57+00:00"
+    },
+    {
+      "id": "2ce019d3aca287da",
+      "title": "Aramco CEO warns of 2% GDP growth, >6% inflation, if Hormuz disruption continues – Chemicals and the Economy",
+      "description": "Aramco CEO warns of 2% GDP growth, >6% inflation, if Hormuz disruption continues – Chemicals and the Economy ICIS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGhCTUpWdkZySFBxcWJwN1pIN2NVdG1TbmZDSTRCaF9CbzctVnY4Tnc5czVybGV6WTg3U0p1NkNJUWo4Q3JtaWROejYzN2k1NnhYRVlfV0pKT05hSWdQa0ZicElkN1NXaUtqR0xURkJ5T1FLM0haS3M2TWtqMHhwWmc5VThVSTRiRHlKQzhWbXdQWXpDa1dHQmt1TEY5Q1EwU04yNGhhQ1pLR0trNUpldnNNaWFXUExRb2pPb1NZNjJXNUZkMVZkQ2tKaw?oc=5",
+      "source": "ICIS",
+      "region": "Global",
+      "section": "economy",
+      "published": "2026-10-25T11:38:21+00:00"
     },
     {
       "id": "23582ff1f43d249f",
@@ -158,16 +230,6 @@
       "published": "2026-10-24T23:00:00+00:00"
     },
     {
-      "id": "23b87849933b4c47",
-      "title": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history",
-      "description": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NMmQ5V1p6Y0dwNFptbkR1QVcxNGVVTGFFSDBKMDZjMEYtdm1yVTY4UGhtblZJaXV6UU1xTTdsal9PWE8xR0NrbW42RzZyVWs?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-24T22:12:27+00:00"
-    },
-    {
       "id": "79e13fec0d87049a",
       "title": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead",
       "description": "Fed Set to Lead G7 Trio in Hawkish Rate Pause: Eco Week Ahead Bloomberg.com",
@@ -186,16 +248,6 @@
       "region": "Global",
       "section": "retail",
       "published": "2026-10-24T18:31:00+00:00"
-    },
-    {
-      "id": "1385321099345c06",
-      "title": "Brands Using Shopify Plus and What They Achieved (2026)",
-      "description": "Brands Using Shopify Plus and What They Achieved (2026) Shopify",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2M3NuVC1EUFBQQ2Q1RndHTDNUZEUwZXZaWm54MXpsVk5CTllqcFkzSmFVM2ZiaTlYaDNqd3RJM3hKNkRodkpKNXBsVGY3VExCamZSTjRzcnFKQW9ENVJucW5ZQWxEMHdvR2k1UnhiaGJhRVE1QXA0?oc=5",
-      "source": "Shopify",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-24T17:32:49+00:00"
     },
     {
       "id": "ca7d841a6b014bc3",
@@ -228,14 +280,24 @@
       "published": "2026-10-24T13:05:33+00:00"
     },
     {
-      "id": "ac76907ae0868cdc",
-      "title": "Graphite’s Mike Tilbury: Rise of AI content could lead to ‘rights-clean’ data re-rating; Mutares completes largest-ever deal with Sabic carve-out",
-      "description": "Graphite’s Mike Tilbury: Rise of AI content could lead to ‘rights-clean’ data re-rating; Mutares completes largest-ever deal with Sabic carve-out PEI Private Equity",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQOU5NT0dyb1BQUDJzZzJybUt6dnBEaTVZenhwVlVpSkZfQXIyaFRNYnA0WERUWXptWXQxVHJ3dk5sanJXdnpRYkpQUUpENGtHZS1TYndEUnJqUERCelhFUUwyVnJka2J2TEFFNG9JRUxVdk51S1FKdzZSUWFIaG5oUzVuTFU3cjdvRWV4Z0pHdDhFeEFWNDM0eXNibXBvdWNNVnc0MnNiTEEtZnYxcDFIMFlJQWt4TG43SXJsTXY4Qnp5RTR3LU1KVktaY09CTFVzTnJIS1BqbG1iTHRsQ2dEQm82ZkRCd3Rocl9MNDlHMmFTOXlLc29PSFRKVXlaX3BaZ3EteEF0Y2Q0cDdWWDNFYnh3?oc=5",
-      "source": "PEI Private Equity",
+      "id": "20d17212af139230",
+      "title": "UK to Inject £20 Billion into State-Backed Lenders in Budget Move",
+      "description": "UK to Inject £20 Billion into State-Backed Lenders in Budget Move Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNajFIbTg1cWFXMnFncWh3RWxNZ3IxRGQ4eHZhZWxGeExzXzI0MjFzWlJKRFo3ZDRsOFQ0VGZDQlZOWmxPSm9zT2FXbmRBRDh5bDE3RWVXQUZNYVY4Qk5wdTVkMHlWc0xxWDhrY1ZMbEJCZmFZR1Y1bk1KV1lnM1RmWnBLVDJLa0VoeXl4RDRLTEhmWkpISV9NUFVXcDVBNXJ1QUE?oc=5",
+      "source": "Global Banking & Finance Review",
       "region": "UK",
       "section": "ai",
-      "published": "2026-10-24T11:12:51+00:00"
+      "published": "2026-10-24T10:57:11+00:00"
+    },
+    {
+      "id": "b5913d1f761f6e60",
+      "title": "Asian E-Commerce Dominates Global Sales as China Hits 13 Trillion Yuan",
+      "description": "Asian E-Commerce Dominates Global Sales as China Hits 13 Trillion Yuan Retail News Asia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWt4N0VRZkZLandUZnBJYUp6OUw0NjI1NjRVeVdqRTBfQzEzVnhwSEY1WGdDUWozN2FlMnozU2FGa3V3WDZLU1luNkwtOFZuZE9rZHpCbkdyV01jTTJwbnZVTjdRRHFmZHYzbGV6SEJtdnNPd2pyR2xlNURhV1dHb01aZy0wX3FDSXJ3ay0xUXNaRTVTQXV0dE83enE2OHc?oc=5",
+      "source": "Retail News Asia",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-10-24T09:58:42+00:00"
     },
     {
       "id": "e05b73fa62563865",
@@ -248,14 +310,14 @@
       "published": "2026-10-24T08:49:38+00:00"
     },
     {
-      "id": "fbc6b977757debf0",
+      "id": "8b2e4a648162a489",
       "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
-      "description": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week The Killeen Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS1dpZFRwdHJoRWI4UllJSVpRZEl2Y2JWeVBWSmRHdG80WGgzVk94VnNCMmQ1b083QW00NFVBYm4xcHBXWFZMS0p2ay1kRDZpd1RHWVIza09wUEhmSzRCMk9oRXZtWE5SdVFSTjMxZVZ1TEZ6QUswWmFDeHhEelB0ZVZjWDQ1engtNG1faDZ1WHJlUlJIcUhNNHlqX3pMaEJKRFhCcVYxZk9uRFF0ajhVWVFkT2xaZjF0cFR0STVTaXhIeDhmTk9KNnQ1X29kUDBVZGlfTVhEY2YxQW1tVFhOZGl6clBUaHRvNDNLLTBpZV9PeHpINWdsZ2tTNUUxQQ?oc=5",
-      "source": "The Killeen Daily Herald",
+      "description": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajJHWnVsZk5VS3RCU1ctSE1sclNTbDU1Vk9TTDRIbHFDZ2NyUngtWUN4UUdPUEVQa3BpNnJ4Z1FhXzJlMF81Sk11YU1hTU9TYmNPekd0Q0U2cEQxZUxIRy1mREhXdk5qVW5hR0dET3BxWTlOV3U1SGJTRlVLOTN4WEhzQlJNV2QzdmhvNXBLTTlTOVh2eXZ4Zk9lXzZuR0M3?oc=5",
+      "source": "The Independent",
       "region": "Global",
       "section": "economy",
-      "published": "2026-10-24T08:00:09+00:00"
+      "published": "2026-10-24T08:00:00+00:00"
     },
     {
       "id": "5fc115d39d391faf",
@@ -298,14 +360,34 @@
       "published": "2026-10-24T05:00:05+00:00"
     },
     {
-      "id": "b232b4f6a4d8e385",
-      "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-      "description": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR1lmc2o1Vk42Wm9tUnhaWV95b1NDUGZfWnhER0tMcDBHbVBYVFVSYnd1SmRwVk5MNEZpaG9uQ1VxM3YtdWkzS2hqc3BSZnpfWlpVQVVwbWlYSUJZZ1Z1N0o5Vm5oTFhaczVqbTRMSlY5dE40djZIY0lkVkxSWnJkM3VHUW9kS21uUWpWeXVJSENZQmVIY3I5U05GaGpjenJMckZuUVJvekdjMkRuYV93UVJsR2JuR05EZWF4SlY4WC1qSTdGbjFENjhtMmZ5QQ?oc=5",
-      "source": "The Guardian",
+      "id": "4c3a0deb24d75cc5",
+      "title": "UK Pledges More Funding to Guard Against AI Risks",
+      "description": "UK Pledges More Funding to Guard Against AI Risks ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWldLLTFHVVhQcURlMTdlZ3dVb2hJZ1NEYkNzX1BwOUtTSjd2SjV6UU1HMFhvSXBfcDVBQVAyWEpKMzg3UUs2ZzF5T2ZoLUE2VnRndEgtVVUyb3VHVnFTYzA1UVhkRUFzQngwYUNiWDZPUGw1R0k2WmxMSFQ2N3hhdElMR1BRQUd4dktPbkQxdVIySXdK?oc=5",
+      "source": "ASHARQ AL-AWSAT English",
       "region": "UK",
       "section": "ai",
-      "published": "2026-10-24T05:00:00+00:00"
+      "published": "2026-10-24T04:36:55+00:00"
+    },
+    {
+      "id": "23b87849933b4c47",
+      "title": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history",
+      "description": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NMmQ5V1p6Y0dwNFptbkR1QVcxNGVVTGFFSDBKMDZjMEYtdm1yVTY4UGhtblZJaXV6UU1xTTdsal9PWE8xR0NrbW42RzZyVWs?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-10-24T01:24:30+00:00"
+    },
+    {
+      "id": "7d9cea3484bd1e11",
+      "title": "WIS targets adviser expansion with 5-year investment in AI and business support",
+      "description": "WIS targets adviser expansion with 5-year investment in AI and business support Mortgage Soup",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanBScl9BYVBFbWZIUHE4TUs0REZRSktrNkl2SE8yRkhDMjZWSEMzTWM3ZGEwZWp3S0dFOF8zYi1jblJUZ3F1R2VEZnBUS2s3MTdvNkt0dWhwNjdtVzZWZjVudXdSbEJCWkJ3RmdYdlFBTTgyZmRIVk5QaWhYSW54QjcxbS1nQmFnZW5vUkVHd0RvWFh6Q2lFMWNpSjltdUxONGczOTdta0ktU2c?oc=5",
+      "source": "Mortgage Soup",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-24T01:14:12+00:00"
     },
     {
       "id": "66b7f6f1d2aef418",
@@ -336,24 +418,6 @@
       "published": "2026-10-24T00:09:12+00:00"
     },
     {
-      "id": "b280b7ca068837ff",
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-10-24T00:05:45+00:00",
-      "direct_source": true,
-      "summary": "The UK says it will establish a national AI Biosecurity Lab (AIBL) to help strengthen its defences against emerging biological threats.",
-      "key_points": [
-        "As part of Wednesday's Budget, the government will commit £100m to establishing the new, \"world first\" institute with the support of leading AI firms.",
-        "The chancellor will also pledge millions of pounds in spending across a range of initiatives aimed at shoring up the UK's ability to respond to evolving cyber, biological and AI-enabled threats.",
-        "\"AI will transform daily life: every firm, community, hospital, school, and every aspect of our economy can benefit,\" John Healey said."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
       "id": "1d8aabd307cccc77",
       "title": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot’s date",
       "description": "Looters hit 3,000 French businesses. Within hours, the haul was trending on Vinted under the riot’s date Fortune",
@@ -374,42 +438,14 @@
       "published": "2026-10-23T23:24:28+00:00"
     },
     {
-      "id": "e093c236410e2b7b",
-      "title": "Week 43: E-Commerce & Retail Highlights",
-      "description": "Week 43: E-Commerce & Retail Highlights Mexico Business News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0E3dFZBczlTVmcweTNLM3YybnpVNHd2R2lwbHVJdzJpVzhiQXNDZ0hWMi1mcGgwSHpRLXJTMGlTVW9EN01HS2hmdW1tc2pyYmx4WHpDMTdDR0YtQ3VEbFZBaDRUTGtkUzZ6QWN6cGhWajJudXhVRVBBLWdRNHJRSW56Ujhxdw?oc=5",
-      "source": "Mexico Business News",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-10-23T23:14:54+00:00"
-    },
-    {
-      "id": "31973a9eb722f828",
-      "title": "Are California voters about to impose 'world's first' tax on billionaires?",
-      "description": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-10-23T23:11:31+00:00",
-      "direct_source": true,
-      "summary": "Few places on the planet have as many ultra-wealthy residents as California, a US state known for glamour, coastal mega-mansions, and being home to the rich and famous.",
-      "key_points": [
-        "Now voters are about to decide whether the mega-rich among them - including media mogul Oprah Winfrey, Meta head Mark Zuckerberg, Skims cofounder and reality television star Kim Kardashian, and filmmaker George Lucas…",
-        "Proposition 40 is aimed at levying a one-time 5% tax on the net worth of all of California's billionaires.",
-        "There are a little more than 200 such individuals in the state - but that hasn't stopped the measure from dividing leaders and causing some of its ultra-wealthy residents to flee."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
-      "id": "4fe4bf7bf147de5b",
-      "title": "Introducing the AI Biosecurity Lab",
-      "description": "Introducing the AI Biosecurity Lab GOV.UK",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Vko2eXhWdTRIalZnWk1uSjFpUU10SzNRaDdKUjNwMFl4bm56VVZaTTVsS0ZEY1ZraFlvUUdaczh1U21HSGlrcjJ0VzNzN1BXdEwxTmRJWVRvMGhFMDNjb3UtNkJVdko5NzR0UFVWOVpHb2FKVGZ4cQ?oc=5",
-      "source": "GOV.UK",
+      "id": "b7e4db7caddfa824",
+      "title": "UK government sets out $800 million of AI security funding",
+      "description": "UK government sets out $800 million of AI security funding Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDJseUNYVnJGcWZWUjlPR0RUSXJHTVItRmh1dkdnNTFiZ2tmTFhUM1p3YnI1T2RGdlpFZ1JWN3BGR2dCajk3Y1pBMlBCYjNFX2dnbjJzZnNJb1BONkNGREFYamNWT1FLRFJXdjdVeEdMUFZnM3FQRXE2VFBIbFdWUVItWEJwd3F4dmFRbHpKTzE4RWpXSGRnTzY4QVdISFJj?oc=5",
+      "source": "Reuters",
       "region": "UK",
       "section": "ai",
-      "published": "2026-10-23T23:01:00+00:00"
+      "published": "2026-10-23T23:03:43+00:00"
     },
     {
       "id": "df3be1ca271a3b85",
@@ -482,24 +518,6 @@
       "published": "2026-10-23T15:39:39+00:00"
     },
     {
-      "id": "7d61bd89753a3dab",
-      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-      "description": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-10-23T15:15:13+00:00",
-      "direct_source": true,
-      "summary": "Civil servant Kashim Chowdhury is accused of fraududlently earning more than £284,000 by juggling multiple public sector jobs.",
-      "key_points": [
-        "A civil servant accused of fraudulently juggling multiple government jobs says he was ''surprised'' to have been charged with fraud.",
-        "Kashim Chowdhury told the jury at Southwark Crown Court he had not been dishonest in failing to tell his employers he had other government jobs.",
-        "\"At that time I was just on auto pilot, I was like a robot, I was not thinking clearly,\" he said."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
       "id": "a2652d626d142ccf",
       "title": "UK government gives Jackdaw gas field green light",
       "description": "UK government gives Jackdaw gas field green light Open Access Government",
@@ -560,16 +578,6 @@
       "published": "2026-10-23T13:14:00+00:00"
     },
     {
-      "id": "9a668ec43798306c",
-      "title": "Burnham’s first Budget: What would ‘good’ look like for the green economy?",
-      "description": "Burnham’s first Budget: What would ‘good’ look like for the green economy? edie",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObURTaHBhNVAtcTVRanAtdzNlUjBhZEw0MnEzZWNXQjBPUmdmU0ozX0h5cnlvY2tQZFNvTFB1bnplS0xKTk1sVkdKTHYzR3h0TEd5WnBkZm5pRDhKQThhd2RreVVxcFZ3dDkyVlVUeFQ0R21Zc25McmRjQjBmblRTbUhNMTZVTXhjY2drLTV3TmlBZXlTRkHSAaIBQVVfeXFMUGlIeWNWNnFabjBEOXJjdVNZa0UwWG1GV0JBQ3k4b0dDOGhRN0JnTkRCc1ExTHhoRGhQdERCUFk5SVhJbVdFOWJvRUZuajM5b3ZQX05OSWNhalRtRGQ0UFd3bnhkSGJXX3RGcVpyMGJqa2lEa1VHMjZpZUVmM2E2QlRtTHI3b3Rydy04cnFkQUZ0SXB0c0N1WS1iaU0xQnUtQ0FB?oc=5",
-      "source": "edie",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-10-23T12:30:09+00:00"
-    },
-    {
       "id": "004e8c5bfefbaad6",
       "title": "Aldi and Lidl brought under same competition rules as major UK supermarkets",
       "description": "Aldi and Lidl brought under same competition rules as major UK supermarkets Lancashire Telegraph",
@@ -592,24 +600,6 @@
       "summary": "The brand will launch at the end of this month with a classic Indian tonic water with magnesium and B vitamins, and a lion’s mane and ginger tonic",
       "key_points": [],
       "summary_origin": "publisher preview"
-    },
-    {
-      "id": "da672511e947cf51",
-      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-      "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-10-23T11:48:04+00:00",
-      "direct_source": true,
-      "summary": "Households will need to earn less than £110,000 to qualify for the government's new loan scheme for first-time buyers, or £140,000 for homes bought in London.",
-      "key_points": [
-        "As first reported by The Times , external , the earnings limits are expected to be confirmed at the Budget next week.",
-        "The Your First Home scheme will offer government-backed equity loans worth 20% of new-build properties in England bought from participating developers.",
-        "The loans, which will also be subject to an initial interest-free period, are designed to help people buy a home with deposits as low as 2.5%."
-      ],
-      "summary_origin": "public article text"
     },
     {
       "id": "b0361f9126340db6",
@@ -650,16 +640,6 @@
       "summary_origin": "publisher preview"
     },
     {
-      "id": "af4a091973886a74",
-      "title": "AI, geopolitical shifts, and the new cost of capital",
-      "description": "AI, geopolitical shifts, and the new cost of capital T. Rowe Price",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOHVERDdFa28tWUNLNFBoWk9sRlZtVlZHRGdqVTZBLTRGRzRHUGtNeWlyUG1VZkMzcTJaRWdYTnQ4Z1g1S1VKcGNkVzBDOGdiREo4LXZSTE04R3BucVdKc3lVUUFydkxuRzhsZGdQeUt5MFJkTUNlRVJZU0FfM3FscWd3Z1dwT0xBWC1SZ0k5ZzllblJFQ2Fn?oc=5",
-      "source": "T. Rowe Price",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-23T11:15:00+00:00"
-    },
-    {
       "id": "19d82cfb74b3b581",
       "title": "Biotiful Gut Health unveils revamped branding and packaging",
       "description": "Revealed on 22 October, the overhaul includes a new visual identity and updated packaging. The company said the redesign would improve shelf standout and make its products easier for shoppers to navigate",
@@ -684,16 +664,6 @@
       "region": "UK",
       "section": "retail",
       "published": "2026-10-23T10:56:14+00:00"
-    },
-    {
-      "id": "956cc33e3905498e",
-      "title": "FCA chief: Risks put on ‘steroids’ by unprecedented pace of tech and AI development",
-      "description": "FCA chief: Risks put on ‘steroids’ by unprecedented pace of tech and AI development Investment Week",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlFSblBWUVpuOGFyR3QyTXF3bHZvZmI2ZmJzbndMMDRpWjJJdWM5S3o0SmZoZGYtT3gzcHJZRzlkWkpUN2k4WHZiUmpvNVRnRDQxRWZ2ZVduUTZNT2lsX2ZHUGdmcmlSZVY3QzhMQ0JuVFUtOXZ0VU9VVEhsREpYd0I3cXR4dS1DbjdGanR6aHhYUnBWb2lhUlVoNzhUTG1uazFkeDFhSTVQdjJtb1E?oc=5",
-      "source": "Investment Week",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-23T10:08:28+00:00"
     },
     {
       "id": "aa246134778eb89c",
@@ -798,11 +768,11 @@
       "summary_origin": "publisher preview"
     },
     {
-      "id": "0c74b1b5229b4b6d",
-      "title": "Britain’s payments success was built on trust. Security is the price of keeping it.",
-      "description": "Britain’s payments success was built on trust. Security is the price of keeping it. Politics Home",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ1BucU5JNDRXR2F5MjNDa2RQYVhtcFRmWV94LVZVVHN4TXlaU0ctR1dDbzdUMjF2Z1VjRGE5ckZsak84cURWdXVQTE5IRXZCclhfZlFpNF9KbHJzcXFOaUZxakdoUWxaaktXMmNPZWdTTVlPeHppNXZuS2Y1LW1heVZpSkg1MENkWll1bXRyMk9kbk9HajlHZThCemhzWHFRbndxblZRX0pWTE1Z?oc=5",
-      "source": "Politics Home",
+      "id": "7959829a14dccdbc",
+      "title": "ON TUESDAY: How AI can accelerate investment in climate solutions",
+      "description": "ON TUESDAY: How AI can accelerate investment in climate solutions edie",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUQ0bE1RcmlGTXhZaHh0TnN4clBaNnl2d3p3QkRKMWJLTU0wTVViSzVSSnJweHh5cl80elpKZWltNUJ6M1pRVHFQODREcEVlV2dEU1o3SW11T2FQd2NtZzhYOWM2V1NmelF6NVZqektiMThOQ1VGbDVTVURUSXFPOTJoQTgwSFZDRnhmbkdZcEpFb2dpeUHSAaIBQVVfeXFMUGtBYk95cWVuZk1JLUhXMHZWNXI4Q0ctNWdSUE9UWExOQ0pnNnBhQ3dDZFBwb0o2OVhmZFVmcm1DbTV2eHZQaWZGVkl3R3hGejRnc2pVVUNCR1k1ek9BdzhHMjA0Y1g0Ym1wdHBxeEhDSzZnVXVMdW5lTFdlem1zWFdWNGVhdlNVRFhJdnV3UDAyaXZtTVB6LUFTVHU1TF9wMmhB?oc=5",
+      "source": "edie",
       "region": "UK",
       "section": "ai",
       "published": "2026-10-23T07:00:00+00:00"
@@ -848,6 +818,16 @@
       "published": "2026-10-23T07:00:00+00:00"
     },
     {
+      "id": "e0fa352282f5eaad",
+      "title": "Retail sales fall faster than expected ahead of Budget",
+      "description": "Retail sales fall faster than expected ahead of Budget City AM",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDMwYlNpOXNNSFBLemJTcG1na0QzeDNwQThVYXo5bE5DV1VsWE1Dc0lnQWpFZ2ZJWTN4blVVdEJEcXZWbWlRcHVLLVdTQjByTlIzQkU2YkRBaWVkTkFON3I1RUtiU1Uyd3d4RW5RX01jeFdsQnZHemNnbEhUV3pDREljX3Y?oc=5",
+      "source": "City AM",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-10-23T06:37:04+00:00"
+    },
+    {
       "id": "614b8ed0dd7764da",
       "title": "Lowering Great Britain’s electricity bills – recommendations for government",
       "description": "Lowering Great Britain’s electricity bills – recommendations for government E3G",
@@ -886,6 +866,16 @@
       "region": "Global",
       "section": "supermarkets",
       "published": "2026-10-22T22:00:00+00:00"
+    },
+    {
+      "id": "fb388a80b10ead71",
+      "title": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries",
+      "description": "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries AOL.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFJYYnNjX1VqR0Y0RVo0U21ZWXBLbFdIbFV3eER1bjh0OEtGZ19yb0hIREZlMExxUENOWXlhV2RCQjZ0S04yYzdCNE94cEFCdXppUlByOEU3TlJwQll3bmgtZUZrbnNPb2NFb2NWRUF0Rzl5R20xLW8zVjg1WkJEQXF6OA?oc=5",
+      "source": "AOL.co.uk",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-10-22T21:14:05+00:00"
     },
     {
       "id": "b94ed747527a653e",
@@ -1008,16 +998,6 @@
       "published": "2026-10-22T13:23:11+00:00"
     },
     {
-      "id": "2b2566682bdf06bc",
-      "title": "TPR warns pension schemes over hidden AI investment risks",
-      "description": "TPR warns pension schemes over hidden AI investment risks Money Marketing",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcndzcVFjdlRWOWhMODdJVHZEYnpaT0xjdHU3ZV9NdWdBdEpJX3ZUcFd3NWV4UUdfRE1qZ1BvRXBYQWlnYnlKVDV4VkdFR1VNYVpUUXNRLU5PNWFTZ2U3blV3ZTBYQWRKV1NYZEliWElpUE5mTGhOWWVuN2ItTmpQTG9xTGdsdkhMcXlJdVhNaUNJbEhTSHpzRXcwN3g?oc=5",
-      "source": "Money Marketing",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-10-22T11:33:29+00:00"
-    },
-    {
       "id": "d570be9bd121f2d7",
       "title": "Early Lunar New Year Means Planning Gap",
       "description": "Early Lunar New Year Means Planning Gap Logistics Business",
@@ -1038,16 +1018,6 @@
       "published": "2026-10-22T10:52:56+00:00"
     },
     {
-      "id": "13ac96041ddc3f68",
-      "title": "UK stocks slip as banks drag; earnings in focus",
-      "description": "UK stocks slip as banks drag; earnings in focus Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZzRjh0TUJpQlA2VWllM1NjdVhhUmhnYXVVUUxwaEplaGdxVkJYMnVXbXBnMTdOdnRNMGZfRTFxZ18wSWZlODlsS291R016ZXJjYzFaRmtOTDIyVjVyRFR6SmJGRmRCNTIzcHlrRlh6VEs4d2dqU1RTVU5rWlZmUks4d3F5dm9QWDhkNEpMWjJtcXpQ?oc=5",
-      "source": "Yahoo Finance",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-10-22T10:44:20+00:00"
-    },
-    {
       "id": "ec37427e91125294",
       "title": "Earnings call transcript: Barclays posts mixed Q3 2026 results as revenue misses",
       "description": "Earnings call transcript: Barclays posts mixed Q3 2026 results as revenue misses Investing.com UK",
@@ -1058,6 +1028,16 @@
       "published": "2026-10-22T10:44:00+00:00"
     },
     {
+      "id": "19e9a3ffc461fdef",
+      "title": "Elon Musk’s SpaceX-Tesla merger math doesn’t add up",
+      "description": "Elon Musk’s SpaceX-Tesla merger math doesn’t add up Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmR3eGR4WnVtOWhtWVV5Q1BFdktWOUhUMzRtbmdmeG9BZkxKMUpiTXBFazM4Vnk3T184QzFKcVpRSHNSWHRXWFprWTdNdFBIenM1THlYOUN0WG1wQUtQb2xlM3BCcHZhYU9xY0pQaGNNQnZWak1MLUdnVjQ0VEl0SVBkQ0RVR00?oc=5",
+      "source": "Fortune",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-22T10:27:00+00:00"
+    },
+    {
       "id": "176b1aec893ff605",
       "title": "DCA Market Intelligence to Attend Food Ingredients Europe 2026 in Frankfurt",
       "description": "DCA Market Intelligence to Attend Food Ingredients Europe 2026 in Frankfurt DCA Market Intelligence",
@@ -1066,6 +1046,16 @@
       "region": "Global",
       "section": "food",
       "published": "2026-10-22T09:58:00+00:00"
+    },
+    {
+      "id": "7ac8b381fb13b18e",
+      "title": "Meta’s revenue beat; Tesla’s lower annual sales goal - what’s moving markets",
+      "description": "Meta’s revenue beat; Tesla’s lower annual sales goal - what’s moving markets Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS1FOTnM4ei1FeVBhbDRHUlh1aWJuTVJRSThSVFBIZE9XWVpYdmRKMjg4a2ROLWhKOGw0ZlBRWEE1OFdkQ3ladHpDdjNEZHNJSXFoMFFZQ3Y4Q3VmUTRSWTNrSm1uN3BFMHdnejBLOWpKaTA1QVdjdFR5eW85TWJrV2NKcFpIZHIwcDcxQjJ6Z2YwckstbnNRQkVB?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-10-22T08:28:37+00:00"
     },
     {
       "id": "ec972929e30ecd87",
@@ -1116,6 +1106,16 @@
       "region": "Global",
       "section": "commercial-finance",
       "published": "2026-10-22T00:00:00+00:00"
+    },
+    {
+      "id": "0d688381adc5ee67",
+      "title": "Atlanta Onion and Potato Market Steady as of October 21, 2026 - News and Statistics",
+      "description": "Atlanta Onion and Potato Market Steady as of October 21, 2026 - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3dyMjQ5Q2FFVlgtYlluRkJuam9oVDBFUDVHMjRuM0xLRmtYQjdmYkdRVTExdXNGaFlpWXBYakZUdVYwbkFkcy10Q3NxTlBDNjZKTVlnRFNfbDNjbU12VHVEWXh5Rk9zOHVQWHNqV21QQ0tHVkpJY0RsNDM4NW1lM3kzTWFfWHl2aVdKcU9Uc1VBcnM1VDJwWHpVdk0zcjJVbGtJMnAxdTVlQQ?oc=5",
+      "source": "IndexBox",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-10-21T17:30:36+00:00"
     },
     {
       "id": "3185ecf449740165",
@@ -1206,6 +1206,16 @@
       "region": "UK",
       "section": "food",
       "published": "2026-10-20T21:01:00+00:00"
+    },
+    {
+      "id": "45a0b01b2e78897a",
+      "title": "New carbon tax could leave British farmers worse off, NFU warns",
+      "description": "New carbon tax could leave British farmers worse off, NFU warns FarmingUK",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMUhiMUZOblExVGUwREFtZzJmT29nTkZjbFhoZ202OGlidEJuN0VTYWQwOXVIMU00bWI0RDZUN0ltMm9aTG1iUEhvYzZFMnhhVVNQZ2ZjWU1EUkxQUnhSQmphVTJDWTFDVVV5ZzN3eGdMNDdxYlFXczdlc2o2d25mRkw4eWNnUG1SZHU0SGhkRmRFdGVuX3liOWJ2ZEJ0bHMtNDRtQktTNA?oc=5",
+      "source": "FarmingUK",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-10-20T05:42:29+00:00"
     },
     {
       "id": "0a3e165557743c88",
