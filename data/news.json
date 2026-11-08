@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-11-08T12:59:10.437974+00:00",
-  "price_updated_at": "2026-11-08T12:59:10.437974+00:00",
+  "updated_at": "2026-11-08T16:46:58.343338+00:00",
+  "price_updated_at": "2026-11-08T16:46:58.343338+00:00",
   "articles": [
+    {
+      "id": "cbec653cbe97db8d",
+      "title": "A Record 1.28 Billion Barrels of Oil Are Stuck at Sea — and That Could Mean Higher Gas Prices",
+      "description": "A Record 1.28 Billion Barrels of Oil Are Stuck at Sea — and That Could Mean Higher Gas Prices 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQTFfWXpnQzR0LTBUR0VWLU1ZLUc2RTVEeDhDYm5WTENCWWFBNzkwZG1iZHJXY1k0TUtZRjRoSVdtRjRTQ2k5OTFiOUctS3JnR0FIMkNIRTdFWHVJZUg5Q2NMUGd0QUhoLWlBQ05nMS1OWFN2a0I4N2JXMWpkSmNJNGVQOEJLSVFWN2RLMjllYTRIbXJRdTg3RHZ1VHpWaEx4Y1E5S1otNHE2OFh1VVZ6Y1R3RXlSZE54Ukp4SW9NR2RxTzFYeXVfdGJBRU1nbzN0?oc=5",
+      "source": "24/7 Wall St.",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-11-08T16:17:00+00:00"
+    },
     {
       "id": "d6d558dfd7826c80",
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
@@ -10,7 +20,8 @@
       "source": "BBC News",
       "region": "UK",
       "section": "economy",
-      "published": "2026-11-08T11:25:32+00:00",
+      "published": "2026-11-08T15:37:25+00:00",
+      "direct_source": true,
       "summary": "Vinted and eBay could be included in the list of platforms set to be banned for under-16s, the culture secretary has said.",
       "key_points": [
         "Lisa Nandy said the government was \"looking seriously\" at including the retailing websites in the social media ban \"in order to keep children safe\".",
@@ -18,6 +29,26 @@
         "In response, eBay said it was looking forward to \"understanding more and continuing to work constructively with the government\"."
       ],
       "summary_origin": "public article text"
+    },
+    {
+      "id": "14a6602dbc018429",
+      "title": "Holidays and Shopping Festivals Give Retailers a Chance to Salvage a Difficult Year",
+      "description": "Holidays and Shopping Festivals Give Retailers a Chance to Salvage a Difficult Year The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMExGLWFSdG5rTjdVYU0xVVNMcmNDVW1JMlZBeGRhYVhGa3RHU25JOXVQWElNclVRcFM5d3AtcXhKZDZHdWMtMGxyTGtqSjBlQ0FRV2pvT0lZcHp1bDFSd1E5aWFFTkJHbWpLMlg4cHQ1NVlmRDdNbGdad3FlMUxmdWV2R190SENlb2s1LV8xSmpGVHgyZHh5UmtqNlI4M2FHTWt5WGI4R1VPaHhxeU5fcU0taXMyZXZmUmFUR3RsRkhkRUdsSE5jeGNqTlNpN3ky?oc=5",
+      "source": "The Business of Fashion",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-11-08T14:00:00+00:00"
+    },
+    {
+      "id": "edb6486d6aea14e5",
+      "title": "Britain’s AI investment boom is creating winners, but smaller firms face a tougher funding market",
+      "description": "Britain’s AI investment boom is creating winners, but smaller firms face a tougher funding market London Business News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTzlOM0lLUzBfamx0dTlieGtfb0RXbDZILWxJTGxXdXM3cW5jNXc1N3pTVUhCNU5KV1gxRjhvek5mUGZZSTZqSjMzM1NsUHpBSVhMUU5iTWllS1g3ZEo5eXlZRDBRY0xfbHN1S1JJWmRObjdFMkxCcWVjYVlGcnBWd3FlV3EwS19BaUJQeHZKbkx0T09TM28yZmNXN0dqZEpnT1U1VWplRWl0MGxBSXV0WlBINEtOcTJoRXBJbmxCdjd5NkJWVlY4?oc=5",
+      "source": "London Business News",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-11-08T13:36:13+00:00"
     },
     {
       "id": "7cf79e98e336ef6d",
@@ -100,15 +131,14 @@
       "published": "2026-11-08T02:26:29+00:00"
     },
     {
-      "id": "42ccf204e99eb3f6",
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "id": "858c829031a86c31",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
       "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
       "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "region": "UK",
       "section": "economy",
       "published": "2026-11-07T23:02:35+00:00",
-      "direct_source": true,
       "summary": "Ensito, with his custom-made Labubu teeth, posing with a new doll in his collection Collectors young and old energetically snapped up \"blind boxes\" - sealed, mystery packages containing the quirky monsters - often paying $15 (£11) or more.",
       "key_points": [
         "Those unable to get the characters they wanted were often prepared to pay much more on the resale market.",
@@ -136,6 +166,16 @@
       "region": "Global",
       "section": "economy",
       "published": "2026-11-07T16:57:22+00:00"
+    },
+    {
+      "id": "97d3f9e3861e8375",
+      "title": "155-year-old department store confirms ‘closing down’ sale in UK market town",
+      "description": "155-year-old department store confirms ‘closing down’ sale in UK market town The Sun",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT200WWxwVFZyaGh5a3NpZkwxTEZ0bjZwd2ZFbHJITl93eDFFQkdsbENVNXdtX0djcEpFbVlpV1l4bGZDY0pOTDFTNHg2aG9OS1F3VS1LTzZwSG9CUUItWEhfNml5d3FpOUVpb2NGSGlMMlB6UW5kd2ZhRnJXamlmcF9mdEp3MFFNUHpUeHhFOFl4MzhCc0ZyQ0t0Zmt4aTJJYXpTWTV2NA?oc=5",
+      "source": "The Sun",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-11-07T16:51:00+00:00"
     },
     {
       "id": "192d0621b5b73eec",
@@ -175,7 +215,7 @@
       "source": "Seeking Alpha",
       "region": "Global",
       "section": "finance",
-      "published": "2026-11-07T14:35:54+00:00"
+      "published": "2026-11-07T14:35:00+00:00"
     },
     {
       "id": "ae202d0aba8f2dd8",
@@ -196,6 +236,16 @@
       "region": "Global",
       "section": "energy",
       "published": "2026-11-07T13:15:20+00:00"
+    },
+    {
+      "id": "5e850bd63cb72ae1",
+      "title": "Costco Vs. Costco Business Center: What's The Difference?",
+      "description": "Costco Vs. Costco Business Center: What's The Difference? AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYWFHbnZJRXdGZjhXa2lsZ2hoaTZHODZjUXY4dFFVUFk3LVZjVVA5VWk4MElzajBfZ2U0YktSRXp0TEdEVUdFcmVxOHZiZ1ZUdVU2TlIxdnkyR21vd2lqWnYtWEhvWEhJZG1pd3Rnelh4OEZaSTl4VFpiV0NJT3FDRTRB?oc=5",
+      "source": "AOL.com",
+      "region": "Global",
+      "section": "supermarkets",
+      "published": "2026-11-07T13:15:00+00:00"
     },
     {
       "id": "27e5718c458ed1dc",
@@ -248,24 +298,14 @@
       "published": "2026-11-07T08:54:16+00:00"
     },
     {
-      "id": "fbd0d3ec71030457",
-      "title": "Walmart Boost Mobile Flip Phones - Walmart wins big at 2025 BrandSpark Most Trusted Awards Canadian Grocer",
-      "description": "Walmart Boost Mobile Flip Phones - Walmart wins big at 2025 BrandSpark Most Trusted Awards Canadian Grocer auroradesio.it",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqeldydmhUS00yQW5Pdi1odjQ4VlFKS1pQTGhxUDZlQjZzV0FscW41aUlHM01JTy1WY080aFk1cVBWZ2xlUWNwZUFKR05mVXYxdUZ3?oc=5",
-      "source": "auroradesio.it",
-      "region": "Global",
-      "section": "supermarkets",
-      "published": "2026-11-07T06:32:19+00:00"
-    },
-    {
-      "id": "319e4978f948e3fa",
-      "title": "S&P 500 (^GSPC) charts, data and news",
-      "description": "S&P 500 (^GSPC) charts, data and news Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zUXRoQTV5QjZCMVpNN0h3cHVnamhMR2tFN09nVjhvX0JEQUhSdnFyUmhScWp1N2xOejF2SzFOYkI1a1JDejl2SEJZWHdGUXFtZVVaNG9n?oc=5",
+      "id": "367beed7fd932c48",
+      "title": "HDFC Bank Limited (HDB) stock price, news, quote and history",
+      "description": "HDFC Bank Limited (HDB) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IaFVMdkg1ZU8zRHBxUVhHcHptWWF6WmNCNDRDYXhBVDIyVHQ3ZVpTMG5jSVNNRU51NDc0ak5FVk9tNnMwcDFHWmdlSFVhUURO?oc=5",
       "source": "Yahoo Finance UK",
       "region": "UK",
       "section": "finance",
-      "published": "2026-11-07T04:20:06+00:00"
+      "published": "2026-11-07T05:34:14+00:00"
     },
     {
       "id": "0b19e24041a2a38f",
@@ -276,6 +316,7 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-11-07T01:41:36+00:00",
+      "direct_source": true,
       "summary": "The BBC spoke to three people about how they could be affected by rising interest rates On Thursday, the Bank of England increased interest rates for the first time in over three years as it tries to get a grip on rising inflation linked to the Iran war.",
       "key_points": [
         "Experts say there could be more hikes over the next 18 months, as the conflict continues to push up food, fuel and energy prices across the UK and worldwide.",
@@ -305,14 +346,14 @@
       "published": "2026-11-06T23:00:00+00:00"
     },
     {
-      "id": "d59987f15aa6a39c",
-      "title": "Oil Prices Rise 3% as Iran War Stand-off Persists - Energy News, Top Headlines, Commentaries, Features & Events",
-      "description": "Oil Prices Rise 3% as Iran War Stand-off Persists - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT05ScjQwX2cxMmpKblVhR2g0enp2S2RWWVZ4aXUyMGZJNUR3bkNwX0tCN1hTcXYzSUdTMlA5djVsQ0F6eE4wOTBfbHlnSUc0b0x2bXZ5UXZEOGhrYWhyVnJPcGJVWHZzM2hPSDB4bW1rMFp1NktuTEdjdDNaZngzX2l0aGVsQQ?oc=5",
-      "source": "EnergyNow.com",
+      "id": "4ff3a43232aabf32",
+      "title": "Bird Flu Outbreak Confirmed at North Lincolnshire Poultry Farm",
+      "description": "Bird Flu Outbreak Confirmed at North Lincolnshire Poultry Farm JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1GZUg4el9TUFVjTWlMcXk1UGZkZE9BQU9kNDZPSGJJZ3hULWVJSnRNa2xKejFSZGVaYkNmM21WZldWaC1LV2psTFBBS0otckViWDE1STE2LTJnV0pMelBRdERtakxkYzdYQUw5dUlnc1FlNjZYRGN4SFFoQU8?oc=5",
+      "source": "JournalArta",
       "region": "Global",
-      "section": "energy",
-      "published": "2026-11-06T22:16:58+00:00"
+      "section": "commodities",
+      "published": "2026-11-06T22:11:18+00:00"
     },
     {
       "id": "80de7aa78f8e0a73",
@@ -331,6 +372,26 @@
         "Tesla fans have been mourning the news online, with one person calling it \" the best vehicle Tesla has ever made , external \" as he lamented it being \"discontinued next year\"."
       ],
       "summary_origin": "public article text"
+    },
+    {
+      "id": "26125be952edeae0",
+      "title": "Henry Hub Natural Gas Futures Overview",
+      "description": "Henry Hub Natural Gas Futures Overview CME Group",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vQ0F3ZlFyWWRxT0thR1c3eS1iNExsSGltTmx4Y2VTVkpkZDNFcEJhR2FOMkRqUmtsSW9GZXk0MVVKWHFWUHJmZlZZYktWdzl1bVY4dlJ2U3ROUjR6dE9WZlpIOXdiTGpkOWljM0ZjR2tVR2JqQkxN?oc=5",
+      "source": "CME Group",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-11-06T21:44:45+00:00"
+    },
+    {
+      "id": "a736ceb2b48e575b",
+      "title": "High shipping rates reshape global refining economics, favoring U.S. operators",
+      "description": "High shipping rates reshape global refining economics, favoring U.S. operators Oil & Gas 360",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeWpvV2J3Q3RTekhtY2RXVzNONF92bGNDZGttcGJwQm9hMFJsb2NSU1prbndEX3otZHRYTjgtM1lzbXJhM0oyOERQVWJ3Y0hvRGcweDBtQWN3SG81Yy1laWIySENsSzdQR1BZRjM5bkRNbGJydVQxbHhFbDI5TTQwaXFKTEZKdExIY3NLbVY2bXAwbi1rWmZyZzBMU0tRY1VOQXF0d0tnbTdsQQ?oc=5",
+      "source": "Oil & Gas 360",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-11-06T21:44:25+00:00"
     },
     {
       "id": "1f7162e4b6db2f10",
@@ -361,6 +422,16 @@
       "summary_origin": "public article text"
     },
     {
+      "id": "505441e68e33c7f4",
+      "title": "Elizabeth Warren will take over the Senate Banking Committee next year. Expect hearings.",
+      "description": "Elizabeth Warren will take over the Senate Banking Committee next year. Expect hearings. Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWhJV0ZUTE12REU2RkM5LWdqZUx5NE9xNXdhNlQ5dkFLSlZka25OZEIzOE1TUFVWX2lFTjZOcUVlLXhuVFh6NF95Q205dWg0Q2xPelhRT0VlSC12RWprdVRiUExySF8ySlZMaDV1UTN3cUJhWm9CMTc1TVNoRy1zdllhYzJqSWU0NzVmbmpFTDhIMTh3c3FydXUtVmRnR09nUFd0MVV0VWxVbFdVT0NadGEwc2xZQ2drOXIwWVZheHNaUGszOXZKSFExOVNERk45eGZQWjdsUkRHS1U?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-11-06T20:57:13+00:00"
+    },
+    {
       "id": "912f51dc7db26d45",
       "title": "Face Rollers Market Forecast to 2035: Premiumization and at-Home Skincare Routines Drive Forward Growth",
       "description": "Face Rollers Market Forecast to 2035: Premiumization and at-Home Skincare Routines Drive Forward Growth IndexBox",
@@ -381,6 +452,16 @@
       "published": "2026-11-06T20:30:00+00:00"
     },
     {
+      "id": "5e625e1442ee1bc2",
+      "title": "Palantir (NASDAQ: PLTR) stock price forecast: Wall Street sees upside despite 25% decline from October high",
+      "description": "Palantir (NASDAQ: PLTR) stock price forecast: Wall Street sees upside despite 25% decline from October high Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUEliVVJ1SGE4a24xTnVENUgyUzV5SWhSMmF2dS03UlNHN01BNDZnQWxCemV3VVVka1hOeGxLTlFXYkFxSEVyUE1qNDFLMWl1UUE5SUNGM1loNTJ0SDZkRXo2LXV6cUk4ajFCaGVNNU1MUmxURlV4Y0p0VDA1cXRjZDFKSTJaaEE?oc=5",
+      "source": "Beinsure",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-11-06T20:00:42+00:00"
+    },
+    {
       "id": "9fca64f2e8ebc278",
       "title": "Belle Terre residents to weigh in on new Kroger store in Gluckstadt",
       "description": "Belle Terre residents to weigh in on new Kroger store in Gluckstadt The Clarion-Ledger",
@@ -399,19 +480,6 @@
       "region": "Global",
       "section": "finance",
       "published": "2026-11-06T19:40:42+00:00"
-    },
-    {
-      "id": "a5798e21a205d477",
-      "title": "Canada Goose will revisit pricing to blunt tariffs next year, CFO says",
-      "description": "The Toronto-based luxury apparel company worked hard to get its products into the U.S. before new import tariffs became effective in August.",
-      "url": "https://www.cfodive.com/news/canada-goose-revisit-pricing-blunt-tariffs-year-cfo-retail/874035/",
-      "source": "CFO Dive",
-      "region": "Global",
-      "section": "commercial-finance",
-      "published": "2026-11-06T19:28:40+00:00",
-      "summary": "The Toronto-based luxury apparel company worked hard to get its products into the U.S. before new import tariffs became effective in August.",
-      "key_points": [],
-      "summary_origin": "publisher preview"
     },
     {
       "id": "25fc7a51e1830b4d",
@@ -568,16 +636,6 @@
       "published": "2026-11-06T15:09:17+00:00"
     },
     {
-      "id": "7f82e211c3b5d859",
-      "title": "Tiny Spanish island quits coal for good amid renewables boom — but country struggling to electrify",
-      "description": "Tiny Spanish island quits coal for good amid renewables boom — but country struggling to electrify AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSGZteWRaSDFuTnB1OUd6SjdtTWRoUE1MMkRTZDR6aDNGMEVQX1dTejQ0X090elc0bFZIRDd3c2diSWxmUWtSbG1fV3R1ZE9pTnloM2ZIVlJ0bnF5aE53VGhsaGdtaG5EZkxIaE8zdVRwcTlHNXRZQ3dOLXR5VUZvUU9R?oc=5",
-      "source": "AOL.co.uk",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-11-06T15:00:42+00:00"
-    },
-    {
       "id": "4f9e7b92b4636c44",
       "title": "Projected UK Interest Rates in 5 Years: Bank of England Raises Rates in November",
       "description": "Projected UK Interest Rates in 5 Years: Bank of England Raises Rates in November CCN.com",
@@ -606,16 +664,6 @@
       "region": "Global",
       "section": "ai",
       "published": "2026-11-06T13:45:00+00:00"
-    },
-    {
-      "id": "e38006b6fc205a88",
-      "title": "Oil prices set for sharp weekly decline despite tanker attacks",
-      "description": "Oil prices set for sharp weekly decline despite tanker attacks Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalVua2VjaE5MZWxXU3dESC10NVZMbjZ5d0xlQTRzbmM5TnpGbl9Db2dZTjRPWXpkS3F1VmJBdXVmMWdmU1lYU3pMNk1QNklNRzJsbll2a083elNMeUU2TlM0QnVEcGFBYk9iSUpTSUhXUlk0d2N5NFN5eDZzN0JJVkJPNWw1X3hmMHd3SkhQOXFybzBHRE1JU0Y2RG9Zd1pLYmVYT1Fldw?oc=5",
-      "source": "Anadolu Ajansı",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-11-06T13:19:20+00:00"
     },
     {
       "id": "123470e7c60ebc29",
@@ -662,14 +710,24 @@
       "published": "2026-11-06T12:49:00+00:00"
     },
     {
-      "id": "23b3801bf051faa0",
-      "title": "Tokens hit China's shopping carts as ordinary Chinese consumers join the AI boom",
-      "description": "Tokens hit China's shopping carts as ordinary Chinese consumers join the AI boom Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TQlVjSjNPUVh6MFFMQjE0cVZad09IVC1MTWloZURpWGU4Qk5hM3lXT3UxLUlacUNOVS1zR3FWYmdlOWd3QzlCNmRaeVd5WF9qWW1mdEhXVDdGYTF1SEpjQTJn?oc=5",
-      "source": "Global Times",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-11-06T11:46:00+00:00"
+      "id": "814f72c44a3b3891",
+      "title": "Lidl store to reopen after fatal car crash through entrance",
+      "description": "Lidl store to reopen after fatal car crash through entrance BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PLUd0QVBYekktTjh2ZXh2Y19CRGprREFnY0NUbW1oUnoyUnI3TmVRMjhuWUliUWZxdzlxdHhMUEdFQ0JobmZXeHhGYklTQWM2UGJDaDlsZUZlTzg?oc=5",
+      "source": "BBC",
+      "region": "UK",
+      "section": "supermarkets",
+      "published": "2026-11-06T12:28:52+00:00"
+    },
+    {
+      "id": "6b42a6a2e804c6b0",
+      "title": "FAO Food Price Index Drops 1.2% in October 2026 | Cereals, Dairy, Meat Decline - News and Statistics",
+      "description": "FAO Food Price Index Drops 1.2% in October 2026 | Cereals, Dairy, Meat Decline - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnVoVHprbWItOUt1b1hTZ2laZ0xScEZQR3VjRG5tWVNXdHRJVXNkWnB0V2J5aWZ2SXRnZnE1UTBtX2MwRzR2ck9LaFF0Rmg5WnVPX2FMU1ZOVlppTU5VQ1otRlhYdzJ1YkFGTmFZOE0wa1BpVUxha0dick5kNlFpMW4yTzdmc0dFc25mX3hlLV9SYlljVlZoVF8zX1REMGtXVnJIM1lwT1Jta0tIZEp3ZS1B?oc=5",
+      "source": "IndexBox",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-11-06T11:50:36+00:00"
     },
     {
       "id": "7bca28b08917ea24",
@@ -734,16 +792,6 @@
       "region": "UK",
       "section": "retail",
       "published": "2026-11-06T10:31:47+00:00"
-    },
-    {
-      "id": "48c7f259b67128b1",
-      "title": "More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge",
-      "description": "More ships attacked in Persian Gulf, oil prices rebound slightly after post-midterm plunge CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDROS29td1ZxNlFndnlTQnU4LVVwTXg1OW9kemVlQmx4M1pZTFlOd21RNnJhcnBVNENOSEpjT2YyWC1DMVhXcHFpNHBMUlF6Mk9NeVFmV19RVnpZTkl0RVE1YjFYVk5JRFZBVFJQbGtlaVFQS2FCazJKWWNQRUVOaDdNdzBuUU1z?oc=5",
-      "source": "CBS News",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-11-06T10:23:00+00:00"
     },
     {
       "id": "6c68a95b495654ca",
@@ -850,6 +898,16 @@
       "published": "2026-11-06T08:28:15+00:00"
     },
     {
+      "id": "4a9d5cd2f2be126c",
+      "title": "UK retail footfall drops sharply in October, high streets worst hit",
+      "description": "UK retail footfall drops sharply in October, high streets worst hit Sharecast.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPV0k4V1J4WF92S1NGaUxpZFpFeHNUNm9CaXM0dXQ0YVJGUFJOQWNIanhyU2NxYzFwdDB5WUl3MlRnTld5UVVvTlV1NlF6RnBIOU5SYW1vTVlRZGtFVmNjbE9lSEhQelYyWU5xX1Y3bTNYRF9UajFJN2V2TlBSQ0FXV2dJY0ZQTkxHTkFON0xFRFN5MjVQXzdJcVEzYnNvblBQWHlXRGlldkRfX1ZyV09yd0d1ZmxSd3hVRWpIYjZaUnRBTWVHUXdsdmlYaWJXaVhwSFlvVW5vU08xcDhHeUE?oc=5",
+      "source": "Sharecast.com",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-11-06T08:10:15+00:00"
+    },
+    {
       "id": "04cbc476187e672a",
       "title": "Amazon Christmas advert follows stranded traveller’s journey",
       "description": "The 60-second film – titled ‘Joy Delivered’ – follows Joy, played by New Zealand actress Kate Laidler, setting off on a journey home, relying on the kindness of strangers she meet along the way",
@@ -874,6 +932,16 @@
       "published": "2026-11-06T08:05:00+00:00"
     },
     {
+      "id": "4db1fbc472bc0848",
+      "title": "Global markets tumble after US tech stock sell-off",
+      "description": "Global markets tumble after US tech stock sell-off Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTBVcl9vM2FHRTJrVkdBQ2dfVnRCek9FUVZfTlF0Sm0tQTRsMlpxTWduYmctcnZ5dFlsVUF3anhEME5wTlJYRV9UVzZ6bGQ3VHlQdWcwT1VybXhBNDJCam01SF9UOWV2a3NzVGdqQ3ozZnNKYlFqd0xvaE9lYVZ1eFpQNk8?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-11-06T08:00:57+00:00"
+    },
+    {
       "id": "ccb1f23505fab5cb",
       "title": "Albertsons Companies | History, Stores, & Operations",
       "description": "Albertsons Companies | History, Stores, & Operations Britannica",
@@ -888,6 +956,16 @@
       "title": "AI CEOs to brief UN Security Council on Wednesday",
       "description": "AI CEOs to brief UN Security Council on Wednesday ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZEdtT2NZWkU1WWhDRkRrRkZYVnRKMXRwbW1FWWtNNkRZVTFrRjd4UVNXN1ZCY0hMVHQwTlBkSXRhSmkxWTdwMlpuWkFOdXFEai1tWnkzQzJUd0g3dFRWSnJ3ZzJOWE9lQUc4bTg5enphN3dURUlmMHpXWndZM1Azb3gzRGpFNTFMUUtOTnVtS2oyUdIBlwFBVV95cUxPdEhNSFpES3ozeVVvSkJfd05ORFdMRnJRS1BZaEE3cFl3T3dLcVBsZUVSdWo3dnZtY25IY2RHQ29BMHRtUDFNR3ZIM19Id3VOZlBDVFpWUGVrRjJBS3VYLWNDaUxGTnh2QnJ6TVBJODR4aU5xcy1UOWZaUDltcWFfRGs3SHBQMFA3WFg0N3JlV3p4QkViOFJV?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-11-06T08:00:00+00:00"
+    },
+    {
+      "id": "dda13f21c0114f47",
+      "title": "Trump says AI leaders signed a 'constitution' to police themselves",
+      "description": "Trump says AI leaders signed a 'constitution' to police themselves ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanlhb3luTWNPUUpYbzhHV2tQdUF1dEVhN3d5VDJZdGwzRU1fT1Nsb2ZrNjRNeHNiem1HNTZaSzdQcU80MTVwSE44a0pvR1J3eTZIRG0yRjhnSWdVVjJuek1qTDVIOVAwTDZRRXlPR25xUU83NWkyd2swVWFsbE5ELVYyNzFCU1RETWY2S21pVlNBYVEw?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "region": "Global",
       "section": "ai",
@@ -914,6 +992,16 @@
       "published": "2026-11-06T08:00:00+00:00"
     },
     {
+      "id": "88e162595e7ad9ad",
+      "title": "REPowerEU",
+      "description": "REPowerEU European Commission",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tZkVmTXRzMVFiMVIyemJTNzdqT3BEcTFuYWVpY28zSTAtbnpjbEdiOHFCQ3hIN3JoVmNrUl9jeHg3emxkRGdabExzMlhjTkM0XzBUc3daSDJxZVV0dURtUzB4RGhyZw?oc=5",
+      "source": "European Commission",
+      "region": "UK",
+      "section": "energy",
+      "published": "2026-11-06T08:00:00+00:00"
+    },
+    {
       "id": "ce7f33849381abd6",
       "title": "Energy price cap January 2027: latest predictions and news",
       "description": "Energy price cap January 2027: latest predictions and news Uswitch",
@@ -922,16 +1010,6 @@
       "region": "UK",
       "section": "energy",
       "published": "2026-11-06T08:00:00+00:00"
-    },
-    {
-      "id": "590986c6ced79038",
-      "title": "“Power, land and talent”: Malaysia emerges as a battleground for AI data center investment as Google, Microsoft and Amazon pour in",
-      "description": "“Power, land and talent”: Malaysia emerges as a battleground for AI data center investment as Google, Microsoft and Amazon pour in https://economy.ac/",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HTHJQV0xxbUdsQnFNNWpkRkY2dm1jUTZnWXFmMWs0SjI2R3V5WWNwU1JIaWNvaks5aDdkVkFwTTM1TjQzSmtnOTdaZUlRQ2F4eUdKeUF2cw?oc=5",
-      "source": "https://economy.ac/",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-11-06T07:22:56+00:00"
     },
     {
       "id": "a799d5473ff40375",
@@ -944,16 +1022,6 @@
       "published": "2026-11-06T06:55:00+00:00"
     },
     {
-      "id": "611cc445d79e82bd",
-      "title": "Stormy weather washes away footfall",
-      "description": "Stormy weather washes away footfall Big Furniture Group",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xZVJtYzhLaThwN0ZfQkpEM2hVQjFvZV9Id0hNR0RkTXR2RTg5WWZNYWstUjd4SFVMeDRGSjUzT3BRSEVTUVU2WFJXX3NvMkwzRmFNdDFHWXozM3ZWazh6SmhpanUxWFZYbzNnSVQ3ZHNCQnhPWlFrRjJn?oc=5",
-      "source": "Big Furniture Group",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-11-06T05:23:31+00:00"
-    },
-    {
       "id": "035e8c6782e14516",
       "title": "Duvo helps Morrisons ramp up AI push across its business",
       "description": "Duvo helps Morrisons ramp up AI push across its business Retail Technology Innovation Hub",
@@ -964,16 +1032,6 @@
       "published": "2026-11-06T04:59:27+00:00"
     },
     {
-      "id": "6c8f4e28f3aaeacf",
-      "title": "Wise Group plc (WISE.L) stock price, news, quote and history",
-      "description": "Wise Group plc (WISE.L) stock price, news, quote and history Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sZmNPSHU0ZkcyNXBoNEIwRVJJLVBUX1FVZ1ZyR0haSTk5d3A3OUl4d1d2UWZBSDlpeDRjb1k1WmNnNUFTXzEwNFRlVFBjVDZxUWRrNA?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-06T03:18:15+00:00"
-    },
-    {
       "id": "e23789883f9240cb",
       "title": "Low consumer confidence key reason for dip in retail footfall",
       "description": "Low consumer confidence key reason for dip in retail footfall Retail Week",
@@ -982,20 +1040,6 @@
       "region": "UK",
       "section": "retail",
       "published": "2026-11-06T00:11:48+00:00"
-    },
-    {
-      "id": "6adf9d2baa3967c3",
-      "title": "Stormy weather dampens high street footfall in October",
-      "description": "Back-to-back storms, as well as fears over the cost of living crisis, meant shoppers stayed home in greater numbers during October, according to the latest BRC-Sensormatic data",
-      "url": "https://www.thegrocer.co.uk/news/stormy-weather-dampens-high-street-footfall-in-october/725624.article",
-      "source": "The Grocer",
-      "region": "UK",
-      "section": "supermarkets",
-      "published": "2026-11-06T00:01:00+00:00",
-      "direct_source": true,
-      "summary": "Back-to-back storms, as well as fears over the cost of living crisis, meant shoppers stayed home in greater numbers during October, according to the latest BRC-Sensormatic data",
-      "key_points": [],
-      "summary_origin": "publisher preview"
     },
     {
       "id": "abc3ce4f236e45f5",
@@ -1016,46 +1060,6 @@
       "region": "Global",
       "section": "supply",
       "published": "2026-11-05T23:18:46+00:00"
-    },
-    {
-      "id": "867a26821c1721e6",
-      "title": "Vivmark finds additional efficiencies after completing AVB-EQR merger",
-      "description": "Vivmark finds additional efficiencies after completing AVB-EQR merger Multifamily Dive",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2FDdm1aU2E0MlRFYnp5cGJZT043czBwWDZFUVRDdy1lQUMzQnRLdFhNb1NtVVZPM094VUtSeTIzVDFvQUx0TWpwcEJOVFNEY3g3MHgtdHZiN25KVUs1ODZYWFNXNUplTXpvU1lpX0FUQ1MweU04cTVIZUJ4VjJZZ2k0UEU0aEZLZXhZOU1UdmVJRGc?oc=5",
-      "source": "Multifamily Dive",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-11-05T22:45:56+00:00"
-    },
-    {
-      "id": "866630a214e7388b",
-      "title": "Sarepta Therapeutics Announces Third Quarter 2026 Financial Results and Recent Corporate Developments",
-      "description": "Sarepta Therapeutics Announces Third Quarter 2026 Financial Results and Recent Corporate Developments Sarepta Therapeutics",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUtnZERPM2NuV1d3X0V0cE8xZ0dHdFVPaDNjeVI2OEJ2ZGJYUzY1MENkTUhCN2lFbXNBOU1PSHZGNGpLZVk4ZW85Z3czSWRZU1ZXMDhWV3ljRHZUTzd2NF8tTlR0cmxRdmtQMy1UdXVrcnhkV0k3X2lJLVl0Y0Z4b0FIZlQyeUxKa2x1WDlRYkZGdEJDY2lrRGVlYldhQkd1Yk0tdkMxQ0VNX0Jjd0N6QzZSczVfcnN0cjVzVlB6YmtBLS1BRHU5Z0NGUVU?oc=5",
-      "source": "Sarepta Therapeutics",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-05T21:06:11+00:00"
-    },
-    {
-      "id": "bcbac915af7169e9",
-      "title": "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph",
-      "description": "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWdpd3MxX005Y1RwQUo5WkxPVzlNRGpxMGJPcWV4WHd6TWh4a1Y5YUdrLXhYTEplalpXSE03S0NqX0xLcHIwbzBOdjI1VEJGdVdmSDlhejNMd2lnb3lJQTBtT21yVkxSTGh3RFFGUXZ5UTRPa0tQSUZZRjJhbFBFTkJxWjkzaTFhanpScXU1Y0lYdElWNVJzMDB2UHVjSEZUZUJUdHpQSWd0c2IzX2ZhMGQ0dlluRU1OekpvOVVWN2g1aUxmTVZhUEVWLVA?oc=5",
-      "source": "The Guardian",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-11-05T17:31:00+00:00"
-    },
-    {
-      "id": "7d0eadda9d964269",
-      "title": "‘Enormous sadness’ as 155-year-old department store chain confirms closure in blow to UK market town",
-      "description": "‘Enormous sadness’ as 155-year-old department store chain confirms closure in blow to UK market town The Sun",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY05rd2lPYktGeUVYUGlPSUNycUpReG9vVExxdDVmTTljWmp1eXZ5Tnc3TTdpR2ZPaUpZT250Ylpsb0tvUjhaaEVuRWR3bkhZT0hDcXVOa2IxT194cGp0ZkZ5M0RFS1F2aXlndElBOTJBbkhBdzJzUmhtU2JLU1hwaTcxM2JUNWdRbnI2Q3JhNDhhYTA?oc=5",
-      "source": "The Sun",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-11-05T16:52:00+00:00"
     },
     {
       "id": "24a6696e63a14c17",
@@ -1200,16 +1204,6 @@
       "region": "UK",
       "section": "food",
       "published": "2026-11-04T11:18:27+00:00"
-    },
-    {
-      "id": "45f434fa6c2f9454",
-      "title": "AGT Food and Ingredients (TSX:AGTF): High Revenue Per Employee Highlights Global Food Processing Efficiency and Growth Potential",
-      "description": "AGT Food and Ingredients (TSX:AGTF): High Revenue Per Employee Highlights Global Food Processing Efficiency and Growth Potential kalkine.ca",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaGY4QWE3Y2tRSVlyWENZVElhdm9tdWVfY19fVUh2VW4zbFJIYnpFYlU4ZzRkMkNyT0VLNk1Kc25ld3lkYXRiZDBHalZ6QjBqSE1GdWpNcmZuVEo1RHVLRXB3OHR5Yy13bHg0a3RSUUU1eW45cEhjVmE1TWVWSERtcWFEVE1KQVppandOZDdlVFdnaFJYaVYyNEE0cTFqQ1RqYTFzb1ZOTk8zSk9LY3JnT2hzWXhvQjFZcWptUGtBZHlKV1QxX3dhZGFiRXZjSEYyT0JGVmpjSEw2U0JMa0hIUm96TkJvU2I3TmtoYk9LQkxtZw?oc=5",
-      "source": "kalkine.ca",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-11-03T16:47:00+00:00"
     },
     {
       "id": "d9e6b7d6d5b7116f",
