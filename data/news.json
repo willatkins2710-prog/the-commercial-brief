@@ -1,16 +1,33 @@
 {
-  "updated_at": "2026-11-13T01:18:18.322488+00:00",
-  "price_updated_at": "2026-11-13T01:18:18.322488+00:00",
+  "updated_at": "2026-11-13T05:07:38.264260+00:00",
+  "price_updated_at": "2026-11-13T05:07:38.264260+00:00",
   "articles": [
     {
-      "id": "bd3b22cfb8ebe8c3",
-      "title": "Economics, not climate summits, will dictate the net-zero transition",
-      "description": "Economics, not climate summits, will dictate the net-zero transition New Scientist",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3hYaG43dFRwdFVIZ3hqYXh2VlBjWk5ra282UkczTE4yY1A3S1haT1VLb3luM3lYREdXMU5mVDhTbEUxNWdvazVRUnRNU1BjVUVYTGFCaHRtaWQ5eGRoU0U1ZVowUjJyTUk0Nm5RVW8zWWRnZFMwbWhmLUtnMkQ2OXhSQThUUVhCTVkzSXpKaV9SeEdOeGhnc1FVZk8teWpXMWZGdXduRktHeFNlZFVoVnpn?oc=5",
-      "source": "New Scientist",
+      "id": "ed5849f7ff5b2028",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
       "region": "UK",
-      "section": "energy",
-      "published": "2026-11-13T00:13:44+00:00"
+      "section": "economy",
+      "published": "2026-11-13T03:57:01+00:00",
+      "summary": "Former Nvidia CEO Jensen Huang has been summoned to testify next month before a Senate committee about his alleged affair with a woman suspected of being a Chinese spy.",
+      "key_points": [
+        "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs, in a stunning fall from grace that sent shockwaves through Silicon Valley.",
+        "Commerce Secretary Howard Lutnick, who is under scrutiny over exports of sensitive Nvidia AI chips to China, has also been summoned to appear before the Senate Banking Committee in December.",
+        "Nvidia has lost $550bn (£415bn) in stock market value in just five days as the scandal dominated headlines."
+      ],
+      "summary_origin": "public article text"
+    },
+    {
+      "id": "0490fc2a15a6c823",
+      "title": "Amazon's $5.7 billion store quarter is the small part of its retail push",
+      "description": "Amazon's $5.7 billion store quarter is the small part of its retail push MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnlGZXc4emExSmN5Qk5pb0k3cXBaaXc1dEtkazdVMTA2LUVITnQxaV9TNmlGUTIyUTVmY2VRX1RETzhiMDVJUHNnR1JCVEZ5LUtGa19nNGhNcHVBU3NjSV9mS0xQUmhOa3lDZlFqaVQtRGxvdmlNZzRHNkFneHJMQkVTSm1US2FWNlJsUHNzb3l1RjRPME5IeWx3RXhuOTlWQmdTenRiLVM1NW5SM0FSdWZOcUI1Zw?oc=5",
+      "source": "MarketScale",
+      "region": "Global",
+      "section": "supermarkets",
+      "published": "2026-11-13T02:21:11+00:00"
     },
     {
       "id": "ecb868e650f8585e",
@@ -21,38 +38,12 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-11-13T00:13:35+00:00",
+      "direct_source": true,
       "summary": "The images Olivia Nicole saw of a home on Rightmove (l) were completely different to how the property looked in real life (r) Have you ever been impressed by the pictures of a property on an estate agent's website, only to find the place looks completely different when you view…",
       "key_points": [
         "Then there's a chance that AI was used to enhance the images you saw.",
         "From repainted walls to imaginary lawns, estate agents are increasingly using the technology to make homes seem more appealing, arguing it helps buyers visualise the potential of a place.",
         "But experts warn it can go too far and mislead prospective buyers - a trend dubbed \"housefishing\"."
-      ],
-      "summary_origin": "public article text"
-    },
-    {
-      "id": "9020dcf53b2fa7c5",
-      "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
-      "description": "Who could replace the departed Jensen Huang as Nvidia CEO? The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYURWRHQyOVoxd0RRQU1TWVVwYmpoclgtMUlmc1lfOFlBdkw1aDk2QU5qbFZFSVdyWmlkQzdBUFZyYnRzNVhILTktN1hvei03UGxQeExaQmN2RDE2eTdoSXl2QlhqZkUxYkhRMWEyQlc3RXVGTTR1Y3pkeXFZWklsdndqT1d1cHBHSGNZMDE5UQ?oc=5",
-      "source": "The Guardian",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-11-13T00:05:00+00:00"
-    },
-    {
-      "id": "99bf6f3424222e5d",
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-11-12T23:34:05+00:00",
-      "summary": "Jensen Huang has abruptly quit as chief executive of AI chipmaking giant Nvidia after revelations of alleged extramarital affairs, in a stunning fall from grace that sent shockwaves from Silicon Valley to Capitol Hill.",
-      "key_points": [
-        "Nvidia is now under scrutiny from US lawmakers in Washington DC demanding Huang answer questions over whether one of his alleged relationships was with a Chinese spy.",
-        "One of the world's most valuable companies as a result of the AI boom, Nvidia has lost $550bn (£415bn) in stock market value in just five days as the scandal dominated headlines.",
-        "Nvidia's interim CEO, Colette Kress, called an emergency meeting of her executive team to discuss the company's future."
       ],
       "summary_origin": "public article text"
     },
@@ -75,6 +66,26 @@
       "summary_origin": "public article text"
     },
     {
+      "id": "e7c0be049080c174",
+      "title": "Workiva at BMO Capital Technology and Innovation Leaders Conference: AI push lifts growth",
+      "description": "Workiva at BMO Capital Technology and Innovation Leaders Conference: AI push lifts growth Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS24yUm9DQlZrQ1Q4MzBBMWRJSmRMME9xbWdqUEM1VldRMmhCSDNBLWRtNmlfTENMNmE2QU8yUDhXRnVzT3dkd0Zfa3kyT1lFYWdxdEgtaFRtd1lFZWxMaWJHTE14anJTLTM3aWV1R0RJME1kU3huYXlHVUdvNHRrVF8wZW5qRmVSYVdNSXg0SHpaZGVDeDJ0TG1fUkd0MGJkV2M2UDZicHZ3bzlDeVp1ZGxoa1oxWnRid2h4NXQ2YmZBQ2JyTWtxWVhrcWV6dVNWMTZqeGdsQkVBcFFlWkdyNUVvYw?oc=5",
+      "source": "Investing.com UK",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-11-12T21:48:00+00:00"
+    },
+    {
+      "id": "1bcd8c56d90549c7",
+      "title": "Wix (WIX) Beat Revenue Estimates But Here’s What Bank of America’s Michael McGovern Is Worried About",
+      "description": "Wix (WIX) Beat Revenue Estimates But Here’s What Bank of America’s Michael McGovern Is Worried About Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUFfNHZoVURxbTZRMGF6NlhEYzdZczlsYTdLNXlqQkw0VlFIUVNlbWlFUl95c0txM2xNd2REOW1pY25LU2MzV1czRU1fWFpyNFB6aTdfc2thTkwyYXdUUVI3V0hBU1QybzlBMFhheXFtSjhvNVIzRWNBODkzX2gzSnNRSVhiUzZCbDBxdnF3dlA0NnhaRkVuRGpkUQ?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-11-12T20:57:56+00:00"
+    },
+    {
       "id": "5a1c74530e1c7a48",
       "title": "Earnings call transcript: Security National Financial Q3 2026 earnings fall as stock slips",
       "description": "Earnings call transcript: Security National Financial Q3 2026 earnings fall as stock slips Investing.com UK",
@@ -85,16 +96,6 @@
       "published": "2026-11-12T20:54:00+00:00"
     },
     {
-      "id": "12d6ea0b3ace4281",
-      "title": "Apple Inc. (AAPL) stock price, news, quote and history",
-      "description": "Apple Inc. (AAPL) stock price, news, quote and history Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RekFrNTdjZWx5T0FxTHdGWE9RWlJEakdYdWtNRkJNOGdka3FSdkdwWEgzYUgtanJUb0llSVdZdW5QTE9Mb3pPUGI0LV9jcXpvRVE?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-12T20:40:20+00:00"
-    },
-    {
       "id": "8bfbf07c6bd7d7d1",
       "title": "GBP/EUR Forecast: Strongest UK Growth in Two Years Fails to Lift Pound",
       "description": "GBP/EUR Forecast: Strongest UK Growth in Two Years Fails to Lift Pound CurrencyNews.co.uk",
@@ -103,23 +104,6 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-11-12T20:31:02+00:00"
-    },
-    {
-      "id": "8f9565d4f8987aa8",
-      "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-      "description": "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-11-12T20:25:29+00:00",
-      "summary": "Microsoft is struggling to fix a global outage of its service that is reportedly affecting tens of thousands of users.",
-      "key_points": [
-        "Services including Teams, Outlook and Microsoft's AI software Copilot have been affected by \"connectivity problems\".",
-        "\"We're aggressively pursuing all pathways to reduce impact,\" the company wrote on X.",
-        "Reports of problems with Outlook peaked globally at nearly 140,000 around 18:00 GMT on Thursday, according to monitoring website Downdetector."
-      ],
-      "summary_origin": "public article text"
     },
     {
       "id": "d1546e7939e8e2e2",
@@ -139,7 +123,7 @@
       "source": "NIESR",
       "region": "UK",
       "section": "economy",
-      "published": "2026-11-12T19:52:30+00:00"
+      "published": "2026-11-12T20:00:32+00:00"
     },
     {
       "id": "fc5ad6757f3d011b",
@@ -172,16 +156,6 @@
       "published": "2026-11-12T19:09:00+00:00"
     },
     {
-      "id": "69ee886d7d861a1f",
-      "title": "Energy predictions from the federal government",
-      "description": "Energy predictions from the federal government Oklahoma Energy Today",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckwzN2NtcldQWWNfTGJydjFkQzZvTTFOS1FJMDJiYzFmRXpPWnNrQ1dqMkFNWVAzVTJZa3RYZy1VcHA2dVUzWVdQRWQzNFZYejk5ZnQ3MnBQLUVlQ21Lc1ZCVUZoLUVHMmpWWHptREI3dVB0b01LTWtGWXplWnpBNzZWamxXZ3lB?oc=5",
-      "source": "Oklahoma Energy Today",
-      "region": "Global",
-      "section": "energy",
-      "published": "2026-11-12T18:43:11+00:00"
-    },
-    {
       "id": "b02fbe075d80358b",
       "title": "Morningstar holds 2027 Brent forecast at $71/bbl as Persian Gulf supply recovers",
       "description": "Morningstar holds 2027 Brent forecast at $71/bbl as Persian Gulf supply recovers Oil & Gas Journal",
@@ -212,6 +186,16 @@
       "published": "2026-11-12T17:34:44+00:00"
     },
     {
+      "id": "6afee49092120d66",
+      "title": "FTSE 100 Rises on Strong Earnings, UK Economic Growth Data",
+      "description": "FTSE 100 Rises on Strong Earnings, UK Economic Growth Data Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRWx3dU5ZTVVRSkx6STU1b1k3ZFREQTNodDdKcjBSUTEwM3RZaHdrenRiLUZDVVNTemhDbmZmamFhbVZyYm1OV1phRW5acTFiS1hfcFhYNURzdjFSRTBmSkQ3cWs5UlBzZHlIQkRaSEk1b0lJM2FQX0NxNHc5YWdEc1h6b0tXNzdXbDBiQkEyZGFXTkdyWVRZZUllc3RfZmUt?oc=5",
+      "source": "Global Banking & Finance Review",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-11-12T17:31:25+00:00"
+    },
+    {
       "id": "c3ad9bec9d4e5a33",
       "title": "AWS opens first cloud region in Chile with $4bn investment",
       "description": "AWS opens first cloud region in Chile with $4bn investment National Technology News",
@@ -240,6 +224,16 @@
       "region": "UK",
       "section": "energy",
       "published": "2026-11-12T17:00:00+00:00"
+    },
+    {
+      "id": "c795fc04516da343",
+      "title": "FTSE 100 Rises on UK GDP Growth, Burberry Earnings",
+      "description": "FTSE 100 Rises on UK GDP Growth, Burberry Earnings Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2SzNUUzl0U0VaMnBrWk1YUlJ3VWR6YXgxTFdSdGhMR2RpVXJFNnFnNm5reWZDaHZXQjZ2Q1NzZ1RhUzNLT1dLY05GMEFyOWd6LTVFcGd3Z3JLcTlkcTM1SmxlcjFRSW00NzdCSjFNeWp5TjZOYWxDZlhR?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-11-12T16:49:59+00:00"
     },
     {
       "id": "0a51c2d9be88d8a6",
@@ -382,6 +376,16 @@
       "summary_origin": "public article text"
     },
     {
+      "id": "a09d46a4358e0338",
+      "title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
+      "description": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated FreightWaves",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2k2ektKUFN0bDFNSmZJV0JQWlE2RGJYOWQ2ZHlKUGRGeVVscGs1eHVvZy13RDV2cTlOd011SV91MUhWcTNMTmI3QmJodEZxb3FTNkFvdWxWdE92R0QtSWZROXRIby1OakRESGJVSjZpSmlsRWtzMDBhMGlabXhwT2kxM2pGNTFqLUVDNXNlVURFR1RsZ1I1WndIeG1pSVJFY005TE5XTWJnUFBoVkVSb0lEdFNfYjU2cTJEMkd0ZVVlQQ?oc=5",
+      "source": "FreightWaves",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-11-12T14:25:28+00:00"
+    },
+    {
       "id": "9c52cf2464be9b88",
       "title": "European Stocks Reach Record Highs as Corporate Earnings and UK Economic Growth Support Markets: DAX, CAC, FTSE100",
       "description": "European Stocks Reach Record Highs as Corporate Earnings and UK Economic Growth Support Markets: DAX, CAC, FTSE100 Yahoo Finance UK",
@@ -408,6 +412,16 @@
         "Against the backdrop of the world's biggest disruption to energy flows, rising market borrowing costs - and the cruel summers since the pandemic - it is impressive growth."
       ],
       "summary_origin": "public article text"
+    },
+    {
+      "id": "9ead591140a299ed",
+      "title": "Oil prices fall due to increased production despite tensions in Hormuz",
+      "description": "Oil prices fall due to increased production despite tensions in Hormuz Inspenet",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVZm8yc0ZUR3BuTEFvQTVWekFkeWxiUllGY1E1Y2R5R29zR3FkVzgzbmp1YzNMdERqZ2c3Y08tWkhVZlpjWVI4WkxxUkc0OXZzYVB0d28teERUTmxDMVZ5TjM2aU9UUUFsVVE?oc=5",
+      "source": "Inspenet",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-11-12T13:20:15+00:00"
     },
     {
       "id": "b3538c57b2b93e36",
@@ -592,26 +606,6 @@
       "published": "2026-11-12T11:00:57+00:00"
     },
     {
-      "id": "640afb182161381e",
-      "title": "AI Spending Drives UK's Fastest Economic Growth Since 2024",
-      "description": "AI Spending Drives UK's Fastest Economic Growth Since 2024 Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1lrQVF2aHBxdDd6ZFh0S29wMXhkSTlWR21ablZXS1dKMTVyT2M5LTBveE9ORURzR1RJWTA0cVl3cGItUmpKc2pxNmdHSGJtMU9IX3dETHVmNXVkUGN2TEpXcjA4NWRXdmFGMWlpTGhPWGdteUpiZkJKVFdDUThOUkE4NmZDUQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-11-12T10:51:24+00:00"
-    },
-    {
-      "id": "dad3a519f399bb0b",
-      "title": "Warminster supervisors approve Lidl supermarket",
-      "description": "Warminster supervisors approve Lidl supermarket Bucks County Herald newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRmV0RmlUZnpub3JqRGNmR3V4RGJzUGt3d3haSlJ5b1otWnEtY25fYzk0Zmxjdmw0T21LeE4xeTdKS2ZNaTdybTJadGhvQVYzM2xQT3JXMWFKZUMxU3ZreW9PT0VsWk5YeVl2UEZaNGVrbFFrU0w1NTJ3VkgtNVl3NUhWWUh6LUI3NS00RFFxYjZkelEzYnluYTVvZm55U0FQejc4S0lDRUFMbloxdkE4V004RnIwOVN2LUtzWF82TWZmcjBjM1FSSGI3aVJQS0ZwS1E4XzFHMkl1MVMxNlE?oc=5",
-      "source": "Bucks County Herald newspaper",
-      "region": "UK",
-      "section": "supermarkets",
-      "published": "2026-11-12T10:15:00+00:00"
-    },
-    {
       "id": "eb4dda57b7dac538",
       "title": "Supply chain trade risk: geopolitics and tariffs lead poll | Ti Insight",
       "description": "Supply chain trade risk: geopolitics and tariffs lead poll | Ti Insight Transport Intelligence",
@@ -702,6 +696,16 @@
       "published": "2026-11-12T07:49:38+00:00"
     },
     {
+      "id": "2872bdb47f7ecd73",
+      "title": "UK economy grows as AI boom drives business investment",
+      "description": "UK economy grows as AI boom drives business investment Business Live",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2tuNDFOeFJrWGg0S3hyWERyWVowQjd3aFUwNEFJZ3RKcXJ3bUZPenl0cEUtZzRVM3I0aFRfUjhtcklFZVkzNF9sNEVvdDBmTmlUc09qRXRQUW53X2ZKLXdzcnRJSHZISjZvb0c3emZvcExsNmw3TjZ5aGZvOE9iV1QwNks0cXN3NFpJTXNrVdIBlAFBVV95cUxNX0p4bXFVXzI5N1dJUnNmSHBGclVTMmhXX1k3QnlIU09CNjI1VHduUFFpdWcyQlZ2Y3ZzLVRTY25EbWM3VS1QN1VJODVJRlBzMU5vcjlHX1ByM2VvenRsa3V1bnBOS2J0ekFGQmdsX0doZjhBOXhRVlVjZzRHeEU3ZGUwR0I0Q1JvR1BDSFV3UWxhb0tT?oc=5",
+      "source": "Business Live",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-11-12T07:22:00+00:00"
+    },
+    {
       "id": "314fa07824f7c376",
       "title": "Anthropic, OpenAI Get $1B Investment from TSMC—How Will This Affect the AI Industry?",
       "description": "Anthropic, OpenAI Get $1B Investment from TSMC—How Will This Affect the AI Industry? Tech Times",
@@ -732,16 +736,6 @@
       "published": "2026-11-12T06:04:46+00:00"
     },
     {
-      "id": "a2844d675d82c915",
-      "title": "The Vast Inefficiency of Fossil-Fuel Systems, Explained",
-      "description": "The Vast Inefficiency of Fossil-Fuel Systems, Explained Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamE1R0tCbGc5Sk84YlozWGYyXzRGMjdzc2IydkUzbm1YdERPTzZQdDhNcWZlZ2gxb1BRbzAxRF9XaGk3bjBFbWo1SjRzNk1oanVUaFRFMU5wVXQyYkU1N3FCaGdNZlJTNTVGa1JLaWN1R2g3bkNnYktwUEp2NmFST2Y1TG9UVTFidU9xU2plS0JBekJQMGtsQmRteW1KY2JkcFNjU3JqMmg?oc=5",
-      "source": "Bloomberg.com",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-11-12T05:12:30+00:00"
-    },
-    {
       "id": "30331c7afae635e9",
       "title": "Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push",
       "description": "Thomas Cook India CFO looks to recoup travel business shortfall through margin management, digital push cfo.economictimes.indiatimes.com",
@@ -762,6 +756,39 @@
       "published": "2026-11-12T02:30:00+00:00"
     },
     {
+      "id": "d944e0f53cc76104",
+      "title": "PM at COP: UK ranks 15th in G20 on electrification, day after reported Ministerial meeting to weaken EV targets",
+      "description": "PM at COP: UK ranks 15th in G20 on electrification, day after reported Ministerial meeting to weaken EV targets Energy & Climate Intelligence Unit | ECIU",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV2xCOEtJa3JwTXBSZk1RalRtTkMwaDVNb09kdmsxNWFNRF91TjJkdDFzN0tDUTljRjFYdVRLMkFFd3NGV25JWHBnT2pBT2llVkFNbjNEd19RSm0yOG9hOHRpX0hodDZUVFU0TkE5Nm5fSEtMWFZFTm0zM3pCRzE1U2h2RjBxdDd3OUhNQ0M1WlMyY0t5NHRUV3l5LUxWdTBmQWhKalNwcm1qOEFPQUR0S05HOGE4OVhsVjVlSEJKOWRPVkZ4cGJ5WmVaUEhDSjNGWVFuOVYtVnF4X1B3RFU2ZA?oc=5",
+      "source": "Energy & Climate Intelligence Unit | ECIU",
+      "region": "UK",
+      "section": "energy",
+      "published": "2026-11-12T00:32:50+00:00"
+    },
+    {
+      "id": "7fe437172f091cfc",
+      "title": "The 200-Page Problem: Using AI to Find What Finance Might Miss",
+      "description": "",
+      "url": "https://fpa-trends.com/article/200-page-problem-using-ai-find-what-finance-might-miss",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-11-12T00:00:00+00:00",
+      "summary": "Discover how AI contract review helps FP&A identify hidden costs, challenge assumptions and ask better questions before financial commitments are made.",
+      "key_points": [],
+      "summary_origin": "public article text"
+    },
+    {
+      "id": "e5983261c693e671",
+      "title": "Food Grade Ammonium Bicarbonate Market To 2035: Clean-Label Demand Supports Forward Growth - News and Statistics",
+      "description": "Food Grade Ammonium Bicarbonate Market To 2035: Clean-Label Demand Supports Forward Growth - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQenNJc1lrVUVJeE9iSk81TW9zUllyY0kxNlVnNDNFRFE0SGNMc1dBeWNMSTg5cGZRMmJRMmNIREJzc0FsVU04c2twUV9rYmpWSHFCLWxpeE5vVnlNdzNBV05YZnZJb2JaZlM5dzBUd1FpNzRNZW9YdHBzcm9yRE5ZM1Z2SWY1V2o1SnJXNWQ2d1BwaUJfZGhSeDM4ZzVibmZYeVRDTjVVODByelp0aVFhM0o0ZHhZbVlXNFBwTEZqbmdTOXA5SGFpM05WOFBmUGtSZl9PQV9EaHlNUQ?oc=5",
+      "source": "IndexBox",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-11-11T23:06:03+00:00"
+    },
+    {
       "id": "62ea34e473d42476",
       "title": "B2b Ingredient Market To 2035: Clean-Label Demand Fuels Forward Growth - News and Statistics",
       "description": "B2b Ingredient Market To 2035: Clean-Label Demand Fuels Forward Growth - News and Statistics IndexBox",
@@ -770,16 +797,6 @@
       "region": "UK",
       "section": "food",
       "published": "2026-11-11T22:46:03+00:00"
-    },
-    {
-      "id": "d76c49a069e51282",
-      "title": "U.S. Stocks Gain After CoreWeave Update Eases Some AI Concerns",
-      "description": "U.S. Stocks Gain After CoreWeave Update Eases Some AI Concerns WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSTdqZ1N4YjN6SEVTUTJHa3k1eTFDVFpTT0JhTGV2dHgyNHl2RHBPVlR1WEVZSWpVQTJhVElFRUxySzFKWWNIQUNuN0FYRURrUUJkQy1tZHBRNGRhMjZwd0Z5ZWhMQmphdU1OSThhNVFfdTA3RFJTcEQxWjBLWjJzWTdfYVlZdktJbHhuUVFGMHlsUjA1QWQtcTdYd0o1TGhia2Jj?oc=5",
-      "source": "WSJ",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-11-11T22:07:00+00:00"
     },
     {
       "id": "9d80ac4249be6da4",
@@ -792,16 +809,6 @@
       "published": "2026-11-11T22:00:00+00:00"
     },
     {
-      "id": "7054364a082b08a3",
-      "title": "Stocks end higher as CoreWeave results ease AI spending worries",
-      "description": "Stocks end higher as CoreWeave results ease AI spending worries Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGJ5bkNDcEt5YkZVaWdNQzhNVWRYSF9SUWZDY05Mc2lOMzRGeGw5N3BjZnJLeGl2ZmlmNTkzNGRBSU83OVFzeTltWHNDM3BDOUlrNmRUcUNfYjVTdi1WZXVjX1NjRjBuZGRIWDZoX3J3ZjJwMl8xVHNUUjJSdENTT0s2cy01WmdHenZwbG9IWmp3WVJN?oc=5",
-      "source": "Yahoo Finance",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-11-11T21:25:25+00:00"
-    },
-    {
       "id": "343f3020eaa4e0e7",
       "title": "‘Cleared for Takeoff’ in AI. Anthropic, OpenAI & Nvidia. ARD #204",
       "description": "‘Cleared for Takeoff’ in AI. Anthropic, OpenAI & Nvidia. ARD #204 AI: Reset to Zero",
@@ -812,16 +819,6 @@
       "published": "2026-11-11T21:02:31+00:00"
     },
     {
-      "id": "f202791238d205e2",
-      "title": "Box Compression Testers Market To 2035: E-Commerce Packaging Demand Drives Growth - News and Statistics",
-      "description": "Box Compression Testers Market To 2035: E-Commerce Packaging Demand Drives Growth - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWWN3UzRmOWFCQzFXbFJCSnJoT3hBdVBpbjNKZzlwU0pZN1BQRGVOVllpU3JzeWFBWnRYdE5Cb1c4aS0ycks1VGtsVjM1dElDakN4REZGUDhNRW9BUHgwa1c0UTBhUUNzLTY1bXdmazBjQ0lYNnVBX2lCVE5OZmZKS1YtM1pfTGNTSEo0ZFdnS0Y0aHpfejNBc0p2V1p1ZkMzQS0xZllhbmtlVGVwcENKUm4yMmlBQzkyeVprbWV3?oc=5",
-      "source": "IndexBox",
-      "region": "UK",
-      "section": "supply",
-      "published": "2026-11-11T21:01:04+00:00"
-    },
-    {
       "id": "f58d216e3bca4eb9",
       "title": "With IPO looming, Anthropic launches new AI models, workplace tools",
       "description": "With IPO looming, Anthropic launches new AI models, workplace tools TechTarget",
@@ -830,16 +827,6 @@
       "region": "Global",
       "section": "ai",
       "published": "2026-11-11T19:58:59+00:00"
-    },
-    {
-      "id": "813e1a5cb9c2154b",
-      "title": "Hydrogen-fuelled power generation: RWE and Kawasaki commence trial operations with 34-MW gas turbine in Lingen",
-      "description": "Hydrogen-fuelled power generation: RWE and Kawasaki commence trial operations with 34-MW gas turbine in Lingen RWE",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVWZsTm9MalBORXN2QXRqSWZVdldkbUszb29nd3VjN1hvWEpQQ2o2UW40S25LMFAyRGFITThEOHBfbWNHa2d6TV9VWlhoNkRCY0VhTGc2dFFteDUxMkp0MHFKbEFGZ01aU3B6QWMwWGdBdTg2d05La3NUeTVUVldPTVdBck95dEdtWHNrWlZyRHhPZmRTV2toY1liNkFfUktkVkRBaXJCZW5RZlIwWnRKd2RlQl9kUVUzNmNYcmNR?oc=5",
-      "source": "RWE",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-11-11T19:33:21+00:00"
     },
     {
       "id": "a8e3c6f7205cacc0",
@@ -902,6 +889,16 @@
       "published": "2026-11-11T16:11:54+00:00"
     },
     {
+      "id": "650f956bcf386c41",
+      "title": "Wall Street is cooling on Jensen Huang's Nvidia — but history says don't give up on the stock just yet",
+      "description": "Wall Street is cooling on Jensen Huang's Nvidia — but history says don't give up on the stock just yet Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcVFOR2J3MVVxbW16U3BQWHZaMzVwUGRMTkY4SUxxbXFvUDFvSldIRk5VMXUwVUE5QUdnbXBMbUVORHVESk5YUVZmUlo2NHZqc1pIUFAwazZnR2xyc0Nvcjl4WnVWX05xQXYzYzRlbnRBX0ZOX0loZ3ptR3NKS2lwN3AxYmNwdFo4Y0UyeFo2R214WUU3VU9OSjdrNGFzekxNSzlPRzNLRW83M3lRbGxpbERCWk5iTHpzOWpKZWloaGJJNjFEa1RqMm1LZ0Jab1lfVW5QME1fY3owdlpCQUxNcF9ETklWeDNfVi1laVNMN2E?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-11-11T15:53:45+00:00"
+    },
+    {
       "id": "a13705e427942b4c",
       "title": "Beyond China's shopping festival: How Singles' Day shifts from local to global retail barometer",
       "description": "Beyond China's shopping festival: How Singles' Day shifts from local to global retail barometer Xinhua",
@@ -910,16 +907,6 @@
       "region": "Global",
       "section": "retail",
       "published": "2026-11-11T15:16:18+00:00"
-    },
-    {
-      "id": "3f28ffb08f71d391",
-      "title": "First Shift: AI capacity and logistics technology reshape industrial supply chains",
-      "description": "First Shift: AI capacity and logistics technology reshape industrial supply chains Supply Chain Management Review",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSjNQcjJVNi1hNV9mMEZHUFAxaUJfaE5QSGZsRWxGbldnR2dCeUtGMXNhV05keVlBWUdoUXc4WXJmWVRfX2lsbFVUUkF4emRHOWtvMWRxX2IyZGhWb0hKWFpSOFdqbXZjdGUtMzZRVUpMTEdtVjdIRDQxVzdmMlVGTGZSbE9lQ2w1UGFoU0llM1VYN1N1OTM3cDF3NW9Fa3ZyTER6bjZQM1MyRjNvdWpZ?oc=5",
-      "source": "Supply Chain Management Review",
-      "region": "Global",
-      "section": "supply",
-      "published": "2026-11-11T14:21:00+00:00"
     },
     {
       "id": "ca151cd712709dd5",
@@ -952,16 +939,6 @@
       "published": "2026-11-11T13:06:53+00:00"
     },
     {
-      "id": "aa810916b9c1613a",
-      "title": "Fed Speak Turns Hawkish",
-      "description": "Fed Speak Turns Hawkish Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IdWlLOGc3aHQ4Nk9RYU52WE0xZGNFV25lT0sySmJJcFJQeFR4R2JfYXdZY3ZEVXcyN2k1WjhXcm96ZUdiUDV2REQyMlo0ZjhUU0l1OEVaVEI2VloyLTU1bHZLcWxkWXlqSU1KN01JYml5Zw?oc=5",
-      "source": "Seeking Alpha",
-      "region": "Global",
-      "section": "finance",
-      "published": "2026-11-11T11:56:12+00:00"
-    },
-    {
       "id": "e705da9fe540c1b9",
       "title": "Nasdaq Futures forecast: AI stocks rebound as Goldman Sachs, JPMorgan and Morgan Stanley assess market outlook",
       "description": "Nasdaq Futures forecast: AI stocks rebound as Goldman Sachs, JPMorgan and Morgan Stanley assess market outlook Beinsure",
@@ -980,16 +957,6 @@
       "region": "Global",
       "section": "supply",
       "published": "2026-11-11T09:02:25+00:00"
-    },
-    {
-      "id": "5832b2f8dc14d0a1",
-      "title": "Shopee and Lazada remove fake storefronts ahead of 11.11 sale",
-      "description": "Shopee and Lazada remove fake storefronts ahead of 11.11 sale Yahoo News Singapore",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUY1eklDZENqQ2w2Z3ZvTmdPeFlaM2ttTFZaejh0ZzI1bloxdjVlVVVERlZrQ3ZXR1dXNmtGYzRla2xaOGRQNDYtYURyRjlnOUs4Ni1vU3pXZnQ2b3JWU21lZXN2enk5M1RkbGxZeldYMVBCSlY1aDZjbkZpNGVMWUhkMUw?oc=5",
-      "source": "Yahoo News Singapore",
-      "region": "Global",
-      "section": "retail",
-      "published": "2026-11-11T08:30:00+00:00"
     },
     {
       "id": "3b8beadf60ffed86",
@@ -1072,6 +1039,16 @@
       "published": "2026-11-11T05:21:04+00:00"
     },
     {
+      "id": "64952c716886f7ee",
+      "title": "Google, Nvidia and Microsoft Join $26 Billion Anthropic Deal Ahead of IPO",
+      "description": "Google, Nvidia and Microsoft Join $26 Billion Anthropic Deal Ahead of IPO Open Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX2ZzZ3h0MFFJT2ZZMF9ZQjlxalMzYnZ6NkpFdkYzWnlsM3JRY3ppeTBwY2twM2hFT2J5SC1kX2U3X2RNY3dfdGZSWWhnTHBvX25yRmkyU2J0X3psdWFlVHl3Y2NuZTU3T2hNTkNOOEE4N2dNWU9jUThUOU1mYU0yY2hqU19TOEQ1RXotRW9BRC12dUhVQjBSQUY4YmczbHZvSkFDc29RNXFaX3Zi?oc=5",
+      "source": "Open Magazine",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-11-11T05:17:59+00:00"
+    },
+    {
       "id": "72a79ef0ccb5979a",
       "title": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending",
       "description": "Subdued sales for Singles' Day, China's online shopping festival, signal weak appetite for spending Audacy",
@@ -1122,14 +1099,24 @@
       "published": "2026-11-11T00:28:54+00:00"
     },
     {
-      "id": "74f6bf00445e214c",
-      "title": "China Trade Surplus Crests $1T Mark in 2026",
-      "description": "China Trade Surplus Crests $1T Mark in 2026 SupplyChainBrain",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUVoekFQeFE3YVdTQ3RnTlhwRzRib215NGxGcG9LWmRHVE9mOVM1YVlTMmhLX3I3eFdsQzRMQ3ZYR3lNVjg4SlJGdElVYlpvaUdleEl2d3lURURXdVNTdFVrWDNnd292ZW91cTIwbG0xVzQ0RC1lZHNRYlhNdVFsN0JSTU0zX1NGT2NOdVo4R0hVOTVVcjNEOFNkRWxKMkMxWnlFUDdTZDFUWFMxLVFZRVVIV2tpOWZKS3BXOUpxdG5mX1RoQnc?oc=5",
-      "source": "SupplyChainBrain",
+      "id": "d59987f15aa6a39c",
+      "title": "Oil Prices Rise 3% as Iran War Stand-off Persists - Energy News, Top Headlines, Commentaries, Features & Events",
+      "description": "Oil Prices Rise 3% as Iran War Stand-off Persists - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT05ScjQwX2cxMmpKblVhR2g0enp2S2RWWVZ4aXUyMGZJNUR3bkNwX0tCN1hTcXYzSUdTMlA5djVsQ0F6eE4wOTBfbHlnSUc0b0x2bXZ5UXZEOGhrYWhyVnJPcGJVWHZzM2hPSDB4bW1rMFp1NktuTEdjdDNaZngzX2l0aGVsQQ?oc=5",
+      "source": "EnergyNow.com",
       "region": "Global",
-      "section": "supply",
-      "published": "2026-11-10T18:45:06+00:00"
+      "section": "energy",
+      "published": "2026-11-10T23:13:01+00:00"
+    },
+    {
+      "id": "f8ff821a6143182a",
+      "title": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March",
+      "description": "Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1hxYUNYOVNkdlVySWM0cDd2VnBIOFY5MU56eWRhTzZvSjNBNDFjYzhzSnB2TS03V01tTUtRMU9pZURsaVdUR3BGa0VIS3VwMTA3QVR6ZWdEOGtyT1BNRUxqUXNyRnBsU2J1Mk10bjZtazlFelZCek8zSy1obXN5VzBGQlU3bnhzWHU2QU1xdGM?oc=5",
+      "source": "EnergyNow.com",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-11-10T21:44:05+00:00"
     },
     {
       "id": "32fac55fa6738ba9",
@@ -1142,16 +1129,6 @@
       "published": "2026-11-10T18:03:50+00:00"
     },
     {
-      "id": "4a8ba82a0383a235",
-      "title": "Cellular agriculture for sustainable and programmable foods",
-      "description": "Cellular agriculture for sustainable and programmable foods Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nM1FmMmNpQU5oZEZhNG1OWGNjajZOVFNuTTNyckZ1NFBzazlOdE5DQUxnZXh2ZENDZ3JFMTkzVnd4U01xa0ZVOHhyS181S2ZNUm1STFQzeW94RFdkSjBF?oc=5",
-      "source": "Nature",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-11-10T16:44:37+00:00"
-    },
-    {
       "id": "044f0977b9972eda",
       "title": "Small Food Manufacturers Tie Production to Wholesale, Retail and Online Orders",
       "description": "Small Food Manufacturers Tie Production to Wholesale, Retail and Online Orders Food Manufacturing",
@@ -1162,14 +1139,14 @@
       "published": "2026-11-10T15:44:43+00:00"
     },
     {
-      "id": "6232a5a0293f571b",
-      "title": "Storms and soaring costs combine to send shopper footfall sliding in October",
-      "description": "Storms and soaring costs combine to send shopper footfall sliding in October Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGZvUVROV3NSY1pjZXJaU0FSeFJvYWRsQ3c3Q2pITU5YcWE4NkMzdGFDODFmaWk5cm1UTkFTeklhdTh1ZEwxX0hnSGRpVm9vNGN2MTVFbkpmQTQtekRwY1BNS0IxaHV6XzZfT3RVU2RXUHhCZ0hBUE9MQlhITVBJeUw2VDZrSjMtNlE?oc=5",
-      "source": "Yahoo Finance UK",
+      "id": "4faa66aaba59af9b",
+      "title": "Oxford Street pedestrianisation delivers immediate boost to footfall and retail spending",
+      "description": "Oxford Street pedestrianisation delivers immediate boost to footfall and retail spending Public Sector Executive",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNk9xbjVwQkVCWGRYQnNDNDFZNUNXdlRiREZ4MjRIbDE1V0FzSlZVR3dpeUhNelhoMXZlUmNkX3VQSHl0TzM4blpWc1R2c2Z2ZlZlZzhJRVZ0V1V3NFBqd0k1RmptbEhSalNNVjRRSFAtUzFBbGxHZHJwTm1TU2N4akktMllCZkxPS3RXLURNXzJ3OWVJYmN3ckJON2NtQkQySUw5RGw2cWM1US10ckI0c0V6ZzU1Ni10TkhKSm9GM1dwaFhWNmpwUXN6SmM?oc=5",
+      "source": "Public Sector Executive",
       "region": "UK",
       "section": "retail",
-      "published": "2026-11-10T10:07:58+00:00"
+      "published": "2026-11-10T10:05:36+00:00"
     },
     {
       "id": "eac0d239e7fd1ce3",
@@ -1182,6 +1159,16 @@
       "published": "2026-11-10T08:01:00+00:00"
     },
     {
+      "id": "27153a3882bfbae0",
+      "title": "Black Friday dampens October trading",
+      "description": "Black Friday dampens October trading Drapers",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTWNHeDVuaWdjUEtmdl9UbWNNTFF1Z3haQ09aZ0RvNlJTQkV5VnZaMFZDR1NDWmtjbHR5aGttXy1sT09LMWNNSldtc1pWbndJX1lqT2NIbGpfVU5LQWRTS3RjZ3RTUjE5OElHdHdsZDZsNnZBYU9VQU0wWQ?oc=5",
+      "source": "Drapers",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-11-10T07:48:33+00:00"
+    },
+    {
       "id": "627f70a55eb9f67a",
       "title": "UK retail sales growth subdued as shoppers await Black Friday",
       "description": "UK retail sales growth subdued as shoppers await Black Friday Sharecast.com",
@@ -1190,6 +1177,16 @@
       "region": "UK",
       "section": "retail",
       "published": "2026-11-10T07:38:19+00:00"
+    },
+    {
+      "id": "03e8abd00d6c13b4",
+      "title": "Consumer goods companies rethink supply chain for a volatile trade era",
+      "description": "Consumer goods companies rethink supply chain for a volatile trade era RSM US LLP",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMm5fU25vSmZJalQtLVB1bnZEN3ZvMEg0NkNyWFlNc1VXTXFMNVJqNWpaN0V6WW1MTHNjSjgyUnRIUTd0QVhHTGNPeWNFN1RkUHlDUnBvN1E0U1NCMlpKejFyMHUxWXFja2lrV1lxelRxanU4SFdzdWt2TzRROTlySnIzRW13TlBjTFFmVHJVYnRzX1dsNzd1Tk1rbUxCVnJtR3JfRnFqVkhoNGdxZU5F?oc=5",
+      "source": "RSM US LLP",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-11-10T06:32:47+00:00"
     },
     {
       "id": "37dd3544255af52e",
@@ -1222,6 +1219,32 @@
       "published": "2026-11-10T05:00:00+00:00"
     },
     {
+      "id": "0c6fb5a4419746a8",
+      "title": "AI Does the Heavy Lifting, Business Still Owns the Decision",
+      "description": "",
+      "url": "https://fpa-trends.com/article/ai-does-heavy-lifting-business-still-owns-decision",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-11-10T00:00:00+00:00",
+      "summary": "How Finance can turn AI-driven time savings into better controls, stronger business partnering and accountable decisions",
+      "key_points": [],
+      "summary_origin": "public article text"
+    },
+    {
+      "id": "07b3fe41ae2282d4",
+      "title": "What Should Finance Actually Cost in AI?: Part 2 of 6",
+      "description": "",
+      "url": "https://fpa-trends.com/article/what-should-finance-actually-cost-ai-part-2-6",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-11-10T00:00:00+00:00",
+      "summary": "Learn how Finance can measure the true cost of AI outcomes, including architecture, retries and risk.",
+      "key_points": [],
+      "summary_origin": "public article text"
+    },
+    {
       "id": "4a25bf2b82efe1d4",
       "title": "Biomanufacturing promises to transform food production, but when will it deliver?",
       "description": "Biomanufacturing promises to transform food production, but when will it deliver? FoodNavigator.com",
@@ -1230,6 +1253,16 @@
       "region": "UK",
       "section": "food",
       "published": "2026-11-09T14:51:56+00:00"
+    },
+    {
+      "id": "807952f02789c565",
+      "title": "How will the midterm election results affect supply chains?",
+      "description": "How will the midterm election results affect supply chains? Supply Chain Management Review",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpdEhvTlV6TVJNLWxmeDB6WlZ4ZklWSnNZeXUxakw5WTZKdnBIZzVod3ZlRkNYMUhfazNZb04zTWtiTWZtQlptVjkzRlNLaHNCbnpTU2RjcHNpS2h6S1ZkRzlYaHY2MzE1RnJwUFlwdw?oc=5",
+      "source": "Supply Chain Management Review",
+      "region": "Global",
+      "section": "supply",
+      "published": "2026-11-09T13:46:00+00:00"
     },
     {
       "id": "00106b7549f5ddea",
@@ -1252,6 +1285,21 @@
       "published": "2026-11-06T22:11:18+00:00"
     },
     {
+      "id": "13bc81769cf29b94",
+      "title": "The Most Dangerous AI Is the One That Agrees With You - Part 1 of 4",
+      "description": "",
+      "url": "https://fpa-trends.com/article/most-dangerous-ai-one-agrees-you-part-1-4",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-11-05T00:00:00+00:00",
+      "summary": "AI sycophancy can reinforce flawed assumptions and distort forecasts.",
+      "key_points": [
+        "Learn how FP&A teams can challenge AI outputs before trusting their plans."
+      ],
+      "summary_origin": "public article text"
+    },
+    {
       "id": "bf80d59c7e333435",
       "title": "Third U.S. Bird Flu Death Since Virus Spread to Dairy Cattle",
       "description": "Third U.S. Bird Flu Death Since Virus Spread to Dairy Cattle JournalArta",
@@ -1260,6 +1308,32 @@
       "region": "Global",
       "section": "commodities",
       "published": "2026-11-03T08:00:00+00:00"
+    },
+    {
+      "id": "65adc9758502175c",
+      "title": "Why Token Counting Isn’t Enough: Part 1 of 6",
+      "description": "",
+      "url": "https://fpa-trends.com/article/why-token-counting-isnt-enough-part-1-6",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-11-03T00:00:00+00:00",
+      "summary": "Explore how model choice, infrastructure, retries and human intervention affect the true cost of AI",
+      "key_points": [],
+      "summary_origin": "public article text"
+    },
+    {
+      "id": "3b96e00e5255af81",
+      "title": "Your FP&A AI Prototype Works. But Can the CFO Control It?",
+      "description": "",
+      "url": "https://fpa-trends.com/article/your-fpa-ai-prototype-works-can-cfo-control-it",
+      "source": "FP&A Trends",
+      "region": "Global",
+      "section": "commercial-finance",
+      "published": "2026-10-29T00:00:00+00:00",
+      "summary": "Explore five practical safeguards for reliable AI-generated commentary, verifiable KPIs and analyst approval.",
+      "key_points": [],
+      "summary_origin": "public article text"
     }
   ],
   "prices": {
