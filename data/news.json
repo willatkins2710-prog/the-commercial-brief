@@ -1,16 +1,73 @@
 {
-  "updated_at": "2026-11-14T04:59:55.716402+00:00",
-  "price_updated_at": "2026-11-14T04:59:55.716402+00:00",
+  "updated_at": "2026-11-14T08:57:54.500458+00:00",
+  "price_updated_at": "2026-11-14T08:57:54.500458+00:00",
   "articles": [
     {
-      "id": "e8fa5f300e2539f7",
-      "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-      "description": "Global oil supply returns to surplus for first time since start of Iran war, says IEA The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNndNZUdKRnhDVGRkRE85YjZfUG1pUFd5NlVkbjBhbWZaTjZqZlRCU3RmMlBzR1ZjMmJpZi1jX2FvT01wbVc0ZDNaYm9YZUFTZm4wX29QQ3NLN0VpVS1CUjRBVm1GeWlHRk8yb1R4QkMySE5HUjdMUEM3OGVXdU5XM3lORndmX1RwRFdEbkZhalpnVmdONXhJYkR6bUpDZ2xfTXB1MlNuWDNFOGtPSFh0NzF0OWFYSjFBdU1hdVNqQnNSbUdMMi1JZW9vV1UwUQ?oc=5",
-      "source": "The Guardian",
-      "region": "Global",
+      "id": "c2b8d93e446656fc",
+      "title": "Could Comet return to the high street? New owner has ambitions to revive former electrical retail giant",
+      "description": "Could Comet return to the high street? New owner has ambitions to revive former electrical retail giant This is Money",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdy1GYUh4R3N2VGhOODZXMmpkSXVFVTFwSXJ5aGxiLXFPbFEweElnblJ3T2Z3WEoxQlU3UnJucE01aDJSeHJycmhndTRzSkFXcHhjN3A2THNSRFZXekZ4d1dVNEJaM25qSmN0T1l3Q3hkcUprQmtheHN4NjQ2THZ3ZkJWLWhiZlFyMFRVZFNYZlU0Z01MS2pzZjlpcDFrVlJCcjFNaE90ODM5WDRNczNRNm5KNTJFbk54d0RCbUVOQXBfQnFRYzljWGZzQ0lTeWJWaDFrNUhtMjhneEVDd3NRbVFQLVZNVDg2QlE?oc=5",
+      "source": "This is Money",
+      "region": "UK",
+      "section": "retail",
+      "published": "2026-11-14T07:00:46+00:00"
+    },
+    {
+      "id": "c8f25adb05dc6ff9",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "region": "UK",
+      "section": "economy",
+      "published": "2026-11-14T06:42:27+00:00",
+      "summary": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday Microsoft has said its services have been fully restored after a worldwide outage affected several of its tools, causing disruption.",
+      "key_points": [
+        "The tech firm said early on Saturday morning that efforts to address the underlying problem had been completed and customers using Outlook, Teams and Copilot should no longer be affected.",
+        "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users.",
+        "More than 430 million people use the affected products worldwide."
+      ],
+      "summary_origin": "public article text"
+    },
+    {
+      "id": "603a641d2ffcc166",
+      "title": "US to release 315,000 barrels of fuel oil to curb energy prices",
+      "description": "US to release 315,000 barrels of fuel oil to curb energy prices Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkF6OUJCRzhHMzVQUHE0LThRU21MSThSR3BEYXo4b3ZYdWRkRFlXVTZGalJYSllBSFdYa0UxOHVOZkNsdWdhazJmd0RBSmR4LXh5dGVUdEtMQUdhT2dNUDRtNnV1YlV4dEJDdjRYUkdwYWhLRmV5TjFyNFhkT2dkSDBHcG1XS1c3N1lUc1p6cDBfWU42ekZxeTk2ZUZldEI5NjhHam1oMWI?oc=5",
+      "source": "Anadolu Ajansı",
+      "region": "UK",
       "section": "energy",
-      "published": "2026-11-14T02:31:00+00:00"
+      "published": "2026-11-14T06:14:26+00:00"
+    },
+    {
+      "id": "56659f07a49995df",
+      "title": "Lidl's rejection in Bath mocked internationally but locals are less fussed",
+      "description": "Lidl's rejection in Bath mocked internationally but locals are less fussed Somerset Live",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1NkM0hXR1ItNUpUUHFvUmZfOXRMTDVqMWlUYkhnc1dhY2QteV9mUklfMXNjWDdaT1k5dXpqc2Z5bzFac3BsNkNiNE52U2tYeC1fM1ZjcGRDcXNJS2JrTGM5ay1FMy0zWkxMQ2k1ZFk5TkRQREVwcTNhU05kSmc2dUxwRTlTV1Noa0ZueEQyRFkxcjlDQ09wMnN5VWhXdW9HZFJUeg?oc=5",
+      "source": "Somerset Live",
+      "region": "UK",
+      "section": "supermarkets",
+      "published": "2026-11-14T06:00:00+00:00"
+    },
+    {
+      "id": "e9556c630e9085f7",
+      "title": "Greenock traders fear Aldi fence plan will hit businesses hard",
+      "description": "Greenock traders fear Aldi fence plan will hit businesses hard Greenock Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmRrQUpObWZiXzBKVGlpdTZWOFBZeHk2UHI1UzEydjJMYjIySEJHd2d5TmNNMldwdVktREJIZ1RjQXZPXzc2eDFmaXRBTjZCX3lVM0VHT0ktbU9wNVFwSVlXQzBhZWk0V2kzeklwdjNBZkZFbERmdjFid2tBSDRQU2tLN2NHWERsdXV1ZjYyOWJBaUJWX250LWdQb1NldUJFUkc3YUxuaUR4QQ?oc=5",
+      "source": "Greenock Telegraph",
+      "region": "UK",
+      "section": "supermarkets",
+      "published": "2026-11-14T06:00:00+00:00"
+    },
+    {
+      "id": "c73d85eaefc5c129",
+      "title": "GMO Labelled Food Market To 2035: Mandatory Labeling Rules Drive Demand Growth - News and Statistics",
+      "description": "GMO Labelled Food Market To 2035: Mandatory Labeling Rules Drive Demand Growth - News and Statistics IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY1FkaXEtYUNLdUIzT29mdnhFRU9CakpqZ1lFVkt0RmpGRkJBQ0l2bUM1bVJUOGVEUjFzLTVxT3BGN2tIejVGbHh1R1I5RW5fQU5KT1JDQnV3UVppTkg0WEpHSkpTRmg4WGJwY29GcHRfMGJpdDZaWUJBVFZlek9ySEY2aWRTcU1DeS1zNXV0dXd4RF9hQ1hnaWZvcGpWMGxuN2VhSHZrekY5N0gzYVRGSVlrVWtvM25FdEpMMmtiVQ?oc=5",
+      "source": "IndexBox",
+      "region": "UK",
+      "section": "food",
+      "published": "2026-11-14T05:36:09+00:00"
     },
     {
       "id": "daae45fe475b34c4",
@@ -23,21 +80,14 @@
       "published": "2026-11-13T21:27:37+00:00"
     },
     {
-      "id": "118631d96b8ada32",
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "region": "UK",
-      "section": "economy",
-      "published": "2026-11-13T21:14:22+00:00",
-      "summary": "Products such as Microsoft Teams and Outlook have been out of service for much of Friday Microsoft has said it is \"deeply sorry\" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.",
-      "key_points": [
-        "Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began.",
-        "Microsoft said it was making \"encouraging progress\", but added it does not know when services will fully recover.",
-        "The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users."
-      ],
-      "summary_origin": "public article text"
+      "id": "26751ad96b4d0a46",
+      "title": "After At Least 15 Years Of Debate, Kenosha Area Transit Proposes Bus Service To Somers Walmart And Festival Foods – Who Will Pay?",
+      "description": "After At Least 15 Years Of Debate, Kenosha Area Transit Proposes Bus Service To Somers Walmart And Festival Foods – Who Will Pay? Kenosha County Eye",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVFBKTE9NQzJCSnFWVFo0NU02X2QwbmFYWjlRREhSOXQ1ZVFpZERseTJVemZHbThCQXBCaFFseU96OF96cDdvZjNKQ1dVdTBtWUthdlh0ZUhRSFNueE5GaVhTZFJlNzBBT1ZGZ29tWi01OWN6b0ktbFFNbGo0eUNqRG92WHZoN1laLTBhbkhTZ0lZUlowaVBFem5xbVhvMzdCNUU3Y0pKX2M4cmRCb1VoY3FpajBFb1dDY1h2d0NQM19EOWxkeWZ0SnJQb3FRRXM5Yy1HOVBGZEdDTmxHc183Ny01Mjg4V2I1SklhMnFFb25jTHdqdVZibk5n?oc=5",
+      "source": "Kenosha County Eye",
+      "region": "Global",
+      "section": "supermarkets",
+      "published": "2026-11-13T20:42:16+00:00"
     },
     {
       "id": "bbfa9e3c375cb6cb",
@@ -146,16 +196,6 @@
       "published": "2026-11-13T16:30:00+00:00"
     },
     {
-      "id": "12406b6e1a545ccc",
-      "title": "Asda sees first food sales growth since 2024 as price cuts pay off",
-      "description": "Asda sees first food sales growth since 2024 as price cuts pay off AOL.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80cUhHVjBIeGpmRGhkdlM5cnpydnlsMjdaTTVJbmtFTjhfRTYtckhKeE1YMzZvQm1QRmN1NDRVQ3g1VnV4WXE3MWxJSzRfRUUyeGFEYWRkQ2VYd3RhQ1ZtYVFEcVM2eDg2bXhQa2Fqdmk5V2RBM1FIaFRZSEs?oc=5",
-      "source": "AOL.co.uk",
-      "region": "UK",
-      "section": "supermarkets",
-      "published": "2026-11-13T15:37:42+00:00"
-    },
-    {
       "id": "746af6038b6924d2",
       "title": "FTC Urged to Probe Companies Not Sharing Tariff Refunds With Consumers",
       "description": "FTC Urged to Probe Companies Not Sharing Tariff Refunds With Consumers SupplyChainBrain",
@@ -224,6 +264,26 @@
       "summary_origin": "publisher preview"
     },
     {
+      "id": "d1546e7939e8e2e2",
+      "title": "Bank of Georgia Group PLC (BGEO.L) stock price, news, quote and history",
+      "description": "Bank of Georgia Group PLC (BGEO.L) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wZXdDY0R4dEdkYXlmQmxCczh5Rk1Ib2FtYjVVcm9kcUJvWXlIMDd6QzhQSW5odVBTRjM3ckFNV01Gd2UyR3pHVFNPaWZjVjBXdHI0bA?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-11-13T13:57:22+00:00"
+    },
+    {
+      "id": "09b317e8c6033a69",
+      "title": "Oil prices fall on easing supply concerns, weaker demand outlook",
+      "description": "Oil prices fall on easing supply concerns, weaker demand outlook Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzVVN1dWVjFHd2tBSm1PSVpWMWRBN1lsRnhtYTg4ZmVxZnJZLUdqU211NWVqYXRxUmVRNGFpZFZSeW4zTWJtWXA0RjNqQUJtLWFpaEtsbmZyVjl2N1JfenBWcHhCal9TUVBxZTJfXzFiTUNMWmxWSFFKNU1WYWxDa3hONDFvXzJiemZ0M0RIRjltVGFrVmw4emVFNFdHcEx0SlV5V25hanDSAbABQVVfeXFMTTBncVZwWXR1Ql85Q1B0SHlPM1RMTEUxWDZ3NHNTbkxXM2FxOWoxNG85NFdiQ1oxVHZsSHdVRUtWRm8wa3podUZ1OHpuUUFOU1JuczVvOTFUOFpITDl2aDZqeGRlNDJuRDVpT3JXSWtrc1pqX0VVTWN0akVqbVJSWU15aGFsMjZPOEFzQlI1Y3FVeTVmOUhmUVBuZE5kZ1ZpRGh1RHNKUG53Wm0xU1o1dE4?oc=5",
+      "source": "Anadolu Ajansı",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-11-13T13:56:18+00:00"
+    },
+    {
       "id": "a12d58bde483893e",
       "title": "China Plus One Strategy: A Guide For SMEs",
       "description": "China Plus One Strategy: A Guide For SMEs DHL",
@@ -242,16 +302,6 @@
       "region": "Global",
       "section": "supply",
       "published": "2026-11-13T13:29:00+00:00"
-    },
-    {
-      "id": "7a13d5432a0454fa",
-      "title": "Asda and Natwest hit as Microsoft outage sparks ‘bad day for UK PLC’",
-      "description": "Asda and Natwest hit as Microsoft outage sparks ‘bad day for UK PLC’ City AM",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzlGbExXY0luU1JCNXJfQ2dLMzNzOTFUem9VRjE0ZHI5Z1gtMFFHamxCLXpQNnNSNHdpQzB0anNoZGwwX3dZbmJ2NHpEVE0tOFp3WFdoYjZUc2xrQ29sNFcyWWY4ZjdBOEY0dDdCeW5QUlRHckVINjNrZUpBcHREbUJ1ZmtLak5Ybmg0VFROZVpmelk5?oc=5",
-      "source": "City AM",
-      "region": "UK",
-      "section": "supermarkets",
-      "published": "2026-11-13T12:50:15+00:00"
     },
     {
       "id": "3ab07e07efbe725d",
@@ -306,6 +356,16 @@
       "summary_origin": "publisher preview"
     },
     {
+      "id": "0490fc2a15a6c823",
+      "title": "Amazon's $5.7 billion store quarter is the small part of its retail push",
+      "description": "Amazon's $5.7 billion store quarter is the small part of its retail push MarketScale",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnlGZXc4emExSmN5Qk5pb0k3cXBaaXc1dEtkazdVMTA2LUVITnQxaV9TNmlGUTIyUTVmY2VRX1RETzhiMDVJUHNnR1JCVEZ5LUtGa19nNGhNcHVBU3NjSV9mS0xQUmhOa3lDZlFqaVQtRGxvdmlNZzRHNkFneHJMQkVTSm1US2FWNlJsUHNzb3l1RjRPME5IeWx3RXhuOTlWQmdTenRiLVM1NW5SM0FSdWZOcUI1Zw?oc=5",
+      "source": "MarketScale",
+      "region": "Global",
+      "section": "supermarkets",
+      "published": "2026-11-13T11:35:51+00:00"
+    },
+    {
       "id": "a5f2753927c2e17c",
       "title": "Amazon plans to own international product data, battle AI shopping agents",
       "description": "Amazon plans to own international product data, battle AI shopping agents The Jerusalem Post",
@@ -314,6 +374,16 @@
       "region": "Global",
       "section": "retail",
       "published": "2026-11-13T11:24:46+00:00"
+    },
+    {
+      "id": "1d32a5d86ea67c90",
+      "title": "Global Microsoft outage disrupts banks and financial markets; Nubank reports 31% increase in Q3 profits",
+      "description": "Global Microsoft outage disrupts banks and financial markets; Nubank reports 31% increase in Q3 profits TheBanker.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14UDdlQmdmS01kVUJPd1JpYzRDU0djbVM1aXNieHIybHNBSlBXZTV2dFBWa3hWamMwcUNKYXktQ0Y2R3dyTlVNTUpjMkRZWXZVR25heXdoRXRiS0VrSEhqNEFwcmxOTGo4cFJ0ZldzUHhnY1k4cFNnYXRB?oc=5",
+      "source": "TheBanker.com",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-11-13T11:20:55+00:00"
     },
     {
       "id": "c1877a51b1dd91aa",
@@ -338,16 +408,6 @@
       "summary": "The outage began yesterday evening, caused by what Microsoft called an ‘elevated load’ on its infrastructure when a large number of servers became ‘unexpectedly unavailable’",
       "key_points": [],
       "summary_origin": "publisher preview"
-    },
-    {
-      "id": "9fc355c51754ba2e",
-      "title": "This surging UK stock has a 5.2% dividend yield and P/E under 7 — it’s tipped to rise up to 13%!",
-      "description": "This surging UK stock has a 5.2% dividend yield and P/E under 7 — it’s tipped to rise up to 13%! Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93TGRDc2pkdC14ejltWFF3dDRVdHM3NER3ZzZqRGJLWmQ0QkdFTWdKRElpaXROa2JWZ09KdzNsY3RoSUY4cjRtX3o3cXdWLTlsVzVzVmZja2FiMG9UX2gtWVZWU25HeGNmQmxxOUFlS0Z6NElyd2dtbg?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-13T10:25:27+00:00"
     },
     {
       "id": "13a3b903ae2418e8",
@@ -448,16 +508,6 @@
       "published": "2026-11-13T09:15:01+00:00"
     },
     {
-      "id": "0ee8a142c2ae40a0",
-      "title": "Impinj Sees Unprecedented Food Industry Interest as Kroger Expands RFID Deployment",
-      "description": "Impinj Sees Unprecedented Food Industry Interest as Kroger Expands RFID Deployment TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeERDajNtTDlvQ2cyTWtpYUZuZ1FlXzE1QkpHaUktMEowcjFBNHZMTk5Rald3U2t3cXNXTXBVcTRkX1h1YVg3RWkwXzJVeWVNbUhodnNidWI3WkxHOFZWUFJSdk5jc3BJU21XaUY0SE9HMWEteUdVbUZmWVJwM2sxUmw5OHhrMjk0dHoyTHhOLTR1WnlFdmxWLWR2aGV3Z3NWVFZQX3kyNl8zWWNWdzBwVjZLangtVEJheWpmVUFGNmtsaHA0ekQzSjV1RHVZTUFHckMtSl9zOUdJQnc?oc=5",
-      "source": "TradingView",
-      "region": "Global",
-      "section": "supermarkets",
-      "published": "2026-11-13T09:14:56+00:00"
-    },
-    {
       "id": "3621d11978e63056",
       "title": "Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside",
       "description": "Microsoft (MSFT) stock price forecast: Wall Street analysts see 22% upside Beinsure",
@@ -556,16 +606,6 @@
       "summary_origin": "public article text"
     },
     {
-      "id": "0490fc2a15a6c823",
-      "title": "Amazon's $5.7 billion store quarter is the small part of its retail push",
-      "description": "Amazon's $5.7 billion store quarter is the small part of its retail push MarketScale",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcnlGZXc4emExSmN5Qk5pb0k3cXBaaXc1dEtkazdVMTA2LUVITnQxaV9TNmlGUTIyUTVmY2VRX1RETzhiMDVJUHNnR1JCVEZ5LUtGa19nNGhNcHVBU3NjSV9mS0xQUmhOa3lDZlFqaVQtRGxvdmlNZzRHNkFneHJMQkVTSm1US2FWNlJsUHNzb3l1RjRPME5IeWx3RXhuOTlWQmdTenRiLVM1NW5SM0FSdWZOcUI1Zw?oc=5",
-      "source": "MarketScale",
-      "region": "Global",
-      "section": "supermarkets",
-      "published": "2026-11-13T02:21:11+00:00"
-    },
-    {
       "id": "3ef395e6e63bd33a",
       "title": "Walter’s Watch: Stronger GDP fuels rate rise expectations",
       "description": "Walter’s Watch: Stronger GDP fuels rate rise expectations Mortgage Soup",
@@ -594,16 +634,6 @@
       "summary_origin": "public article text"
     },
     {
-      "id": "bd3b22cfb8ebe8c3",
-      "title": "Economics, not climate summits, will dictate the net-zero transition",
-      "description": "Economics, not climate summits, will dictate the net-zero transition New Scientist",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ3hYaG43dFRwdFVIZ3hqYXh2VlBjWk5ra282UkczTE4yY1A3S1haT1VLb3luM3lYREdXMU5mVDhTbEUxNWdvazVRUnRNU1BjVUVYTGFCaHRtaWQ5eGRoU0U1ZVowUjJyTUk0Nm5RVW8zWWRnZFMwbWhmLUtnMkQ2OXhSQThUUVhCTVkzSXpKaV9SeEdOeGhnc1FVZk8teWpXMWZGdXduRktHeFNlZFVoVnpn?oc=5",
-      "source": "New Scientist",
-      "region": "UK",
-      "section": "energy",
-      "published": "2026-11-13T00:13:44+00:00"
-    },
-    {
       "id": "ecb868e650f8585e",
       "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
       "description": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
@@ -620,16 +650,6 @@
         "But experts warn it can go too far and mislead prospective buyers - a trend dubbed \"housefishing\"."
       ],
       "summary_origin": "public article text"
-    },
-    {
-      "id": "8b3ad70e3667d9f1",
-      "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-      "description": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit? The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYURWRHQyOVoxd0RRQU1TWVVwYmpoclgtMUlmc1lfOFlBdkw1aDk2QU5qbFZFSVdyWmlkQzdBUFZyYnRzNVhILTktN1hvei03UGxQeExaQmN2RDE2eTdoSXl2QlhqZkUxYkhRMWEyQlc3RXVGTTR1Y3pkeXFZWklsdndqT1d1cHBHSGNZMDE5UQ?oc=5",
-      "source": "The Guardian",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-11-13T00:03:00+00:00"
     },
     {
       "id": "ff256299bab9492a",
@@ -660,6 +680,16 @@
       "published": "2026-11-12T21:54:21+00:00"
     },
     {
+      "id": "115d1fd883dfa94e",
+      "title": "SpaceX-Tesla Merger Could Come Soon: What Do Shareholders Get?",
+      "description": "SpaceX-Tesla Merger Could Come Soon: What Do Shareholders Get? Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW9aemx6Rjkyb1pDcmpWZ3U1Y3RvY0pwczNrSlQ1TTFCN0FOV09GME9HTnh0Y0JfWC1LaTJibXFBS0ttelo2bkVHSmh0M1U2U09jU1JYdDdGZWdVYlFmQnJqbWh1UUlLT3Z2NktSRjlpNWhwZVFJLVdkUUpqazlKWUVJNVFKb1FtM0Q5bTRPbzZjc3JGRVpJMURwcw?oc=5",
+      "source": "Yahoo Finance",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-11-12T21:13:08+00:00"
+    },
+    {
       "id": "1bcd8c56d90549c7",
       "title": "Wix (WIX) Beat Revenue Estimates But Here’s What Bank of America’s Michael McGovern Is Worried About",
       "description": "Wix (WIX) Beat Revenue Estimates But Here’s What Bank of America’s Michael McGovern Is Worried About Yahoo Finance",
@@ -678,16 +708,6 @@
       "region": "UK",
       "section": "economy",
       "published": "2026-11-12T20:31:02+00:00"
-    },
-    {
-      "id": "93c75bc3801312cb",
-      "title": "US nonprofits sue tech giants to halt AI development",
-      "description": "US nonprofits sue tech giants to halt AI development Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzh3Xzg0ek1tUjktMHMxV1pIR014ckFIT202VFUwTGpDMC0tOWZKaFRkQVg5UzkzaE9VWVVxcnFpclVOU05PZElkMUJXT19qS1NQTE5UbUFPMUFnRDVTeW9oUkpSbkFMcy02WUZwRm44eVV4ZGJNMGxjaEM0TGZ1cVgzejFmaU1sc1diV2R6UDlMZTB1UnYzcXpR0gGfAUFVX3lxTE96N2UydjlyZ3Vmbm9RemR1SGxrMjdQRXFOQ0ZHaUFxOHVlRmVoR3dHV3poMUtuSnNVWEtVWFlpR3RubjRNTkxPVkxSQ1lRNkZsbmozcVYydWRjaTBwM0M1Y21SNWVZNFRzSkZtYVM1OTV6VDFFZkhkSWxyT3BEakZMRkMzeEpzNVhBcXBpY3hIOUw1WlpBMlZLLWpieTZlUQ?oc=5",
-      "source": "Al Jazeera",
-      "region": "Global",
-      "section": "ai",
-      "published": "2026-11-12T20:24:22+00:00"
     },
     {
       "id": "b2ddae4c7a2d5d74",
@@ -710,6 +730,16 @@
       "published": "2026-11-12T19:36:33+00:00"
     },
     {
+      "id": "8c4024ac4333de4d",
+      "title": "Nvidia Without Huang: What Happens to His Bets on Open Weights, Circular Deals and China",
+      "description": "Nvidia Without Huang: What Happens to His Bets on Open Weights, Circular Deals and China www.trendingtopics.eu",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGJiT2xGeUFzMG1tMVozVDN2SmpNZWFqNHdrUWJEV1NWSjFDYk5rMTg4ZHplTHBZbGJuR2ljcU9MenRGMFBzaHd2azg3MVV1U3JMSFBrMlZrNzRrem1XSEtJTTBMUkpBanlmaWZOQVNQbmpNZ1R0U29udTd4MXVidVVSeG9FSWNKdnRXQUd3?oc=5",
+      "source": "www.trendingtopics.eu",
+      "region": "Global",
+      "section": "ai",
+      "published": "2026-11-12T19:36:28+00:00"
+    },
+    {
       "id": "623cd16ddec68afc",
       "title": "Nissan Reports Tough Market Conditions in China",
       "description": "Nissan Reports Tough Market Conditions in China SupplyChainBrain",
@@ -720,24 +750,14 @@
       "published": "2026-11-12T19:31:46+00:00"
     },
     {
-      "id": "b3976563850a1669",
-      "title": "Chicago Terminal Market Onions and Potatoes Prices - November 12, 2026 - News and Statistics",
-      "description": "Chicago Terminal Market Onions and Potatoes Prices - November 12, 2026 - News and Statistics IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDh4T2RxZG44cXlUQk5TVzBoVWgydTYwLXd6cHRMWDBaRFlEOHFQSTlqbmlGalRodDUzRzR2THA5WGVPRVFtLTJwVllqTFVaUVQwR2w4TVJpVWxnWm1wd2tiT3RNcjNBbGpKMENmUkZIZjF6RFNaYVRuZEIzMW50V2VkU0VGcWJFMVQ4cE5kaXprR1FYSjI2RDU4R1hLLWFsUldz?oc=5",
-      "source": "IndexBox",
-      "region": "UK",
-      "section": "food",
-      "published": "2026-11-12T18:50:52+00:00"
-    },
-    {
-      "id": "69ee886d7d861a1f",
-      "title": "Energy predictions from the federal government",
-      "description": "Energy predictions from the federal government Oklahoma Energy Today",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckwzN2NtcldQWWNfTGJydjFkQzZvTTFOS1FJMDJiYzFmRXpPWnNrQ1dqMkFNWVAzVTJZa3RYZy1VcHA2dVUzWVdQRWQzNFZYejk5ZnQ3MnBQLUVlQ21Lc1ZCVUZoLUVHMmpWWHptREI3dVB0b01LTWtGWXplWnpBNzZWamxXZ3lB?oc=5",
-      "source": "Oklahoma Energy Today",
+      "id": "cbaa835022bec2ed",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "description": "Jensen Huang’s exit puts Nvidia’s support for open source in question TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ00wRE82ajVPcnM4WGxFRmd0bWdsLWlIdWN0RWxXMmJ6Y1A3b3FxNXRlTGRPWUdKbUZjS2o4U29GNFN0N1ZDLVRlN081RlBYLTVkR0NlQ1ljY01PakVXcGhMQjg0dGhPSWVqRUdKN0VBR05HNjVVOGVOOUNTM3V5UEhWMnhYdWRNZDgtVXNhZ0hLNmxvMU44eXhKWHFmR1ZnQ3FUZw?oc=5",
+      "source": "TechCrunch",
       "region": "Global",
-      "section": "energy",
-      "published": "2026-11-12T18:43:11+00:00"
+      "section": "ai",
+      "published": "2026-11-12T18:39:23+00:00"
     },
     {
       "id": "b02fbe075d80358b",
@@ -830,6 +850,16 @@
       "published": "2026-11-12T14:36:00+00:00"
     },
     {
+      "id": "3a9f813166b01a61",
+      "title": "VTB Bank (public joint-stock company) (VTBR.ME) stock price, news, quote and history",
+      "description": "VTB Bank (public joint-stock company) (VTBR.ME) stock price, news, quote and history Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5POVlfUVhUQ2JjN21GNTBwSWUtdi1BNEg5bHJWYnhTV01sYUtLbFFPemJ0aXJRUHZvRVhvZm9zRWstR05rQVM0S2RwSzRQVTJFLWJNelNn?oc=5",
+      "source": "Yahoo Finance UK",
+      "region": "UK",
+      "section": "finance",
+      "published": "2026-11-12T14:20:54+00:00"
+    },
+    {
       "id": "9c52cf2464be9b88",
       "title": "European Stocks Reach Record Highs as Corporate Earnings and UK Economic Growth Support Markets: DAX, CAC, FTSE100",
       "description": "European Stocks Reach Record Highs as Corporate Earnings and UK Economic Growth Support Markets: DAX, CAC, FTSE100 Yahoo Finance UK",
@@ -840,14 +870,14 @@
       "published": "2026-11-12T14:16:35+00:00"
     },
     {
-      "id": "b2694af8b54ebd81",
-      "title": "BRC: Sharp Drop in Retail Footfall in October",
-      "description": "BRC: Sharp Drop in Retail Footfall in October Insight DIY",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUhWbklrNjBoRC14WEhFdlVaaDZ1dmVsUTJKYkJ6NDdkWWFKaHA1Z3RrWWJBbXRuaGFkaElUSGJnRnBCZGtLU3Vqc183ZGxhZVBkVEcwcWUxdVd3SFFZbHJISUdyYktOMUx0X3NUblJ5N0hxek1SS05JVWNXYk82YkJPaHZGbG9PYTJoRk9zS0d2UQ?oc=5",
-      "source": "Insight DIY",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-11-12T13:10:23+00:00"
+      "id": "cc68cc02188ce3db",
+      "title": "Divided Government Is Back: 4 Steady Passive Income Dividend Stocks to Own",
+      "description": "Divided Government Is Back: 4 Steady Passive Income Dividend Stocks to Own 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXdVNTEyT1QwR3JTTURqVng3TExyYXN3bWNta2N5S3hQLWJRdmRyN3VTdlFoMGdMbVNvRG03M3N4NXNhTVBkaUhKUmhISUMxRWNUTGZtd1BzSjdhbEd0WGtqZWI3al9idWxhQndwczl4bUgyY1J2UHAtZ0tOeUhHYy1uRHhrZGVLcnNxM0NuUHlaNjYwTFQ3dXo5THVTSVBlREt0ZFV1MjFydFFONWpUVjRtWHBUd1NL?oc=5",
+      "source": "24/7 Wall St.",
+      "region": "Global",
+      "section": "finance",
+      "published": "2026-11-12T13:23:00+00:00"
     },
     {
       "id": "990cf45fe11cda15",
@@ -880,16 +910,6 @@
       "published": "2026-11-12T11:45:18+00:00"
     },
     {
-      "id": "640afb182161381e",
-      "title": "AI Spending Drives UK's Fastest Economic Growth Since 2024",
-      "description": "AI Spending Drives UK's Fastest Economic Growth Since 2024 Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1lrQVF2aHBxdDd6ZFh0S29wMXhkSTlWR21ablZXS1dKMTVyT2M5LTBveE9ORURzR1RJWTA0cVl3cGItUmpKc2pxNmdHSGJtMU9IX3dETHVmNXVkUGN2TEpXcjA4NWRXdmFGMWlpTGhPWGdteUpiZkJKVFdDUThOUkE4NmZDUQ?oc=5",
-      "source": "Global Banking & Finance Review",
-      "region": "UK",
-      "section": "ai",
-      "published": "2026-11-12T10:51:24+00:00"
-    },
-    {
       "id": "8e63d3f60aa11e8f",
       "title": "Helio Intelligence appoints Andrew Rashbass as Chair",
       "description": "Helio Intelligence appoints Andrew Rashbass as Chair IT Brief UK",
@@ -918,16 +938,6 @@
       "region": "Global",
       "section": "supply",
       "published": "2026-11-12T10:07:04+00:00"
-    },
-    {
-      "id": "171ee683881cb5b3",
-      "title": "European Stocks Reach Record High as Corporate Earnings Offset Technology Sector Declines: DAX, CAC, FTSE100",
-      "description": "European Stocks Reach Record High as Corporate Earnings Offset Technology Sector Declines: DAX, CAC, FTSE100 Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHBLUFZvcFE5bjYzRkpSMjJ5STJqVjlDOFd6VWpzQzdTME5XTDdFbmlaNW05cFJOeG01RHRVak1sT3BQYk5ob1UyWmg1eEFKZjRBOUw0WFd0WUFwOG1MWTUxd2Z2NGhBQjE0NUV1MUdXQ2ZrQ0xpczJZbkxzbzhBOF9EZ201OW9MTGc?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-12T09:45:58+00:00"
     },
     {
       "id": "38ca6ec91800f4fa",
@@ -968,16 +978,6 @@
       "region": "UK",
       "section": "supply",
       "published": "2026-11-12T08:55:00+00:00"
-    },
-    {
-      "id": "f5ad2e7d80d881ed",
-      "title": "ICICI Bank Limited (IBN) stock price, news, quote and history",
-      "description": "ICICI Bank Limited (IBN) stock price, news, quote and history Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EaUlLVUM3SjRHZTN3MHo5Q3JlWGVtaTdnTENMVnVpVURlUDVway16ZVJhLWE1bmdwREgtREZfSTVVdk5Ka2xwdURQenFCV2ds?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-12T08:51:45+00:00"
     },
     {
       "id": "421a3ee7ee74f449",
@@ -1070,26 +1070,6 @@
       "published": "2026-11-12T02:30:00+00:00"
     },
     {
-      "id": "9d8fc9e8826674fd",
-      "title": "NVIDIA Corporation (NVDA) stock price, news, quote and history",
-      "description": "NVIDIA Corporation (NVDA) stock price, news, quote and history Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81OEFKQTktenlhclpBTlVtWEJqNVpKOVNWNlRaNlRDRnR0dHRielpfZXdtR0pXcUcyNDN1WTlzOWVrWXZTNVhTbEVIOUxEaklxVWc?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-12T02:12:30+00:00"
-    },
-    {
-      "id": "23b87849933b4c47",
-      "title": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history",
-      "description": "Deutsche Bank Aktiengesellschaft (DB) stock price, news, quote and history Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NMmQ5V1p6Y0dwNFptbkR1QVcxNGVVTGFFSDBKMDZjMEYtdm1yVTY4UGhtblZJaXV6UU1xTTdsal9PWE8xR0NrbW42RzZyVWs?oc=5",
-      "source": "Yahoo Finance UK",
-      "region": "UK",
-      "section": "finance",
-      "published": "2026-11-12T01:58:40+00:00"
-    },
-    {
       "id": "d944e0f53cc76104",
       "title": "PM at COP: UK ranks 15th in G20 on electrification, day after reported Ministerial meeting to weaken EV targets",
       "description": "PM at COP: UK ranks 15th in G20 on electrification, day after reported Ministerial meeting to weaken EV targets Energy & Climate Intelligence Unit | ECIU",
@@ -1134,6 +1114,16 @@
       "published": "2026-11-11T21:02:31+00:00"
     },
     {
+      "id": "a8e3c6f7205cacc0",
+      "title": "EIA sees Brent near $100/bbl through yearend 2026 as Middle East supply constraints persist",
+      "description": "EIA sees Brent near $100/bbl through yearend 2026 as Middle East supply constraints persist Oil & Gas Journal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcHJRckFJanZLU2JfVUgyczJGazUwMXJIcXBDZlk5WnNGc25UeVdrWVNWQzE3bjY3TnNSV2tZWktCbjYzYnQ0WGtEYmxEMVktU2thR3pZNnprNlNHSFhfMzJaSWx3dzQwdm1NazFYQ2RFRjcxbUZlZzByUDBLWmpOLW9QalFVODdDbS1NQnRvUGtYaktWcXhBOXMzbkNCNHJ5RFNGcndqQTFOb0ZxSThQdmVvekxTeTJocmw2VERVSE9hOVdXQXAzay1keEJuRl9iU09aZklGaHk1cFR5QXQ2MU9XbEt5aDFpLVZLRG9VbUg?oc=5",
+      "source": "Oil & Gas Journal",
+      "region": "Global",
+      "section": "energy",
+      "published": "2026-11-11T18:39:33+00:00"
+    },
+    {
       "id": "6ab8601aaf764b32",
       "title": "Descartes releases November Global Shipping Report: U.S. container imports hit record volume in October",
       "description": "Descartes releases November Global Shipping Report: U.S. container imports hit record volume in October American Journal of Transportation",
@@ -1152,6 +1142,16 @@
       "region": "UK",
       "section": "food",
       "published": "2026-11-11T16:47:15+00:00"
+    },
+    {
+      "id": "342ab93c590238b4",
+      "title": "SaaSpocalypse Now - Nov 2026 | Investor",
+      "description": "SaaSpocalypse Now - Nov 2026 | Investor trustintelligence.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3M4WEg5WTZnbUhIVjBjYmxhMS1hUjA1T1RPWnBZaWlsX0FlbHp2eGU5TmFqTzNSUFRlWlJhNFVic0hkNE51dHVuWFBzZTJ2NTFodElZS2tWc29tbzZHVGlUZWdyR1pVd0toT3V5Rzl6V0tPVlZWV2t2YWRTRzZHTU9LeVZjUUs2ZktORXFuNVVnTDJBS09KOWZ1c1FaeEFRN3hpTG9iUTI?oc=5",
+      "source": "trustintelligence.co.uk",
+      "region": "UK",
+      "section": "ai",
+      "published": "2026-11-11T16:46:12+00:00"
     },
     {
       "id": "a13705e427942b4c",
@@ -1204,14 +1204,24 @@
       "published": "2026-11-11T03:42:00+00:00"
     },
     {
-      "id": "0b0cadbeb660a455",
-      "title": "China’s Singles' Day shopping festival struggles to shake off weak consumer spending",
-      "description": "China’s Singles' Day shopping festival struggles to shake off weak consumer spending Audacy",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMFpVVW94NkpyWi1hb3BPZnhFQlUtLTlWaW1LaHR4c3I3T0ZOdkFsWm1lNjRCTXgtSXNDVDJ3ajZ2NkExZlg5aVBiSVJRd1N5Zk5UOFpfTzNpX3ZvSDdIVG1lNkVFdG0tSmV2N1g1ZVlTVFNHdzRTajZ6ZnJ0M0VCVTlBal9id3lLU3hya01Qd3BTeWQ3R29mTVY2d2RhNjAxVjlRSFRIM1l5VjBmaVJoU18yWDZla3Btc2hsaWxkUQ?oc=5",
-      "source": "Audacy",
+      "id": "63af1898dcdecbba",
+      "title": "China’s Singles' Day Shopping Festival Struggles to Shake off Weak Consumer Spending",
+      "description": "China’s Singles' Day Shopping Festival Struggles to Shake off Weak Consumer Spending U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQN0lPancyWFVfSTNqYnRGUWNFdFI5LWVtTjRRTlhWZVNBTjhNWXNlaS1KOVFMOUxVaV9JZmx0dmg1X2VRaTR0UThGdnpQc1hzZ0cyUnZaR3ZUS3pqY0FKVDRndzRvc0ZLN2h1bEV0VDgtRzJ1WDNOdmh5cVZFemdvYVdFQnBCMUF4LVJDal9KNUc0alNQWGhaUC1PZDZvT0IwSHBLSHpzOU1uazJkTEh1WVFNdUhyckNBVGtuTS01U3NFcEZQQXE5NDE1MzIwbjZFclByQVFWalMyMF9nbTNpcUI1NTVvRjg?oc=5",
+      "source": "U.S. News & World Report",
       "region": "Global",
       "section": "retail",
       "published": "2026-11-11T03:42:00+00:00"
+    },
+    {
+      "id": "39b1003ee0e04abe",
+      "title": "Navigating Global Ecommerce Sales Trends",
+      "description": "Navigating Global Ecommerce Sales Trends Small Business Trends",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40QXMwb3B5Qm9RQjFpTGJjMWJxWjNXeDRMSW1rLWg4NTc0NkRhSnNaT3lCSV9mTFJyaDJGWWtpS0NTTk41WHVOMGJIdnR1X1E3blpVOVBEdm5ZR0FSdnhJ?oc=5",
+      "source": "Small Business Trends",
+      "region": "Global",
+      "section": "retail",
+      "published": "2026-11-10T19:31:00+00:00"
     },
     {
       "id": "32fac55fa6738ba9",
@@ -1234,24 +1244,14 @@
       "published": "2026-11-10T15:44:43+00:00"
     },
     {
-      "id": "6232a5a0293f571b",
-      "title": "Storms and soaring costs combine to send shopper footfall sliding in October",
-      "description": "Storms and soaring costs combine to send shopper footfall sliding in October Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbGZvUVROV3NSY1pjZXJaU0FSeFJvYWRsQ3c3Q2pITU5YcWE4NkMzdGFDODFmaWk5cm1UTkFTeklhdTh1ZEwxX0hnSGRpVm9vNGN2MTVFbkpmQTQtekRwY1BNS0IxaHV6XzZfT3RVU2RXUHhCZ0hBUE9MQlhITVBJeUw2VDZrSjMtNlE?oc=5",
-      "source": "Yahoo Finance UK",
+      "id": "737985052724ef5b",
+      "title": "Card spend growth reaches 15-month high in October, as shoppers budget for Christmas but still make room for evenings out",
+      "description": "Card spend growth reaches 15-month high in October, as shoppers budget for Christmas but still make room for evenings out Barclays Group",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNejZQWnN2NzJ1dVpZM3djVm1TZTVXbk1MMV8wNUdqWnpCZXduZWU1aGdhUEZWbU5NakJQcHctdDFtMFZTRnFyTXFYd0ZEOF9EczZyUmNWX18tT3FfNGp1cmR1ak8yakhTNzc4TkZVZEtlSkRtOVRrTGVaUlp2M1kzaml0eTFkaDRhVDJhNlpoRTNUOEloRDQ3dWlOeng5aHROWERRU0FHSUhZSWxmWUE1UXdyeG0wRGlx?oc=5",
+      "source": "Barclays Group",
       "region": "UK",
       "section": "retail",
-      "published": "2026-11-10T10:07:58+00:00"
-    },
-    {
-      "id": "4faa66aaba59af9b",
-      "title": "Oxford Street pedestrianisation delivers immediate boost to footfall and retail spending",
-      "description": "Oxford Street pedestrianisation delivers immediate boost to footfall and retail spending Public Sector Executive",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNk9xbjVwQkVCWGRYQnNDNDFZNUNXdlRiREZ4MjRIbDE1V0FzSlZVR3dpeUhNelhoMXZlUmNkX3VQSHl0TzM4blpWc1R2c2Z2ZlZlZzhJRVZ0V1V3NFBqd0k1RmptbEhSalNNVjRRSFAtUzFBbGxHZHJwTm1TU2N4akktMllCZkxPS3RXLURNXzJ3OWVJYmN3ckJON2NtQkQySUw5RGw2cWM1US10ckI0c0V6ZzU1Ni10TkhKSm9GM1dwaFhWNmpwUXN6SmM?oc=5",
-      "source": "Public Sector Executive",
-      "region": "UK",
-      "section": "retail",
-      "published": "2026-11-10T10:05:36+00:00"
+      "published": "2026-11-10T15:17:12+00:00"
     },
     {
       "id": "0c6fb5a4419746a8",
